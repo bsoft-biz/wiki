@@ -1,6 +1,6 @@
 # База знаний
 
-[Разработка](/razrabotka/README.md)
+[Разработка](razrabotka/)
 
 [Инструкции](https://bsoft.gitbook.io/wiki/instrukcii)
 
