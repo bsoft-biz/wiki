@@ -97,8 +97,6 @@
       * [Изменение настроек конфигуратора в форме Уны](razrabotka/konfigurator/nastroiki/izmenenie-nastroek-konfiguratora-v-forme-uny.md)
     * [Пользователи](razrabotka/konfigurator/polzovateli/README.md)
       * [Создание учетной записи пользователя](razrabotka/konfigurator/polzovateli/sozdanie-uchetnoi-zapisi-polzovatelya.md)
-      * [Смена пароля](razrabotka/konfigurator/polzovateli/smena-parolya.md)
-      * [Удаление учетной записи пользователя](razrabotka/konfigurator/polzovateli/udalenie-uchetnoi-zapisi-polzovatelya.md)
       * [Настройка ограничения доступа на изменение универсального справочника](razrabotka/konfigurator/polzovateli/nastroika-ogranicheniya-dostupa-na-izmenenie-universalnogo-spravochnika.md)
       * [Настройка ограничения доступа к проводкам](razrabotka/konfigurator/polzovateli/nastroika-ogranicheniya-dostupa-k-provodkam.md)
       * [Как скрыть пароль](razrabotka/konfigurator/polzovateli/kak-skryt-parol.md)
