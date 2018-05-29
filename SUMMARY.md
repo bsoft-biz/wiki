@@ -164,9 +164,6 @@
     * [Блокировки. Проблемы и ошибки блокировок](razrabotka/obekty-oracle/blokirovki.-problemy-i-oshibki-blokirovok/README.md)
       * [un$sld.make ORA-14450](razrabotka/obekty-oracle/blokirovki.-problemy-i-oshibki-blokirovok/unusdsld.make-ora-14450.md)
   * [startup.ini](razrabotka/startup.ini.md)
-  * [Баги](razrabotka/bagi.md)
-  * [Новости](razrabotka/novosti.md)
-  * [History](razrabotka/history.md)
   * [Глобальные настройки](razrabotka/globalnye-nastroiki.md)
 * [Инструкции](instrukcii/README.md)
   * HelpGeneral
