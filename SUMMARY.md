@@ -259,4 +259,5 @@
   * [Конфигурация нового терминальника.](administrirovanie/konfiguraciya-novogo-terminalnika..md)
   * [Глобальные проблемы и ошибки ORACLE](administrirovanie/globalnye-problemy-i-oshibki-oracle/README.md)
     * [ORA-01591: блокировка](administrirovanie/globalnye-problemy-i-oshibki-oracle/ora-01591-blokirovka.md)
+* [Тест таблиц](test-tablic.md)
 
