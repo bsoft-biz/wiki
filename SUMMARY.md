@@ -147,7 +147,6 @@
       * [calling-shell-commands-from-plsql](razrabotka/obekty-oracle/pakety-java/calling-shell-commands-from-plsql.md)
     * [Некорректные остатки](razrabotka/obekty-oracle/nekorrektnye-ostatki.md)
     * [Вьюхи и запросы](razrabotka/obekty-oracle/vyukhi-i-zaprosy/README.md)
-      * [Пароли пользователей UNA](razrabotka/obekty-oracle/vyukhi-i-zaprosy/paroli-polzovatelei-una.md)
       * [Контексты сессии](razrabotka/obekty-oracle/vyukhi-i-zaprosy/konteksty-sessii.md)
       * [Сравнение настроек и контекстов](razrabotka/obekty-oracle/vyukhi-i-zaprosy/sravnenie-nastroek-i-kontekstov.md)
       * [Поиск недостающих индексов](razrabotka/obekty-oracle/vyukhi-i-zaprosy/poisk-nedostayushikh-indeksov.md)
