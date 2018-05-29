@@ -123,7 +123,6 @@
     * [Остатки \(F8\)](razrabotka/obekty-una/ostatki-f8.md)
     * [Горячие клавиши](razrabotka/obekty-una/goryachie-klavishi.md)
   * [Объекты ORACLE](razrabotka/obekty-oracle/README.md)
-    * [Регламент](razrabotka/obekty-oracle/reglament.md)
     * [Структура Базы Данных](razrabotka/obekty-oracle/struktura-bazy-dannykh.md)
     * [Модули](razrabotka/obekty-oracle/moduli/README.md)
       * [Модуль оператор пассажирских перевозок](razrabotka/obekty-oracle/moduli/modul-operator-passazhirskikh-perevozok.md)
