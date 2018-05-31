@@ -248,7 +248,7 @@
   * [Экспорт и импорт данных из toad](administrirovanie/eksport-i-import-dannykh-iz-toad/README.md)
     * [Экспорт данных](administrirovanie/eksport-i-import-dannykh-iz-toad/eksport-dannykh.md)
     * [Импорт данных](administrirovanie/eksport-i-import-dannykh-iz-toad/import-dannykh.md)
-    * Экспорт/Импорт Utiliti Wizard
+    * [Экспорт/Импорт Utiliti Wizard](https://frenda.wordpress.com/2013/01/05/importing-oracle-dmp-file-using-cmd/)
   * Утилиты и опции в toad
   * [Поиск кто заблокировал документ](administrirovanie/poisk-kto-zablokiroval-dokument.md)
   * [Почта](administrirovanie/pochta.md)
