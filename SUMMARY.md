@@ -116,6 +116,7 @@
       * [Настройка SagiEditQuery](razrabotka/obekty-una/gridy/nastroika-sagieditquery.md)
     * [Панель](razrabotka/obekty-una/panel/README.md)
       * [Кнопка](razrabotka/obekty-una/panel/knopka.md)
+      * [Создание нижней панели](razrabotka/obekty-una/panel/sozdanie-nizhnei-paneli.md)
     * [Печатные формы](razrabotka/obekty-una/pechatnye-formy/README.md)
       * [Вывод штрих-кодов в печатной форме](razrabotka/obekty-una/pechatnye-formy/vyvod-shtrikh-kodov-v-pechatnoi-forme.md)
     * [Фильтры по филиалам](razrabotka/obekty-una/filtry-po-filialam.md)
