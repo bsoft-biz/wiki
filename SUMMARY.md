@@ -75,6 +75,7 @@
         * [Настройка прав](razrabotka/konfigurator/spravochniki/univers/nastroika-prav.md)
         * [Справочник с фото](razrabotka/konfigurator/spravochniki/univers/spravochnik-s-foto/README.md)
           * [Обработка изображений](razrabotka/konfigurator/spravochniki/univers/spravochnik-s-foto/obrabotka-izobrazhenii.md)
+        * [Настройка справочника Univers](razrabotka/konfigurator/spravochniki/univers/nastroika-spravochnika-univers.md)
       * [SysS](razrabotka/konfigurator/spravochniki/syss/README.md)
         * [Через контексты](razrabotka/konfigurator/spravochniki/syss/cherez-konteksty.md)
         * [Через временную таблицу \(tms\_syss\_unlock\)](razrabotka/konfigurator/spravochniki/syss/cherez-vremennuyu-tablicu-tms_syss_unlock.md)
