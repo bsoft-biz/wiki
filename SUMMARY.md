@@ -246,7 +246,7 @@
   * [Настройка ОС Windows](administrirovanie/nastroika-os-windows.md)
   * [Настройка модемов](administrirovanie/nastroika-modemov.md)
   * [Экспорт и импорт данных из toad](administrirovanie/eksport-i-import-dannykh-iz-toad/README.md)
-    * Экспорт данных
+    * [Экспорт данных](administrirovanie/eksport-i-import-dannykh-iz-toad/eksport-dannykh.md)
     * Импорт данных
     * Экспорт/Импорт Utiliti Wizard
   * Утилиты и опции в toad
