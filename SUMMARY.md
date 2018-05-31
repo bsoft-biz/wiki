@@ -112,6 +112,7 @@
       * [Display Format Edit mask](razrabotka/obekty-una/gridy/display-format-edit-mask.md)
       * [Настройка документа для ввода данных сканером штрих-кодов](razrabotka/obekty-una/gridy/nastroika-dokumenta-dlya-vvoda-dannykh-skanerom-shtrikh-kodov.md)
       * [Настройка SagiProperties](razrabotka/obekty-una/gridy/nastroika-sagiproperties.md)
+      * [Настройка SagiEditQuery](razrabotka/obekty-una/gridy/nastroika-sagieditquery.md)
     * [Панель](razrabotka/obekty-una/panel/README.md)
       * [Кнопка](razrabotka/obekty-una/panel/knopka.md)
     * [Печатные формы](razrabotka/obekty-una/pechatnye-formy/README.md)
