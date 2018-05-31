@@ -247,7 +247,7 @@
   * [Настройка модемов](administrirovanie/nastroika-modemov.md)
   * [Экспорт и импорт данных из toad](administrirovanie/eksport-i-import-dannykh-iz-toad/README.md)
     * [Экспорт данных](administrirovanie/eksport-i-import-dannykh-iz-toad/eksport-dannykh.md)
-    * Импорт данных
+    * [Импорт данных](administrirovanie/eksport-i-import-dannykh-iz-toad/import-dannykh.md)
     * Экспорт/Импорт Utiliti Wizard
   * Утилиты и опции в toad
   * [Поиск кто заблокировал документ](administrirovanie/poisk-kto-zablokiroval-dokument.md)
