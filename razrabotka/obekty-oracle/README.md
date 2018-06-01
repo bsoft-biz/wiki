@@ -1,67 +1,62 @@
 # Объекты ORACLE
 
-  
-Регламент стандарт оформления кода code coneventions- из ризомы
-
-Структура Базы Данных \( примерно как в конфигуратор + файл по лекциям гаврилюка\)
+[Структура Базы Данных](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/struktura-bazy-dannykh) 
 
 стандартные объекты оракл
 
-Модули
+[Модули](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/moduli)
 
-Пакеты
+[Пакеты](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/pakety)
 
-Стандартные пакеты
+[Стандартные пакеты](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/standartnye-pakety)
 
-Параметры и макросы SQL-запросов и анонимных PL/SQL-блоков
+[Параметры и макросы SQL-запросов и анонимных PL/SQL-блоков](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/parametry-i-makrosy-sql-zaprosov)
 
-Остатки
+[Остатки](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/ostatki)
 
-Логирование \(log\)
+[Логирование \(log\)](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/logirovanie)
 
-Импорт CSV файла \(pkg\_docs\_util.clob\_to\_table\)
+[Импорт CSV файла \(pkg\_docs\_util.clob\_to\_table\)](https://bsoft.gitbook.io/wiki/razrabotka/obekty-%20%20oracle/import-csv-faila)
 
-Экспорт в DBF файл\(un$ora2dbf.make\_dbf\)
+[Экспорт в DBF файл\(un$ora2dbf.make\_dbf\)](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/eksport-%20%20v-dbf-fail)
 
-Импорт из DBF 
+[Импорт из DBF ](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/import-iz-dbf)
 
-Загрузка курсов валют - exchange rates \(Valutaloader\)
+[Загрузка курсов валют - exchange rates \(Valutaloader\)](https://bsoft.gitbook.io/wiki/razrabotka/obekty-%20%20oracle/zagruzka-kursov-valyut)
 
-Пакеты JAVA
+[Пакеты JAVA](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/pakety-java)
 
-VMDB\_CMI, TMDB\_CM, Некорректные остатки.
+VMDB\_CMI, TMDB\_CM, [Некорректные остатки](https://bsoft.gitbook.io/wiki/razrabotka/obekty-%20%20oracle/nekorrektnye-ostatki).
 
-Вьюхи и запросы
+[Вьюхи и запросы](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/vyukhi-i-zaprosy)
 
-Функции работы с датой и временем
+[Функции работы с датой и временем](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/funkcii-%20%20raboty-s-datoi-i-vremenem)
 
-Проводки
+[Проводки](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/provodki)
 
-функция UN$SLD.MAKE
+[функция UN$SLD.MAKE](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/funkciya-unusdsld.make)
 
-Процедура set\_conts\_list
+[Процедура set\_conts\_list](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/procedura-set_conts_list)
 
-Тип данных DATE \(DATETIME\)
+[Тип данных DATE \(DATETIME\)](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/tip-dannykh-date-%20%20datetime)
 
-Скрипты для выполнения на THK@ORCL
+[Весовая](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/vesovaya)
 
-Весовая
+[Запрос, который генерирует скрипт для создания недостающих индексов](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/zapros)
 
-Запрос ДимыК который генерирует скрипт для создания недостающих индексов
+[Поиск в поле типа clob](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/poisk-v-pole-tipa-clob)
 
-Поиск в поле типа clob
+[Materialized view](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/materialized-view)
 
-Materialized view
+[OTRS](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/otrs)
 
-OTRS
+[SQL; BD](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/sql-bd)
 
-SQL; BD
+[Перенос заявок](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/perenos-zayavok)
 
-Перенос заявок
+[Работа с JSON в Oracle 12c](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/rabota-s-json-v-%20%20oracle-12c)
 
-Работа с JSON в Oracle 12c
+[Работа с XML](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle/rabota-s-xml)
 
-Работа с XML
-
-Блокировки. Проблемы и ошибки блокировок.
+[Блокировки. Проблемы и ошибки блокировок.](https://bsoft.gitbook.io/wiki/razrabotka/obekty-%20%20oracle/blokirovki.-problemy-i-oshibki-blokirovok)
 
