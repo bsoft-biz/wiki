@@ -12,7 +12,7 @@
 
 [Настройки ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/nastroiki)- Settings
 
-Пользователи - Users
+[Пользователи ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/polzovateli)- Users
 
 Поскольку свойства конфигуратора серьезно влияют на поведение программы, существует механизм логирования настроек конфигуратора.
 
