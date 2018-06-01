@@ -33,7 +33,7 @@
 | Tab1DetailHeight |  Integer | Аналогично свойству DetailHeight \(префикс от Tab1 до Tab9\) | -100 |
 | Tab1Splitter |  Boolean | Аналогично свойству Tab0Splitter \(префикс от Tab1 до Tab9\) | true |
 |   |   |  Свойства Params: |   |
-|   |   | Вызов карточки из документа, в дизайне шапки документа добавляется кнопка, в свойстве Params прописываем: |   |
+|   |   | Вызов карточки из документа, в дизайне шапки документа добавляется кнопка, в свойстве [Params ](https://bsoft.gitbook.io/wiki/razrabotka/obekty-una/panel/knopka)прописываем: |   |
 | TargetType |  String | Карточка | cartela |
 | TargetSection |  String | Имя карточки  \(так же имя карточки может быть поле, см. пример №1\) | ATTR\_COMMIS |
 | nrdoc |  String | В карточку передается поле nrdoc  | \_nrdoc |
