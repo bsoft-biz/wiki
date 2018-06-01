@@ -8,7 +8,7 @@
 
 [startup.ini](https://bsoft.gitbook.io/wiki/razrabotka)
 
-Глобальные настройки
+[Глобальные настройки](https://bsoft.gitbook.io/wiki/razrabotka)
 
 
 
