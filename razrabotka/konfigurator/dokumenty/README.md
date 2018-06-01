@@ -47,7 +47,7 @@
 
 У узла **Документы** могут быть подузлы:
 
-Действия \(action\)
+[Действия \(action\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/deistviya-action)
 
 Печатные формы \(PrintForms\)
 
