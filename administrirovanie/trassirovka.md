@@ -38,7 +38,7 @@ select value from v$parameter where name='user_dump_dest'
 
 - Трэйс должен содержать строку вида:
 
-\*\*\* SESSION IDemoticon\_unhappysid.serial\#\)  &lt;дата и время&gt;
+\*\*\* SESSION ID:\(sid.serial\#\)  &lt;дата и время&gt;
 
 где sid и serial\# - из первого пункта
 
