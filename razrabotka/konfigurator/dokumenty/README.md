@@ -49,7 +49,7 @@
 
 [Действия \(action\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/deistviya-action)
 
-Печатные формы \(PrintForms\)
+[Печатные формы \(PrintForms\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/pechatnye-formy-printforms)
 
 Объекта типа Totals
 
