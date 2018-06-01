@@ -34,7 +34,7 @@
 
 [Настройка базы](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-bazy)
 
-[Конфигурация нового терминальника. ](https://bsoft.gitbook.io/wiki/administrirovanie/konfiguraciya-novogo-terminalnika)\(Основное ПО и настройки\)
+[Конфигурация нового терминальника. ](https://bsoft.gitbook.io/wiki/administrirovanie/konfiguraciya-novogo-terminalnika.)\(Основное ПО и настройки\)
 
 [Глобальные проблемы и ошибки ORACLE](https://bsoft.gitbook.io/wiki/administrirovanie/globalnye-problemy-%20%20i-oshibki-oracle)
 
