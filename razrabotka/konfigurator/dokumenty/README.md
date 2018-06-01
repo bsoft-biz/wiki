@@ -39,7 +39,7 @@
 
 Базовый тип документа идентифицируется значениями свойств DLL ID и DocName:
 
-[Свойства документа 201](https://bsoft.gitbook.io/wiki/~/edit/primary/svoistva-dokumenta-201) \(универсальный документ с одной таблицей и областью "шапки"\)
+[Свойства документа 201](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/svoistva-dokumenta-201) \(универсальный документ с одной таблицей и областью "шапки"\)
 
 [Свойства документа DG1p21](https://bsoft.gitbook.io/wiki/dokumenty) \(универсальный документ с тремя таблицами и областью "шапки"\)
 
