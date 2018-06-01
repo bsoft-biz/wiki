@@ -33,7 +33,7 @@
 | Tab1DetailHeight |  Integer | Аналогично свойству DetailHeight \(префикс от Tab1 до Tab9\) | -100 |
 | Tab1Splitter |  Boolean | Аналогично свойству Tab0Splitter \(префикс от Tab1 до Tab9\) | true |
 |   |   |  Свойства Params: |   |
-|   |   | Вызов карточки из документа, в дизайне шапки документа добавляется кнопка, в свойстве [Params](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%9A%D0%BD%D0%BE%D0%BF%D0%BA%D0%B0) прописываем: |   |
+|   |   | Вызов карточки из документа, в дизайне шапки документа добавляется кнопка, в свойстве Params прописываем: |   |
 | TargetType |  String | Карточка | cartela |
 | TargetSection |  String | Имя карточки  \(так же имя карточки может быть поле, см. пример №1\) | ATTR\_COMMIS |
 | nrdoc |  String | В карточку передается поле nrdoc  | \_nrdoc |
@@ -42,5 +42,5 @@
 
 ![](../../../../.gitbook/assets/cartela_01.png)
 
- [Cartela PHOTO \(карточка с фото\)](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/Cartela+PHOTO+%28%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B0+%D1%81+%D1%84%D0%BE%D1%82%D0%BE%29)
+ [Cartela PHOTO \(карточка с фото\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/nastroiki/cartela/cartela-photo)
 
