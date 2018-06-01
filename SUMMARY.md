@@ -266,5 +266,6 @@
   * [Глобальные проблемы и ошибки ORACLE](administrirovanie/globalnye-problemy-i-oshibki-oracle/README.md)
     * [ORA-01591: блокировка](administrirovanie/globalnye-problemy-i-oshibki-oracle/ora-01591-blokirovka.md)
     * [Ошибки при expdp и impdp в Oracle XE 10g](administrirovanie/globalnye-problemy-i-oshibki-oracle/oshibki-pri-expdp-i-impdp-v-oracle-xe-10g.md)
+  * [Инструкция по установке системы архивирования удаляемых документов](administrirovanie/instrukciya-po-ustanovke-sistemy-arkhivirovaniya-udalyaemykh-dokumentov.md)
 * [Тест таблиц](test-tablic.md)
 
