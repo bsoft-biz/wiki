@@ -51,7 +51,7 @@
 
 [Печатные формы \(PrintForms\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/pechatnye-formy-printforms)
 
-Объекта типа Totals
+[Объекты типа Totals](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/obekty-tipa-totals)
 
 Окно остатков \(201\)
 
