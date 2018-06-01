@@ -52,11 +52,11 @@ hk.block
 AND  hk.lmode != 0 
 AND  hk.lmode != 1 
 AND  wk.request  != 0 
-AND  wk.TYPE add = hk.TYPE 
-AND  wk.id1 add = hk.id1 
-AND  wk.id2 add = hk.id2 
-AND  hk.sid = bs.sidadd 
-AND  wk.sid = ws.sidadd
+AND  wk.TYPE (+) = hk.TYPE 
+AND  wk.id1 (+) = hk.id1 
+AND  wk.id2 (+) = hk.id2 
+AND  hk.sid = bs.sid (+)
+AND  wk.sid = ws.sid (+)
 ORDER BY 1
 ```
 
