@@ -1,5 +1,7 @@
 # Grants\(гранты\)
 
+## Grants \(гранты\) - dbms\_java.grant\_permission
+
 ```sql
 begin 
 dbms_java.grant_permission( 'Имя_схемы', 
