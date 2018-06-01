@@ -33,59 +33,59 @@
 
 **DLL ID = 8101**
 
-[FSal1p01](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%28FSal1p01%29) - универсальная форма
+[FSal1p01 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p01)- универсальная форма
 
-[FSal1p02](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA+%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2+%28FSal1p02%29) - справочник сотрудников
+[FSal1p02 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p02)- справочник сотрудников
 
-[FSal1p03](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%28FSal1p03%29) - просто форма
+[FSal1p03 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p03)- просто форма
 
-[FSal1p04](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/FSal1p04) - форма отображает таблицу VUN9COSTDEP
+[FSal1p04 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p04)- форма отображает таблицу VUN9COSTDEP
 
-[FSal1p05](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0+%28FSal1p05%29) - форма содержит действие и используется для работы с таблицей VTF\_PROCURA
+[FSal1p05 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p05)- форма содержит действие и используется для работы с таблицей VTF\_PROCURA
 
-[FSal1p06](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0+FSal1p06) - дублирование/удаление артикула 
+[FSal1p06 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p06)- дублирование/удаление артикула 
 
-[FSal1p07](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%9F%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B+%D0%B8%D1%81%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F+%D0%BF%D0%BE%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0+%28FSal1p07%29) - параметры исчисления подоходного налога
+[FSal1p07 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p07)- параметры исчисления подоходного налога
 
-[FSal1p08](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B5+%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8+%D0%BD%D0%B0%D0%B4%D0%B1%D0%B0%D0%B2%D0%BE%D0%BA+%D0%BF%D0%BE+%D0%B2%D1%8B%D1%81%D0%BB%D1%83%D0%B3%D0%B5+%D0%BB%D0%B5%D1%82+%28FSal1p08%29) - процентные ставки надбавок по выслуге лет
+[FSal1p08 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p08)- процентные ставки надбавок по выслуге лет
 
-[FSal1p09](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%A3%D1%87%D0%B5%D1%82+%D0%B1%D0%BB%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2+%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%BE%D0%B9+%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8+%28FSal1p09%29) - учет бланков строгой отчетности
+[FSal1p09 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p09)- учет бланков строгой отчетности
 
-[FSal1p010](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%B4%D0%BB%D1%8F+%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F+%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D1%85+%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B9+%28FSal1p010%29) - простая форма для выполнения предопределенных действий
+[FSal1p010 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p010)- простая форма для выполнения предопределенных действий
 
-[FSal1p011](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85+%D1%81%D0%BA%D0%B0%D0%BD%D0%B5%D1%80%D0%B0+%D1%88%D1%82%D1%80%D0%B8%D1%85-%D0%BA%D0%BE%D0%B4%D0%BE%D0%B2+%28FSal1p011%29) - импорт данных сканера штрих-кодов
+[FSal1p011 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p011)- импорт данных сканера штрих-кодов
 
-[FSal1p012](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB+%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0+%28%D0%BF%D0%BE+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC+%D1%81%D0%BA%D0%B0%D0%BD%D0%B5%D1%80%D0%B0+%D1%88%D1%82%D1%80%D0%B8%D1%85+%D0%BA%D0%BE%D0%B4%D0%BE%D0%B2%29+%28FSal1p012%29) - журнал производства \(по данным сканера штрих кодов\)
+[FSal1p012 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p012)- журнал производства \(по данным сканера штрих кодов\)
 
-[FSal1p013](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%28FSal1p03%29) - учет контрактов, пакетов и услуг по клиентам
+[FSal1p013 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p013)- учет контрактов, пакетов и услуг по клиентам
 
-[FSal1p014](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%9E%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B4%D1%83%D0%B1%D0%BB%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D1%85%D1%81%D1%8F+%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B9+%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0+%28FSal1p014%29) - объединение дублирующихся позиций справочника
+[FSal1p014 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p014)- объединение дублирующихся позиций справочника
 
 **DLL ID = 8000**
 
-[fCurs](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%92%D0%B0%D0%BB%D1%8E%D1%82%D0%BD%D1%8B%D0%B5+%D0%BA%D1%83%D1%80%D1%82%D1%8B+%28fCurs%29) - Валютные курсы
+[fCurs ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fcurs)- Валютные курсы
 
-[TehComplect](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82%D0%B0%D1%86%D0%B8%D1%8F) - Техническая комплектация
+[TehComplect ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/tehcomplect)- Техническая комплектация
 
 **DLL ID = 8200**
 
-[salariulSECOND](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5+%D0%BD%D0%B0%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F) - Дополнительные начисления и удержания
+[salariulSECOND ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/salariulsecond)- Дополнительные начисления и удержания
 
 **DLL ID = 0**
 
-[SysS](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA+SysS) - ссылка на справочник SysS
+[SysS ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/syss)- ссылка на справочник SysS
 
-[Univers](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA+Univers) - ссылка на справочник Univers
+[Univers ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/univers)- ссылка на справочник Univers
 
 Дочерние объекты формы такие же как и у документов:
 
- - [Action](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%94%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F+%28action%29)  \(выполнение определенных действий с данными при работе с соответствующей формой\)
+ - [Action  ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/deistviya-action)\(выполнение определенных действий с данными при работе с соответствующей формой\)
 
- - [Print form](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D0%BD%D1%8B%D0%B5+%D1%84%D0%BE%D1%80%D0%BC%D1%8B+%28PrintForms%29) \(служат для настройки печатных форм\)
+ - [Print form](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/pechatnye-formy-printforms) \(служат для настройки печатных форм\)
 
-[Модальные формы](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%9C%D0%BE%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5+%D1%84%D0%BE%D1%80%D0%BC%D1%8B) 
+[Модальные формы](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/modalnye-formy) 
 
-[UnFSal1Properties](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/UnFSal1Properties)
+[UnFSal1Properties](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/unfsal1properties)
 
-[Восстановить дизайн формы](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%92%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C+%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD+%D1%84%D0%BE%D1%80%D0%BC%D1%8B) \(после обновления конфигуратора\)
+[Восстановить дизайн формы](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/vosstanovit-%20%20dizain-formy) \(после обновления конфигуратора\)
 

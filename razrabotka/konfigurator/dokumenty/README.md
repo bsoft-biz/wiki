@@ -55,9 +55,9 @@
 
 [Окно остатков \(201\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/okno-ostatkov)
 
-Настройка документа
+[Настройка документа](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/nastroika-dokumenta)
 
-Основные средства 5104: Ввод в эксплуатацию
+[Основные средства 5104: Ввод в эксплуатацию](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/osnovnye-sredstva-5104-vvod-v-ekspluataciyu)
 
-Абстрактный документ
+[Абстрактный документ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/abstraktnyi-dokument)
 

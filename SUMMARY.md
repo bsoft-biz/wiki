@@ -68,6 +68,7 @@
       * [UnFSal1Properties](razrabotka/konfigurator/formy/unfsal1properties.md)
       * [Восстановить дизайн формы](razrabotka/konfigurator/formy/vosstanovit-dizain-formy.md)
     * [Справочники](razrabotka/konfigurator/spravochniki/README.md)
+      * [Справочник](razrabotka/konfigurator/spravochniki/spravochnik.md)
       * [Настройка выпадающих справочников](razrabotka/konfigurator/spravochniki/nastroika-vypadayushikh-spravochnikov.md)
       * [Univers](razrabotka/konfigurator/spravochniki/univers/README.md)
         * [Настройка UnivList](razrabotka/konfigurator/spravochniki/univers/nastroika-univlist/README.md)

@@ -29,47 +29,47 @@ Raport manager\] приложения Universal Accounting. Иерархия д�
 
 **Некоторые отчеты поддерживают специфические свойства:**
 
-Свойства Универсального отчета
+[Свойства Универсального отчета](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/svoistva-universalnogo-otcheta)
 
-Свойства нового универсального отчета
+[Свойства нового универсального отчета](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/svoistva-novogo-universalnogo-otcheta)
 
-Свойства отчета с произвольными параметрами
+[Свойства отчета с произвольными параметрами](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/svoistva-otcheta-s-proizvolnymi-%20%20parametrami)
 
-Свойства сводной таблицы F1Reports
+[Свойства сводной таблицы F1Reports](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/svoistva-svodnoi-tablicy-f1reports)
 
-TXT-свойства
+[TXT-свойства](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/txt-svoistva)
 
 **Типы печатных форм:**
 
-Отчет типа Formula One
+[Отчет типа Formula One](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/otchet-tipa-%20%20formula-one)
 
-Отчет типа ExcelGL2
+[Отчет типа ExcelGL2](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/otchet-tipa-excelgl2)
 
-Отчет типа FastReport
+[Отчет типа FastReport](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/otchet-tipa-%20%20fastreport)
 
-Отчет типа FastReport4
+[Отчет типа FastReport4](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/otchet-tipa-%20%20fastreport4)
 
-Пример создания пивот отчета в РСЕ 
+[Пример создания пивот отчета в РСЕ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/primer-sozdaniya-pivot-otcheta-v-rse) 
 
-Опции отчетов в конфигураторе
+[Опции отчетов в конфигураторе](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/opcii-%20%20otchetov-v-konfiguratore)
 
-Шаблоны Formula One
+[Шаблоны Formula One](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/shablony-formula-one)
 
-Создание шаблона Fast Report с нуля.
+[Создание шаблона Fast Report с нуля.](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/sozdanie-shablona-fast-report)
 
-Финансовые отчеты
+[Финансовые отчеты](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/finansovye-otchety)
 
-Отчеты \(общее\)
+[Отчеты \(общее\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/otchety-obshee)
 
-Универсальный отчет \(RSE\)
+[Универсальный отчет \(RSE\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/universalnyi-%20%20otchet-rse)
 
-Оформление текстового материала \(ОТЧЕТ\)
+[Оформление текстового материала \(ОТЧЕТ\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/oformlenie-tekstovogo-materiala-otchet)
 
-Универсальный отчет \(УО\)
+[Универсальный отчет \(УО\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/universalnyi-%20%20otchet-uo)
 
-Настройка отчета
+[Настройка отчета](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/nastroika-otcheta)
 
-Конвертировать frf в fr3
+[Конвертировать frf в fr3](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/konvertirovat-%20%20frf-v-fr3)
 
-Вычисление итогов для грида
+[Вычисление итогов для грида](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/vychislenie-%20%20itogov-dlya-grida)
 
