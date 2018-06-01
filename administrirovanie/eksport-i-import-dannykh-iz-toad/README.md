@@ -1,6 +1,6 @@
 # Экспорт и импорт данных из toad
 
-[Экспорт данных \(Export Utility Wizard\)](https://bsoft.gitbook.io/wiki/administrirovanie/eksport-i-import-dannykh-iz-toad)
+[Экспорт данных \(Export Utility Wizard\)](https://bsoft.gitbook.io/wiki/administrirovanie/eksport-i-import-dannykh-iz-toad/eksport-dannykh)
 
 [Импорт данных \(Import Utility Wizard\)](https://bsoft.gitbook.io/wiki/administrirovanie/eksport-i-import-dannykh-iz-toad/import-dannykh)
 
