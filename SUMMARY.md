@@ -255,7 +255,7 @@
   * [Поиск кто заблокировал документ](administrirovanie/poisk-kto-zablokiroval-dokument.md)
   * [Почта](administrirovanie/pochta.md)
   * [Инструкция по выполнению апгрейда базы данных](administrirovanie/instrukciya-po-vypolneniyu-apgreida-bazy-dannykh.md)
-  * AdministratorAnna
+  * [AdministratorAnna](administrirovanie/administratoranna.md)
   * [Загрузка данных в документ из файла Excel или DBF](administrirovanie/zagruzka-dannykh-v-dokument-iz-faila-excel-ili-dbf.md)
   * [apache](administrirovanie/apache.md)
   * [Трассировка](administrirovanie/trassirovka.md)
