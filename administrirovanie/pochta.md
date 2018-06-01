@@ -11,7 +11,7 @@ accept = 465
 connect = smtp.gmail.com:465
 ```
 
-файл службы /etc/init.d/stunnel
+файл службы /etc/init.d/[stunnel](https://yadi.sk/i/lvB2f17G3WnsAj)
 
 Так же для отправки почты необходимо настроить права ACL.
 
