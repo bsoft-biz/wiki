@@ -1,16 +1,16 @@
 # Конфигуратор
 
-[Документы](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator) - Documents
+[Документы ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty)- Documents
 
-Журналы - Journals
+[Журналы ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/zhurnaly)- Journals
 
-Отчеты - Reports
+[Отчеты ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety)- Reports
 
-Формы - Forms
+[Формы ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy)- Forms
 
-Справочники - Univ lists
+[Справочники ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/spravochniki)- Univ lists
 
-Настройки - Settings
+[Настройки ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/nastroiki)- Settings
 
 Пользователи - Users
 
