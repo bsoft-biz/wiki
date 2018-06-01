@@ -53,7 +53,7 @@
 
 [Объекты типа Totals](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/obekty-tipa-totals)
 
-Окно остатков \(201\)
+[Окно остатков \(201\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/okno-ostatkov)
 
 Настройка документа
 
