@@ -41,9 +41,9 @@
 
 [Свойства документа 201](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/svoistva-dokumenta-201) \(универсальный документ с одной таблицей и областью "шапки"\)
 
-[Свойства документа DG1p21](https://bsoft.gitbook.io/wiki/dokumenty) \(универсальный документ с тремя таблицами и областью "шапки"\)
+[Свойства документа DG1p21](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/svoistva-dokumenta-dg1p21) \(универсальный документ с тремя таблицами и областью "шапки"\)
 
-[Свойства документов CST1 и CST2](https://bsoft.gitbook.io/wiki/dokumenty/svoistva-dokumentov-cst1-i-cst2) \(универсальный документ с двумя таблицами / двумя таблицами и областью "шапки"\)
+[Свойства документов CST1 и CST2](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/svoistva-dokumentov-cst1-i-cst2) \(универсальный документ с двумя таблицами / двумя таблицами и областью "шапки"\)
 
 У узла **Документы** могут быть подузлы:
 
