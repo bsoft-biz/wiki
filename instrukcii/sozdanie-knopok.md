@@ -83,7 +83,7 @@ MainTA=1
 
  и нажимаем
 
-![](../.gitbook/assets/ok%20%2810%29.png)
+![](../.gitbook/assets/ok%20%2812%29.png)
 
  При нажатии на кнопку
 
@@ -134,7 +134,7 @@ TargetSection=CURS
 
  и нажимаем
 
-![](../.gitbook/assets/ok%20%288%29.png)
+![](../.gitbook/assets/ok%20%2810%29.png)
 
 _Подсказка:_
 
