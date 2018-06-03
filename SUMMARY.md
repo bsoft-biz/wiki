@@ -224,4 +224,5 @@
   * [Создание отчета](instrukcii/sozdanie-otcheta.md)
   * [Создание кнопок](instrukcii/sozdanie-knopok.md)
   * [Нумерация документов](instrukcii/numeraciya-dokumentov.md)
+  * Создание форм
 
