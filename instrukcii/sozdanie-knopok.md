@@ -79,7 +79,7 @@ MainTA=1
 
 Сохраняем изменения с помощью галочки
 
-![](../.gitbook/assets/save-on-exit%20%282%29.png)
+![](../.gitbook/assets/save-on-exit%20%284%29.png)
 
  и нажимаем
 
@@ -130,7 +130,7 @@ TargetSection=CURS
 
  для завершения редактирования. Сохраняем изменения с помощью галочки
 
-![](../.gitbook/assets/save-on-exit.png)
+![](../.gitbook/assets/save-on-exit%20%281%29.png)
 
  и нажимаем
 
@@ -140,7 +140,7 @@ _Подсказка:_
 
 В конфигураторе при выделенной форме нажав кнопку
 
-![](../.gitbook/assets/node-properties%20%282%29.png)
+![](../.gitbook/assets/node-properties%20%283%29.png)
 
  в свойстве
 
@@ -195,7 +195,7 @@ action_id=1
 
  для завершения редактирования. Сохраняем изменения с помощью галочки
 
-![](../.gitbook/assets/save-on-exit%20%281%29.png)
+![](../.gitbook/assets/save-on-exit%20%282%29.png)
 
  и нажимаем
 
@@ -258,7 +258,7 @@ TargetSection=2:0:ABSTRACT PRINT DOCUMENT (D):1:0:0:8
 
  для завершения редактирования. Сохраняем изменения с помощью галочки
 
-![](../.gitbook/assets/save-on-exit%20%283%29.png)
+![](../.gitbook/assets/save-on-exit%20%285%29.png)
 
  и нажимаем
 
@@ -325,7 +325,7 @@ TargetSection=1:0:RG113
 
  для завершения редактирования. Сохраняем изменения с помощью галочки 
 
-![](../.gitbook/assets/save-on-exit%20%284%29.png)
+![](../.gitbook/assets/save-on-exit%20%286%29.png)
 
  и нажимаем
 
@@ -333,7 +333,7 @@ TargetSection=1:0:RG113
 
  Имя секции отчёта можно посмотреть нажав в конфигураторе при выделенной печатной форме
 
-![](../.gitbook/assets/node-properties%20%281%29.png)
+![](../.gitbook/assets/node-properties%20%282%29.png)
 
  и в открывшемся окне напротив
 
