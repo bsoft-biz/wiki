@@ -12,7 +12,7 @@
 
  Выйдет сообщение о завершении экспорта одного узла. Нажимаем
 
-![](../.gitbook/assets/ok%20%283%29.png)
+![](../.gitbook/assets/ok%20%286%29.png)
 
 ![](../.gitbook/assets/11.png)
 
@@ -28,7 +28,7 @@
 
  Получаем сообщение о завершении импорта одного узла. Нажимаем
 
-![](../.gitbook/assets/ok%20%287%29.png)
+![](../.gitbook/assets/ok%20%2812%29.png)
 
 ![](../.gitbook/assets/13.png)
 
@@ -40,7 +40,7 @@
 
  В открывшемся окне переименовываем название отчета \(Тестовый отчет\) и _Section \(RPT\_BS\_BOOK\_TEST\),_ \(по желанию можно задать перевод на английском и румынском\) и нажимаем
 
-![](../.gitbook/assets/ok%20%285%29.png)
+![](../.gitbook/assets/ok%20%289%29.png)
 
 ![](../.gitbook/assets/15.png)
 
@@ -50,7 +50,7 @@
 
  указываем имя шаблона \(bs\_book\_rep\_test.vts\), который мы скопировали и нажимаем
 
-![](../.gitbook/assets/ok%20%281%29.png)
+![](../.gitbook/assets/ok%20%283%29.png)
 
 ![](../.gitbook/assets/16.png)
 
@@ -102,7 +102,7 @@
 
  записываем название только что созданного пакета _pkg\_bs\_book\_reps_ и через точку название процедуры _test_. После чего нажимаем
 
-![](../.gitbook/assets/ok%20%284%29.png)
+![](../.gitbook/assets/ok%20%287%29.png)
 
 ![](../.gitbook/assets/20.png)
 
@@ -122,7 +122,7 @@
 
  После чего получаем сообщение об успешном обновлении настроек. Нажимаем
 
-![](../.gitbook/assets/ok%20%286%29.png)
+![](../.gitbook/assets/ok%20%2811%29.png)
 
 ![](../.gitbook/assets/23.png)
 
@@ -168,13 +168,13 @@
 
  В появившемся окне нажимаем
 
-![](../.gitbook/assets/ok.png)
+![](../.gitbook/assets/ok%20%282%29.png)
 
 ![](../.gitbook/assets/31.png)
 
  Нажав на 
 
-![](../.gitbook/assets/mnogotochie%20%281%29.png)
+![](../.gitbook/assets/mnogotochie%20%286%29.png)
 
  выпадает справочник с автомобилями.
 

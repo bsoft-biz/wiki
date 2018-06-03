@@ -222,5 +222,5 @@
   * [Создание документа](instrukcii/sozdanie-dokumenta.md)
   * [Создание и настройка нового журнала](instrukcii/sozdanie-i-nastroika-novogo-zhurnala.md)
   * [Создание отчета](instrukcii/sozdanie-otcheta.md)
-  * Создание кнопок
+  * [Создание кнопок](instrukcii/sozdanie-knopok.md)
 
