@@ -169,56 +169,6 @@
       * [un$sld.make ORA-14450](razrabotka/obekty-oracle/blokirovki.-problemy-i-oshibki-blokirovok/unusdsld.make-ora-14450.md)
   * [startup.ini](razrabotka/startup.ini.md)
   * [Глобальные настройки](razrabotka/globalnye-nastroiki.md)
-* [Инструкции](instrukcii/README.md)
-  * HelpGeneral
-  * HelpUniversalAccountingSLAnna
-  * admin-w
-  * unCompare
-  * help\_salariu\_GCC\_rus
-  * rep2-0
-  * Основы PL/SQL
-  * Различные способы получения SID базы данных в СУБД Oracle
-  * Банк
-    * Документ "Выписка банка"
-  * Касса
-  * Заработная плата
-    * Правила определения расчетного периода
-  * График работы
-  * Отправка данных в Пенс Фонд
-  * Основные средства
-  * Налог на доходы
-  * Интеграция интернет магазина с UNA
-  * Инструкция товары
-  * Инструкция торговли
-  * Инструкция по производству
-  * Работа с тарой на ауромексе
-  * Gara
-    * Добавление нового водителя
-    * Добавление нового номера автобуса
-    * Добавление нового перевозчика
-    * Создание нового тарифа
-  * Товарный отчет
-  * Сведения о реализации акцизной продукции
-  * Справочник и поля \(тхк\) для торговли
-  * Справочник P OSN
-  * Инструкция по фокусам
-  * Инициализация остатков в новой базе
-  * Инструкция по созданию новой схемы
-  * Работа с наборами данных UnivSet
-  * Импорт товаров из-за рубежа с распределением
-  * Создание документа
-  * Создание и настройка нового журнала
-  * Создание отчета
-  * Создание отчёта с произвольными параметрами
-  * Создание документа с 3-мя гридами
-  * Создание кнопок
-  * Нумерация документов
-  * Инструкция по прыжкам
-  * Работа с учетными записями пользователя
-  * Создание форм
-  * Создание справочника
-  * Виды JOIN и их синтаксис в Oracle
-  * Разница между Connection - Session - PROCESS
 * [Администрирование](administrirovanie/README.md)
   * [Установка Toad](administrirovanie/ustanovka-toad.md)
   * [Архивирование \(Backup\) удаленных документов](administrirovanie/arkhivirovanie-backup-udalennykh-dokumentov.md)
@@ -268,4 +218,6 @@
     * [Ошибки при expdp и impdp в Oracle XE 10g](administrirovanie/globalnye-problemy-i-oshibki-oracle/oshibki-pri-expdp-i-impdp-v-oracle-xe-10g.md)
   * [Инструкция по установке системы архивирования удаляемых документов](administrirovanie/instrukciya-po-ustanovke-sistemy-arkhivirovaniya-udalyaemykh-dokumentov.md)
   * [Скрипт для экспорта схем через data pump](administrirovanie/untitled.md)
+* Инструкции
+  * Создание документа
 
