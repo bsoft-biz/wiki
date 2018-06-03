@@ -224,5 +224,6 @@
   * [Создание отчета](instrukcii/sozdanie-otcheta.md)
   * [Создание кнопок](instrukcii/sozdanie-knopok.md)
   * [Нумерация документов](instrukcii/numeraciya-dokumentov.md)
-  * [Создание форм](instrukcii/sozdanie-form.md)
+  * [Создание форм](instrukcii/sozdanie-form/README.md)
+    * Создание формы отображающей справочник Univers
 
