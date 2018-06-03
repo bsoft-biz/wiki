@@ -8,7 +8,7 @@
 
 ![](../.gitbook/assets/menu_form.jpg)
 
-О свойствах формы, можно почитать по[ ссылке](http://wiki.bsoft.biz/xwiki/bin/view/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%A4%D0%BE%D1%80%D0%BC%D1%8B).
+О свойствах формы, можно почитать по [ссылке](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy).
 
 Добавим к конфигураторе тестовый узел, в котором будем создавать формы.
 
