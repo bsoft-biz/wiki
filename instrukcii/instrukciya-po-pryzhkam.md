@@ -248,7 +248,7 @@ nrdoc=5645
 
  В программе нажимаем горячую клавишу F5 для обновления настроек. В появившемся окне нажимаем
 
-![](../.gitbook/assets/yes%20%283%29.png)
+![](../.gitbook/assets/yes%20%284%29.png)
 
 ![](../.gitbook/assets/f7.png)
 
@@ -431,7 +431,7 @@ TargetJournal=MATERIALE
 
  В программе нажимаем горячую клавишу F5 для обновления настроек. В появившемся окне нажимаем кнопку
 
-![](../.gitbook/assets/yes.png)
+![](../.gitbook/assets/yes%20%281%29.png)
 
 ![](../.gitbook/assets/confirm.png)
 
@@ -469,4 +469,56 @@ TargetType=doc.child
 ![](../.gitbook/assets/ok-design.png)
 
 ![](../.gitbook/assets/ch3.png)
+
+ Дважды кликнув на любой строке поля COD1 \(Код1\), выйдет окно о создании документа на основании. Нажимаем кнопку
+
+![](../.gitbook/assets/yes.png)
+
+![](../.gitbook/assets/ch4.png)
+
+ В следующем окне выбираем дату документа, после чего нажимаем кнопку
+
+![](../.gitbook/assets/ok-child-docs.png)
+
+![](../.gitbook/assets/ch5.png)
+
+ Переходим на вкладку
+
+![](../.gitbook/assets/zhurnal-operacii%20%281%29.png)
+
+  где находится уже созданный дочерний документ.
+
+![](../.gitbook/assets/ch6.png)
+
+ Можно добавить свойство
+
+![](../.gitbook/assets/createchildsilent%20%281%29.png)
+
+ в результате при создании дочернего документа не будет вопроса о создании документа на основании. Сохраняем изменения в текущей транзакции с помощью галочки
+
+![](../.gitbook/assets/commit%20%284%29.png)
+
+![](../.gitbook/assets/ch7.png)
+
+ После обновления настроек, дважды кликнув на любой строке поля COD1 \(Код1\) выйдет сразу окно с настройкой даты документа \(окно о создании документа на основании игнорируется с помощью свойства
+
+![](../.gitbook/assets/createchildsilent.png)
+
+ Нажимаем кнопку
+
+![](../.gitbook/assets/ok-child-docs%20%281%29.png)
+
+![](../.gitbook/assets/ch8.png)
+
+ Переходим на вкладку
+
+![](../.gitbook/assets/zhurnal-operacii.png)
+
+ где находится уже созданный дочерний документ.
+
+![](../.gitbook/assets/ch9.png)
+
+###  **Прыжки из отчётов.**
+
+
 
