@@ -76,19 +76,19 @@
 
  Сохраняем изменения  с помощью
 
-![](../.gitbook/assets/commit%20%281%29.png)
+![](../.gitbook/assets/commit%20%283%29.png)
 
  \(Commit\). Для вступления изменений в силу в программе нажимаем горячую клавишу F5 для обновления настроек:
 
-![](../.gitbook/assets/confirm.png)
+![](../.gitbook/assets/confirm%20%281%29.png)
 
  В открывшемся окне нажимаем
 
-![](../.gitbook/assets/yes.png)
+![](../.gitbook/assets/yes%20%281%29.png)
 
  Получаем сообщение об успешном обновлении настроек:
 
-![](../.gitbook/assets/uma.md.png)
+![](../.gitbook/assets/uma.md%20%281%29.png)
 
  После чего нажимаем
 
