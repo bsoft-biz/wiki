@@ -223,4 +223,5 @@
   * [Создание и настройка нового журнала](instrukcii/sozdanie-i-nastroika-novogo-zhurnala.md)
   * [Создание отчета](instrukcii/sozdanie-otcheta.md)
   * [Создание кнопок](instrukcii/sozdanie-knopok.md)
+  * Нумерация документов
 
