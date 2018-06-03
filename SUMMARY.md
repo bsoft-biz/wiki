@@ -226,4 +226,7 @@
   * [Нумерация документов](instrukcii/numeraciya-dokumentov.md)
   * [Создание форм](instrukcii/sozdanie-form/README.md)
     * [Создание формы отображающей справочник Univers](instrukcii/sozdanie-form/sozdanie-formy-otobrazhayushei-spravochnik-univers.md)
+    * [Создание формы справочника SysS](instrukcii/sozdanie-form/sozdanie-formy-spravochnika-syss.md)
+  * [Создание справочника](instrukcii/sozdanie-spravochnika.md)
+  * Инструкция по прыжкам
 

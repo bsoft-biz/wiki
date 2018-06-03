@@ -6,7 +6,7 @@
 
 Выбрать любой узел в группе UnivTip\_P, щелкаем по нему правой кнопкой мыши, в контекстном меню выбираем Data-&gt;Export-&gt;Node, далее щелкаем правой кнопкой мыши по UnivTip\_P  и в контекстном меню выбираем Data -&gt;Import-&gt;New SubNode.
 
-![](../../../../../.gitbook/assets/univlist_1.jpg)
+![](../../../../../.gitbook/assets/univlist_1%20%281%29.jpg)
 
 В новом узле задаем свойства:
 
@@ -30,5 +30,5 @@ Section: UNIVLIST : P : TRADE
 
  Чтобы справочник выпадал в UNA по Alt+D
 
-![](../../../../../.gitbook/assets/univlist_2.jpg)
+![](../../../../../.gitbook/assets/univlist_2%20%281%29.jpg)
 
