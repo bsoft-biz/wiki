@@ -220,4 +220,5 @@
   * [Скрипт для экспорта схем через data pump](administrirovanie/untitled.md)
 * Инструкции
   * [Создание документа](instrukcii/sozdanie-dokumenta.md)
+  * Создание и настройка нового журнала
 
