@@ -229,4 +229,5 @@
     * [Создание формы справочника SysS](instrukcii/sozdanie-form/sozdanie-formy-spravochnika-syss.md)
   * [Создание справочника](instrukcii/sozdanie-spravochnika.md)
   * [Инструкция по прыжкам](instrukcii/instrukciya-po-pryzhkam.md)
+  * Инструкция по созданию новой схемы
 
