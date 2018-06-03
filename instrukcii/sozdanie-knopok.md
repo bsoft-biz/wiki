@@ -83,7 +83,7 @@ MainTA=1
 
  и нажимаем
 
-![](../.gitbook/assets/ok%20%2812%29.png)
+![](../.gitbook/assets/ok%20%2813%29.png)
 
  При нажатии на кнопку
 
@@ -134,13 +134,13 @@ TargetSection=CURS
 
  и нажимаем
 
-![](../.gitbook/assets/ok%20%2810%29.png)
+![](../.gitbook/assets/ok%20%2811%29.png)
 
 _Подсказка:_
 
 В конфигураторе при выделенной форме нажав кнопку
 
-![](../.gitbook/assets/node-properties%20%285%29.png)
+![](../.gitbook/assets/node-properties%20%286%29.png)
 
  в свойстве
 
@@ -270,7 +270,7 @@ TargetSection=2:0:ABSTRACT PRINT DOCUMENT (D):1:0:0:8
 
  имя секции которой можно посмотреть нажав в конфигураторе при выделенной печатной форме
 
-![](../.gitbook/assets/node-properties.png)
+![](../.gitbook/assets/node-properties%20%281%29.png)
 
  и в открывшемся окне напротив
 
@@ -333,7 +333,7 @@ TargetSection=1:0:RG113
 
  Имя секции отчёта можно посмотреть нажав в конфигураторе при выделенной печатной форме
 
-![](../.gitbook/assets/node-properties%20%282%29.png)
+![](../.gitbook/assets/node-properties%20%283%29.png)
 
  и в открывшемся окне напротив
 

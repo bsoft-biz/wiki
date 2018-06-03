@@ -12,7 +12,7 @@
 
  Выйдет сообщение о завершении экспорта одного узла. Нажимаем
 
-![](../.gitbook/assets/ok%20%287%29.png)
+![](../.gitbook/assets/ok%20%288%29.png)
 
 ![](../.gitbook/assets/11.png)
 
@@ -28,7 +28,7 @@
 
  Получаем сообщение о завершении импорта одного узла. Нажимаем
 
-![](../.gitbook/assets/ok%20%2815%29.png)
+![](../.gitbook/assets/ok%20%2816%29.png)
 
 ![](../.gitbook/assets/13.png)
 
@@ -40,7 +40,7 @@
 
  В открывшемся окне переименовываем название отчета \(Тестовый отчет\) и _Section \(RPT\_BS\_BOOK\_TEST\),_ \(по желанию можно задать перевод на английском и румынском\) и нажимаем
 
-![](../.gitbook/assets/ok%20%2811%29.png)
+![](../.gitbook/assets/ok%20%2812%29.png)
 
 ![](../.gitbook/assets/15.png)
 
@@ -90,7 +90,7 @@
 
  Завершаем транзакцию с сохранением с помощью кнопки  **Commit**.
 
-![](../.gitbook/assets/commit%20%282%29.png)
+![](../.gitbook/assets/commit%20%283%29.png)
 
 ![](../.gitbook/assets/20-5.png)
 
@@ -102,7 +102,7 @@
 
  записываем название только что созданного пакета _pkg\_bs\_book\_reps_ и через точку название процедуры _test_. После чего нажимаем
 
-![](../.gitbook/assets/ok%20%288%29.png)
+![](../.gitbook/assets/ok%20%289%29.png)
 
 ![](../.gitbook/assets/20.png)
 
@@ -122,7 +122,7 @@
 
  После чего получаем сообщение об успешном обновлении настроек. Нажимаем
 
-![](../.gitbook/assets/ok%20%2813%29.png)
+![](../.gitbook/assets/ok%20%2814%29.png)
 
 ![](../.gitbook/assets/23.png)
 
@@ -162,7 +162,7 @@
 
  И сохраняем изменения с помощью кнопки
 
-![](../.gitbook/assets/save.png)
+![](../.gitbook/assets/save%20%281%29.png)
 
 ![](../.gitbook/assets/30.png)
 
@@ -182,7 +182,7 @@
 
  Выбираем например Икарус 280 и нажимаем
 
-![](../.gitbook/assets/postroit.png)
+![](../.gitbook/assets/postroit%20%281%29.png)
 
  \(или горячую клавишу F9\).
 
@@ -220,17 +220,17 @@
 
  Так же можно изменять внешний вид отчета. Для этого необходимо выделить нужные поля и нажав левой кнопкой мыши в меню выбрать
 
-![](../.gitbook/assets/format-cells.png)
+![](../.gitbook/assets/format-cells%20%281%29.png)
 
 ![](../.gitbook/assets/40.png)
 
  Перейдя на вкладку
 
-![](../.gitbook/assets/patterns.png)
+![](../.gitbook/assets/patterns%20%281%29.png)
 
  можно выбрать цвет окна ниже 
 
-![](../.gitbook/assets/fil-color.png)
+![](../.gitbook/assets/fil-color%20%281%29.png)
 
  Выберем например цвет
 
@@ -238,7 +238,7 @@
 
  ниже
 
-![](../.gitbook/assets/fil-pattern.png)
+![](../.gitbook/assets/fil-pattern%20%281%29.png)
 
  выбираем цвет
 

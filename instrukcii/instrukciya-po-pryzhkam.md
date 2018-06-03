@@ -186,11 +186,11 @@ TargetSection=1:0:RG113
 
  Имя секции можно посмотреть в конфигураторе, нажав кнопку
 
-![](../.gitbook/assets/node-properties%20%281%29.png)
+![](../.gitbook/assets/node-properties%20%282%29.png)
 
  Имя секции для данного отчёта
 
-![](../.gitbook/assets/rg113.png)
+![](../.gitbook/assets/rg113%20%281%29.png)
 
 ![](../.gitbook/assets/d18.png)
 
@@ -198,7 +198,7 @@ TargetSection=1:0:RG113
 
  Открываем любую форму, например
 
-![](../.gitbook/assets/valyutnye-kursy%20%284%29.png)
+![](../.gitbook/assets/valyutnye-kursy%20%285%29.png)
 
 ![](../.gitbook/assets/f1.png)
 
@@ -242,7 +242,7 @@ nrdoc=5645
 
  для пользователя или группы пользователей. Это свойство открывает документ на редактирование после перехода на него по двойному клику. Сохраняем изменения в текущей транзакции с помощью галочки
 
-![](../.gitbook/assets/commit%20%281%29.png)
+![](../.gitbook/assets/commit%20%282%29.png)
 
 ![](../.gitbook/assets/f6.png)
 
@@ -274,7 +274,7 @@ nrdoc=5645
 
  Переходим на открытую вкладку
 
-![](../.gitbook/assets/valyutnye-kursy%20%285%29.png)
+![](../.gitbook/assets/valyutnye-kursy%20%286%29.png)
 
  Открываем дизайн грида с помощью горячих клавиш Alt+D, нажимаем
 
@@ -330,7 +330,7 @@ ReturnSection=CURS
 
  Имя секции можно посмотреть в конфигураторе, нажав кнопку
 
-![](../.gitbook/assets/node-properties%20%283%29.png)
+![](../.gitbook/assets/node-properties%20%284%29.png)
 
  при выделенной форме. В данном случае имя секции
 
@@ -370,7 +370,7 @@ TargetSection=0:0:PRINTFORM:SCALESEXP
 
  Имя секции печатной формы можно посмотреть в конфигураторе, нажав кнопку
 
-![](../.gitbook/assets/node-properties%20%284%29.png)
+![](../.gitbook/assets/node-properties%20%285%29.png)
 
  В данном случае это 
 
@@ -496,7 +496,7 @@ TargetType=doc.child
 
  в результате при создании дочернего документа не будет вопроса о создании документа на основании. Сохраняем изменения в текущей транзакции с помощью галочки
 
-![](../.gitbook/assets/commit%20%284%29.png)
+![](../.gitbook/assets/commit%20%285%29.png)
 
 ![](../.gitbook/assets/ch7.png)
 
@@ -520,5 +520,135 @@ TargetType=doc.child
 
 ###  **Прыжки из отчётов.**
 
+ В конфигураторе открываем любой журнал и добавляем свойство 
 
+![](../.gitbook/assets/showreportsection%20%281%29.png)
+
+ Сохраняем изменения в текущей транзакции с помощью галочки
+
+![](../.gitbook/assets/commit%20%281%29.png)
+
+ В программе обновляем настройки с помощью горячей клавиши F5.
+
+![](../.gitbook/assets/r1.png)
+
+ При открытии журнала, в котором добавлено свойство
+
+![](../.gitbook/assets/showreportsection.png)
+
+![](../.gitbook/assets/r2.png)
+
+ строится отчёт.
+
+![](../.gitbook/assets/r3.png)
+
+ Имя секции отчетов можно посмотреть нажав
+
+![](../.gitbook/assets/node-properties.png)
+
+ при выделенном отчёте. В данном случае имя секции отчёта
+
+![](../.gitbook/assets/rg113.png)
+
+![](../.gitbook/assets/r4.png)
+
+ Открываем шаблон отчёта и добавляем в колонку A слово "title", в колонке F записываем:
+
+```sql
+[RepJump]
+TargetType=form
+TargetSection=CURS
+```
+
+ Сохраняем изменения с помощью кнопки
+
+![](../.gitbook/assets/save%20%282%29.png)
+
+![](../.gitbook/assets/r5.png)
+
+ Нажимаем кнопку
+
+![](../.gitbook/assets/postroit.png)
+
+ для построения отчёта.
+
+![](../.gitbook/assets/r6.png)
+
+ В шаблоне отчёта в первых трёх колонках \(A, B и C\) задаются параметры. В построенном отчёте будут видны колонки начиная с D \(D, E, F, G, H, I и т.д.\)
+
+![](../.gitbook/assets/r7.png)
+
+ То есть в построенном отчёте колонка A=D, B=E, C=F, D=G, E=H и т.д. При двойном клике мыши по полю С
+
+![](../.gitbook/assets/r8.png)
+
+ произойдёт переход в форму.
+
+![](../.gitbook/assets/r9.png)
+
+ Выделяем ячейку с написанным ранее текстом и нажимаем правой кнопкой мыши, в появившемся списке выбираем
+
+![](../.gitbook/assets/format-cells.png)
+
+![](../.gitbook/assets/r10.png)
+
+ В открывшемся окне переходим на вкладку
+
+![](../.gitbook/assets/patterns.png)
+
+ выбираем например
+
+![](../.gitbook/assets/krasnyi.png)
+
+ в поле 
+
+![](../.gitbook/assets/fil-color.png)
+
+ и
+
+![](../.gitbook/assets/krasnyi2.png)
+
+ в поле
+
+![](../.gitbook/assets/fil-pattern.png)
+
+ Образец выбранного цвета можно посмотреть ниже поля
+
+![](../.gitbook/assets/sample.png)
+
+ Далее нажимаем кнопку 
+
+![](../.gitbook/assets/ok%20%286%29.png)
+
+![](../.gitbook/assets/r11.png)
+
+ В результате выбранная ячейка стала красной, сохраняем изменения с помощью кнопки
+
+![](../.gitbook/assets/save%20%283%29.png)
+
+![](../.gitbook/assets/r12.png)
+
+ Отчёт можно построить заново, либо в открытом отчёте нажать кнопку
+
+![](../.gitbook/assets/obnovlenie.png)
+
+ для обновления отчёта. В результате ячейка колонки С \(в шаблоне F\) стала красной. При двойном клике мыши по-прежнему произойдёт переход в форму
+
+![](../.gitbook/assets/valyutnye-kursy%20%284%29.png)
+
+![](../.gitbook/assets/r13.png)
+
+ Открываем шаблон отчёта и \(в колонке A остаётся слово "title"\) в колонке F записываем:
+
+```sql
+[RepJump]
+TargetType=document
+nrdoc=5648
+```
+
+ Сохраняем изменения с помощью кнопки
+
+![](../.gitbook/assets/save.png)
+
+![](../.gitbook/assets/r14.png)
 
