@@ -219,4 +219,5 @@
   * [Инструкция по установке системы архивирования удаляемых документов](administrirovanie/instrukciya-po-ustanovke-sistemy-arkhivirovaniya-udalyaemykh-dokumentov.md)
   * [Скрипт для экспорта схем через data pump](administrirovanie/untitled.md)
 * Инструкции
+  * [Создание документа](instrukcii/sozdanie-dokumenta.md)
 
