@@ -230,4 +230,5 @@
   * [Создание справочника](instrukcii/sozdanie-spravochnika.md)
   * [Инструкция по прыжкам](instrukcii/instrukciya-po-pryzhkam.md)
   * [Инструкция по созданию новой схемы](instrukcii/instrukciya-po-sozdaniyu-novoi-skhemy.md)
+  * Инструкция по фокусам
 
