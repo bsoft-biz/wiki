@@ -231,5 +231,13 @@
   * [Инструкция по прыжкам](instrukcii/instrukciya-po-pryzhkam.md)
   * [Инструкция по созданию новой схемы](instrukcii/instrukciya-po-sozdaniyu-novoi-skhemy.md)
   * [Инструкция по фокусам](instrukcii/instrukciya-po-fokusam.md)
-  * Создание документа с 3-мя гридами
+  * [Создание документа с 3-мя гридами](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/README.md)
+    * [Введение](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/vvedenie.md)
+    * Создание таблицы
+    * Создание вида
+    * Создание индексов
+    * Создание последовательности
+    * Создание триггеров
+    * Экспорт/Импорт шаблона документа в конфигураторе
+    * Создание документа
 
