@@ -64,7 +64,7 @@
 
  Для появления созданных видов \(_Views_\) нажимаем
 
-![](../../.gitbook/assets/refresh-all%20%282%29.png)
+![](../../.gitbook/assets/refresh-all%20%283%29.png)
 
  "**Refresh all objects**". Для завершения транзакции с сохранением нажимаем
 

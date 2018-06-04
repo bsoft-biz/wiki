@@ -176,7 +176,7 @@ _Подсказка:_
 
  кнопки нажать
 
-![](../.gitbook/assets/mnogotochie%20%287%29.png)
+![](../.gitbook/assets/mnogotochie%20%2810%29.png)
 
  и в открывшемся окне прописать:
 
@@ -239,7 +239,7 @@ action_id=1
 
  кнопки  нажать
 
-![](../.gitbook/assets/mnogotochie%20%286%29.png)
+![](../.gitbook/assets/mnogotochie%20%289%29.png)
 
  и в открывшемся окне прописать:
 

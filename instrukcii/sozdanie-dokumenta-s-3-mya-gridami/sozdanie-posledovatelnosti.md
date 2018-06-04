@@ -42,7 +42,7 @@
 
  Для появления последовательности в списке необходимо нажать
 
-![](../../.gitbook/assets/refresh-all%20%283%29.png)
+![](../../.gitbook/assets/refresh-all%20%284%29.png)
 
  "**Refresh all objects**".
 

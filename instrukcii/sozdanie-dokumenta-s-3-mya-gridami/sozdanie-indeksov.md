@@ -80,7 +80,7 @@
 
  записываем имя индекса. В данном случае это `YVEINE_TMDB_INTAKE_LIST_B_IND` \(см. Введение\) и с помощью кнопки
 
-![](../../.gitbook/assets/mnogotochie%20%289%29.png)
+![](../../.gitbook/assets/mnogotochie%20%2812%29.png)
 
  выбираем таблицу `YVEINE_TMDB_INTAKE_LIST_B` и нажимаем
 
@@ -94,7 +94,7 @@
 
  и выбираем колонки _`NRDOC`_ и _`NRDOC1`_, после чего нажимаем
 
-![](../../.gitbook/assets/ok6%20%281%29.png)
+![](../../.gitbook/assets/ok6%20%283%29.png)
 
 ![](../../.gitbook/assets/10%20%281%29.png)
 
@@ -128,7 +128,7 @@
 
 пишем имя нового индекса. В данном случае это `YVEINE_TMDB_INTAKE_LIST_C_IND` \(см. Введение\). С помощью кнопки
 
-![](../../.gitbook/assets/mnogotochie%20%285%29.png)
+![](../../.gitbook/assets/mnogotochie%20%287%29.png)
 
  выбираем таблицу `YVEINE_TMDB_INTAKE_LIST_C` и нажимаем
 
@@ -142,7 +142,7 @@
 
   и выбираем колонки _`NRDOC`_, _`NRDOC1`_ и _`NRDOC2`_. После чего нажимаем
 
-![](../../.gitbook/assets/ok6%20%282%29.png)
+![](../../.gitbook/assets/ok6%20%284%29.png)
 
 ![](../../.gitbook/assets/15%20%281%29.png)
 

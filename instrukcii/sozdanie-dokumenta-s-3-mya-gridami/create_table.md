@@ -228,7 +228,7 @@ _`CANT3`_с одинаковыми типом данных и точностью
 
  Для того чтобы таблица появилась в списке нажимаем на
 
-![](../../.gitbook/assets/refresh-all%20%284%29.png)
+![](../../.gitbook/assets/refresh-all%20%286%29.png)
 
   "**Refresh all objects**".
 
@@ -376,7 +376,7 @@ _`CANT3`_с одинаковыми типом данных и точностью
 
  Для добавления таблицы в список воспользуемся кнопкой
 
-![](../../.gitbook/assets/refresh-all%20%281%29.png)
+![](../../.gitbook/assets/refresh-all%20%282%29.png)
 
  "**Refresh all objects**" для обновления.
 
