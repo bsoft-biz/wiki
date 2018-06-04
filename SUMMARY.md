@@ -232,8 +232,7 @@
   * [Инструкция по созданию новой схемы](instrukcii/instrukciya-po-sozdaniyu-novoi-skhemy.md)
   * [Инструкция по фокусам](instrukcii/instrukciya-po-fokusam.md)
   * [Создание документа с 3-мя гридами](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/README.md)
-    * [Введение](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/vvedenie.md)
-    * Создание таблицы
+    * [Создание таблицы](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/create_table.md)
     * Создание вида
     * Создание индексов
     * Создание последовательности
