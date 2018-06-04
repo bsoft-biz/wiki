@@ -237,6 +237,6 @@
     * [Создание индексов](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-indeksov.md)
     * [Создание последовательности](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-posledovatelnosti.md)
     * [Создание триггеров](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-triggerov.md)
-    * Экспорт/Импорт шаблона документа в конфигураторе
+    * [Экспорт/Импорт шаблона документа в конфигураторе](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/eksport-import-shablona-dokumenta-v-konfiguratore.md)
     * Создание документа
 
