@@ -231,4 +231,5 @@
   * [Инструкция по прыжкам](instrukcii/instrukciya-po-pryzhkam.md)
   * [Инструкция по созданию новой схемы](instrukcii/instrukciya-po-sozdaniyu-novoi-skhemy.md)
   * [Инструкция по фокусам](instrukcii/instrukciya-po-fokusam.md)
+  * Создание документа с 3-мя гридами
 
