@@ -126,5 +126,23 @@
 
 ![](../.gitbook/assets/24%20%282%29.png)
 
-
+| **Имя Control’a:** | **Свойство в конфигураторе:** | **Внешний вид:** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Edit1 | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/CO1.png?raw=true) | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/C1.png?raw=true) |
+| DBEdit1 | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/CO2.png?raw=true) | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/C2.png?raw=true) |
+| UnDBEdit1 | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/CO3.png?raw=true) | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/C3.png?raw=true) |
+| UnScList1 | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/CO4.png?raw=true) | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/C4.png?raw=true) |
+| CheckBox1 | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/CO5.png?raw=true) | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/C5.png?raw=true) |
+| DBCheckBox1 | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/CO6.png?raw=true) | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/C6.png?raw=true) |
+| DateEdit1 | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/CO7.png?raw=true) | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/C7.png?raw=true) |
+| DBDateEdit1 | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/CO8.png?raw=true) | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/C8.png?raw=true) |
+| DateTimeEdit1 | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/CO9.png?raw=true) | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/C9.png?raw=true) |
+| DBDateTimeEdit1 | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/CO10.png?raw=true) | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/C10.png?raw=true) |
+| RadioGroup1 | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/CO11.png?raw=true) | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/C11.png?raw=true) |
+| DBRaditGroup1 | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/CO12.png?raw=true) | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/C12.png?raw=true) |
+| Memo1 | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/CO13.png?raw=true) | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/C13.png?raw=true) |
+| DBMemo1 | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/CO14.png?raw=true) | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/C14.png?raw=true) |
+| Button1 | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/CO16.png?raw=true) | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/C15.png?raw=true) |
+| DBImage1 | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/CO15.png?raw=true) | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/C16.png?raw=true) |
+| DBImage1 \(с картинкой\) | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/CO15.png?raw=true) | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/C17.png?raw=true) |
 
