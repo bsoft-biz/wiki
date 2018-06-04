@@ -41,7 +41,7 @@ _Пример:_
 
  При нажатии на кнопку ![N](https://github.com/prbsoft/wiki/blob/master/src/Sd,Ri.png?raw=true) выйдет окно:
 
-![](../../../.gitbook/assets/5%20%283%29.png)
+![](../../../.gitbook/assets/5%20%284%29.png)
 
   При нажатии на кнопку ![N](https://github.com/prbsoft/wiki/blob/master/src/Comp.png?raw=true) выйдет окно:
 

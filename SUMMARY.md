@@ -234,7 +234,7 @@
   * [Создание документа с 3-мя гридами](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/README.md)
     * [Создание таблицы](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/create_table.md)
     * [Создание вида](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-vida.md)
-    * Создание индексов
+    * [Создание индексов](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-indeksov.md)
     * Создание последовательности
     * Создание триггеров
     * Экспорт/Импорт шаблона документа в конфигураторе

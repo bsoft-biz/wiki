@@ -4,7 +4,7 @@
 
 В верхней строке меню, найти Database и выбрать Database  -&gt; Import -&gt; Import Utility Wizard.
 
-![](../../.gitbook/assets/i1.png)
+![](../../.gitbook/assets/i1%20%281%29.png)
 
  2  Выберите Импорт таблицы \(Import tables\) из следующих опций и нажмите Далее.
 

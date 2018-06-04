@@ -58,7 +58,7 @@
 
  нажать
 
-![](../.gitbook/assets/mnogotochie%20%283%29.png)
+![](../.gitbook/assets/mnogotochie%20%284%29.png)
 
  и в открывшемся окне записать:
 
@@ -176,7 +176,7 @@ _Подсказка:_
 
  кнопки нажать
 
-![](../.gitbook/assets/mnogotochie%20%285%29.png)
+![](../.gitbook/assets/mnogotochie%20%287%29.png)
 
  и в открывшемся окне прописать:
 
@@ -215,7 +215,7 @@ action_id=1
 
  показано выполненное действие:
 
-![](../.gitbook/assets/4%20%281%29.png)
+![](../.gitbook/assets/4%20%282%29.png)
 
  Документ с проводками после сохранения примет вид:
 
@@ -239,7 +239,7 @@ action_id=1
 
  кнопки  нажать
 
-![](../.gitbook/assets/mnogotochie%20%284%29.png)
+![](../.gitbook/assets/mnogotochie%20%286%29.png)
 
  и в открывшемся окне прописать:
 
@@ -304,7 +304,7 @@ TargetSection=2:0:ABSTRACT PRINT DOCUMENT (D):1:0:0:8
 
  кнопки нажать
 
-![](../.gitbook/assets/mnogotochie%20%282%29.png)
+![](../.gitbook/assets/mnogotochie%20%283%29.png)
 
  и в открывшемся окне прописать:
 
