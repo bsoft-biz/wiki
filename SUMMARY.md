@@ -238,5 +238,7 @@
     * [Создание последовательности](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-posledovatelnosti.md)
     * [Создание триггеров](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-triggerov.md)
     * [Экспорт/Импорт шаблона документа в конфигураторе](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/eksport-import-shablona-dokumenta-v-konfiguratore.md)
-    * Создание документа
+    * [Создание документа](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-dokumenta/README.md)
+      * [Редактирование запроса](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-dokumenta/redaktirovanie-zaprosa.md)
+      * [Редактирование дизайна](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-dokumenta/redaktirovanie-dizaina.md)
 

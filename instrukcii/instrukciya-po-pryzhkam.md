@@ -248,7 +248,7 @@ nrdoc=5645
 
  В программе нажимаем горячую клавишу F5 для обновления настроек. В появившемся окне нажимаем
 
-![](../.gitbook/assets/yes%20%287%29.png)
+![](../.gitbook/assets/yes%20%288%29.png)
 
 ![](../.gitbook/assets/f7.png)
 
@@ -431,7 +431,7 @@ TargetJournal=MATERIALE
 
  В программе нажимаем горячую клавишу F5 для обновления настроек. В появившемся окне нажимаем кнопку
 
-![](../.gitbook/assets/yes%20%284%29.png)
+![](../.gitbook/assets/yes%20%285%29.png)
 
 ![](../.gitbook/assets/confirm.png)
 
