@@ -233,7 +233,7 @@
   * [Инструкция по фокусам](instrukcii/instrukciya-po-fokusam.md)
   * [Создание документа с 3-мя гридами](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/README.md)
     * [Создание таблицы](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/create_table.md)
-    * Создание вида
+    * [Создание вида](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-vida.md)
     * Создание индексов
     * Создание последовательности
     * Создание триггеров
