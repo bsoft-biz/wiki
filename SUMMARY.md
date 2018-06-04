@@ -235,7 +235,7 @@
     * [Создание таблицы](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/create_table.md)
     * [Создание вида](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-vida.md)
     * [Создание индексов](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-indeksov.md)
-    * Создание последовательности
+    * [Создание последовательности](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-posledovatelnosti.md)
     * Создание триггеров
     * Экспорт/Импорт шаблона документа в конфигураторе
     * Создание документа

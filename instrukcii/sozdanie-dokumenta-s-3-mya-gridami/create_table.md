@@ -222,13 +222,13 @@ _`CANT3`_с одинаковыми типом данных и точностью
 
  После выполненных действий нажимаем кнопку
 
-![](../../.gitbook/assets/ok2%20%289%29.png)
+![](../../.gitbook/assets/ok2%20%2810%29.png)
 
 ![](../../.gitbook/assets/screenshot024.png)
 
  Для того чтобы таблица появилась в списке нажимаем на
 
-![](../../.gitbook/assets/refresh-all%20%283%29.png)
+![](../../.gitbook/assets/refresh-all%20%284%29.png)
 
   "**Refresh all objects**".
 
@@ -346,7 +346,7 @@ _`CANT3`_с одинаковыми типом данных и точностью
 
  Выбираем внешний ключ \(_`Foreign Key`_\) и нажимаем
 
-![](../../.gitbook/assets/ok2%20%287%29.png)
+![](../../.gitbook/assets/ok2%20%288%29.png)
 
 ![](../../.gitbook/assets/screenshot44-5.png)
 
@@ -370,7 +370,7 @@ _`CANT3`_с одинаковыми типом данных и точностью
 
  После добавления всех ограничений нажимаем кнопку
 
-![](../../.gitbook/assets/ok2%20%288%29.png)
+![](../../.gitbook/assets/ok2%20%289%29.png)
 
 ![](../../.gitbook/assets/screenshot048.png)
 

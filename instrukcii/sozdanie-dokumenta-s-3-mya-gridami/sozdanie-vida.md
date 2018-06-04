@@ -78,7 +78,7 @@
 
  Для более быстрого создания вида \(_View_\) перейдем в редактор, для этого нажмем на
 
-![](../../.gitbook/assets/editor.png)
+![](../../.gitbook/assets/editor%20%281%29.png)
 
 ![](../../.gitbook/assets/screenshot072.png)
 
