@@ -241,5 +241,7 @@
     * [Создание документа](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-dokumenta/README.md)
       * [Редактирование запроса](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-dokumenta/redaktirovanie-zaprosa.md)
       * [Редактирование дизайна](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-dokumenta/redaktirovanie-dizaina.md)
-    * [Редактирование справочников](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/redaktirovanie-spravochnikov.md)
+      * [Редактирование справочников](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-dokumenta/redaktirovanie-spravochnikov.md)
+      * [Использование последовательности](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-dokumenta/ispolzovanie-posledovatelnosti.md)
+      * [Показ итогов](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-dokumenta/pokaz-itogov.md)
 

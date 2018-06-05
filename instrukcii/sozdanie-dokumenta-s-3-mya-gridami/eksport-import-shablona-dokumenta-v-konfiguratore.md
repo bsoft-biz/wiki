@@ -32,7 +32,7 @@
 
  После чего получаем сообщение о завершении экспорта. Нажимаем
 
-![](../../.gitbook/assets/okk2%20%282%29.png)
+![](../../.gitbook/assets/okk2%20%285%29.png)
 
 ![](../../.gitbook/assets/screenshot092.png)
 
@@ -58,7 +58,7 @@
 
  записываем уникальное значение и нажимаем
 
-![](../../.gitbook/assets/okk2%20%281%29.png)
+![](../../.gitbook/assets/okk2%20%282%29.png)
 
 ![](../../.gitbook/assets/screenshot095.png)
 

@@ -15,11 +15,11 @@
 
  Для отображения суммы в клиенте необходимо в дизайне \(ALT+D\) в настройках грида
 
-![&#x43A;&#x43D;&#x43E;&#x43F;&#x43A;&#x430; &#x432;&#x43A;&#x43B;&#x44E;&#x447;&#x438;&#x442;&#x44C;: ](../../../.gitbook/assets/grid%20%281%29.png)
+![&#x43A;&#x43D;&#x43E;&#x43F;&#x43A;&#x430; &#x432;&#x43A;&#x43B;&#x44E;&#x447;&#x438;&#x442;&#x44C;: ](../../../.gitbook/assets/grid%20%283%29.png)
 
-![&#x438; ](../../../.gitbook/assets/show-summary.png)
+![&#x438; ](../../../.gitbook/assets/show-summary%20%281%29.png)
 
-![](../../../.gitbook/assets/save-props.png)
+![](../../../.gitbook/assets/save-props%20%283%29.png)
 
 ![](../../../.gitbook/assets/alt-d.png)
 
@@ -27,7 +27,7 @@
 
 ![&#x432;&#x43A;&#x43B;&#x44E;&#x447;&#x438;&#x442;&#x44C;:](../../../.gitbook/assets/sagiproperties.png)
 
-![](../../../.gitbook/assets/pokaz-itogov.png)
+![](../../../.gitbook/assets/pokaz-itogov%20%283%29.png)
 
 ![](../../../.gitbook/assets/alt-q.png)
 
@@ -35,11 +35,11 @@
 
 ![&#x43C;&#x43E;&#x436;&#x43D;&#x43E; &#x437;&#x430;&#x43F;&#x43E;&#x43B;&#x43D;&#x438;&#x442;&#x44C; &#x440;&#x430;&#x441;&#x447;&#x435;&#x442;&#x43D;&#x44B;&#x435; &#x43F;&#x43E;&#x43B;&#x44F;:](../../../.gitbook/assets/xtt.png)
 
-![](../../../.gitbook/assets/xtt-summary.png)
+![](../../../.gitbook/assets/xtt-summary%20%284%29.png)
 
  Пример:
 
-![](../../../.gitbook/assets/grid%20%282%29.png)
+![](../../../.gitbook/assets/grid%20%284%29.png)
 
 На примере видно, что в строке итогов для поля CANT1\(Передано\) выводится 3 знака после запятой, для поля CANT2\(Возвращено\) выводится 4 знака после запятой, для поля CANT3\(Итого кол-во\) выводится 1 знак после запятой, для поля CLCDISHT \(Наименование блюд\) ведется подсчёт строк.
 

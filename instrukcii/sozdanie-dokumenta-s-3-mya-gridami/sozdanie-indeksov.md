@@ -26,7 +26,7 @@
 
  С помощью кнопки
 
-![](../../.gitbook/assets/mnogotochie%20%282%29.png)
+![](../../.gitbook/assets/mnogotochie%20%283%29.png)
 
  выбираем таблицу для которого создаётся индекс. В данном случае это таблица YVEINE\_TMDB\_INTAKE\_LIST\_A и нажимаем
 
@@ -80,7 +80,7 @@
 
  записываем имя индекса. В данном случае это `YVEINE_TMDB_INTAKE_LIST_B_IND` \(см. Введение\) и с помощью кнопки
 
-![](../../.gitbook/assets/mnogotochie%20%2812%29.png)
+![](../../.gitbook/assets/mnogotochie%20%2813%29.png)
 
  выбираем таблицу `YVEINE_TMDB_INTAKE_LIST_B` и нажимаем
 
@@ -128,7 +128,7 @@
 
 пишем имя нового индекса. В данном случае это `YVEINE_TMDB_INTAKE_LIST_C_IND` \(см. Введение\). С помощью кнопки
 
-![](../../.gitbook/assets/mnogotochie%20%287%29.png)
+![](../../.gitbook/assets/mnogotochie%20%288%29.png)
 
  выбираем таблицу `YVEINE_TMDB_INTAKE_LIST_C` и нажимаем
 

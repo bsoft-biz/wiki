@@ -174,7 +174,7 @@
 
  Нажав на 
 
-![](../.gitbook/assets/mnogotochie%20%2811%29.png)
+![](../.gitbook/assets/mnogotochie%20%2812%29.png)
 
  выпадает справочник с автомобилями.
 

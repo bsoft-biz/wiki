@@ -58,7 +58,7 @@
 
  нажать
 
-![](../.gitbook/assets/mnogotochie%20%284%29.png)
+![](../.gitbook/assets/mnogotochie%20%285%29.png)
 
  и в открывшемся окне записать:
 
@@ -111,7 +111,7 @@ MainTA=1
 
  кнопки нажать
 
-![](../.gitbook/assets/mnogotochie%20%281%29.png)
+![](../.gitbook/assets/mnogotochie%20%282%29.png)
 
  и в открывшемся окне прописать:
 
@@ -176,7 +176,7 @@ _Подсказка:_
 
  кнопки нажать
 
-![](../.gitbook/assets/mnogotochie%20%2810%29.png)
+![](../.gitbook/assets/mnogotochie%20%2811%29.png)
 
  и в открывшемся окне прописать:
 
@@ -239,7 +239,7 @@ action_id=1
 
  кнопки  нажать
 
-![](../.gitbook/assets/mnogotochie%20%289%29.png)
+![](../.gitbook/assets/mnogotochie%20%2810%29.png)
 
  и в открывшемся окне прописать:
 
@@ -304,7 +304,7 @@ TargetSection=2:0:ABSTRACT PRINT DOCUMENT (D):1:0:0:8
 
  кнопки нажать
 
-![](../.gitbook/assets/mnogotochie%20%283%29.png)
+![](../.gitbook/assets/mnogotochie%20%284%29.png)
 
  и в открывшемся окне прописать:
 

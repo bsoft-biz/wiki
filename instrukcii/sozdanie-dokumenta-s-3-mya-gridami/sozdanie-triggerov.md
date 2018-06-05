@@ -20,7 +20,7 @@
 
  записываем имя триггера, в данном случае это `YVEINE_TMDB_INTAKE_LIST_A_TRG`. С помощью кнопки
 
-![](../../.gitbook/assets/mnogotochie%20%288%29.png)
+![](../../.gitbook/assets/mnogotochie%20%289%29.png)
 
  выбираем таблицу, для которой создаётся данный триггер. В данном случае это таблица `YVEINE_TMDB_INTAKE_LIST_A` и нажимаем
 
@@ -92,7 +92,7 @@
 
  запишем имя второго триггера. В данном случае это `YVEINE_TMDB_INTAKE_LIST_B` \(см. Введение\). С помощью кнопки
 
-![](../../.gitbook/assets/mnogotochie%20%286%29.png)
+![](../../.gitbook/assets/mnogotochie%20%287%29.png)
 
 выбираем таблицу, для которой создаётся данный триггер. Это таблица `YVEINE_TMDB_INTAKE_LIST_B`.
 
@@ -142,7 +142,7 @@
 
  записываем имя третьего триггера `YVEINE_TMDB_INTAKE_LIST_C_TRG` \(см. Введение\). С помощью кнопки
 
-![](../../.gitbook/assets/mnogotochie%20%285%29.png)
+![](../../.gitbook/assets/mnogotochie%20%286%29.png)
 
  выбираем таблицу для создаваемого триггера. В данном случае это `YVEINE_TMDB_INTAKE_LIST_C` и нажимаем
 

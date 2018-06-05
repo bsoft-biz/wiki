@@ -18,7 +18,7 @@
 
 После чего сохраняем изменения при выходе и нажимаем кнопку
 
-![](../../../.gitbook/assets/save-on-exitok2%20%283%29.png)
+![](../../../.gitbook/assets/save-on-exitok2%20%284%29.png)
 
 ![](../../../.gitbook/assets/screenshot117.png)
 
@@ -66,7 +66,7 @@
 
  Для сохранения изменений при выходе поставим галочку и нажмем кнопку
 
-![](../../../.gitbook/assets/save-on-exitok2%20%286%29.png)
+![](../../../.gitbook/assets/save-on-exitok2%20%288%29.png)
 
 ![](../../../.gitbook/assets/screenshot126.png)
 
@@ -74,7 +74,7 @@
 
 Нажимаем на кнопку 
 
-![](../../../.gitbook/assets/grid.png)
+![](../../../.gitbook/assets/grid%20%282%29.png)
 
 ![](../../../.gitbook/assets/screenshot135.png)
 
@@ -86,7 +86,7 @@
 
  И сохраняем изменения при выходе
 
-![](../../../.gitbook/assets/save-on-exitok2%20%284%29.png)
+![](../../../.gitbook/assets/save-on-exitok2%20%286%29.png)
 
 ![](../../../.gitbook/assets/screenshot137.png)
 
@@ -100,7 +100,7 @@
 
  В результате слева остались колонки из шаблона, а справа колонки из вида \(_View_\) `YVEINE_VMDB_INTAKE_LIST_B`, который был оформлен на вкладке
 
-![](../../../.gitbook/assets/sagi-properties-2%20%282%29.png)
+![](../../../.gitbook/assets/sagi-properties-2%20%284%29.png)
 
 ![](../../../.gitbook/assets/screenshot142.png)
 
@@ -132,7 +132,7 @@
 
  Далее нажимаем на кнопку
 
-![](../../../.gitbook/assets/grid%20%283%29.png)
+![](../../../.gitbook/assets/grid%20%286%29.png)
 
  и ставим галочку напротив
 
@@ -142,7 +142,7 @@
 
  Сохраняем изменения с помощью галочки и нажимаем на кнопку 
 
-![](../../../.gitbook/assets/save-on-exitok2%20%285%29.png)
+![](../../../.gitbook/assets/save-on-exitok2%20%287%29.png)
 
 ![](../../../.gitbook/assets/screenshot151.png)
 
@@ -228,7 +228,7 @@
 
  После завершения редактирования сохраняем результат при выходе с помощью галочки
 
-![](../../../.gitbook/assets/save-on-exit-4.png)
+![](../../../.gitbook/assets/save-on-exit-4%20%281%29.png)
 
   и нажимаем
 
@@ -238,7 +238,7 @@
 
  В поле _Caption_ задаётся имя колонки, в поле _Height_ задаётся высота колонки и в поле _Width_ задаётся ширина колонки.
 
-![](../../../.gitbook/assets/screenshot234.png)
+![](../../../.gitbook/assets/screenshot234%20%281%29.png)
 
 ![](../../../.gitbook/assets/screenshot235.png)
 
