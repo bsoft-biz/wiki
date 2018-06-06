@@ -128,7 +128,7 @@
     * [Структура Базы Данных](razrabotka/obekty-oracle/struktura-bazy-dannykh.md)
     * [Модули](razrabotka/obekty-oracle/moduli/README.md)
       * [Модуль оператор пассажирских перевозок](razrabotka/obekty-oracle/moduli/modul-operator-passazhirskikh-perevozok.md)
-    * Пакеты
+    * [Пакеты](razrabotka/obekty-oracle/pakety.md)
     * [Стандартные пакеты](razrabotka/obekty-oracle/standartnye-pakety/README.md)
       * [Автоматическая генерация скриптов pkg\_gen\_ddl\_util](razrabotka/obekty-oracle/standartnye-pakety/avtomaticheskaya-generaciya-skriptov-pkg_gen_ddl_util.md)
       * [Пакет для управления логированием данных pkg\_log\_data\_util](razrabotka/obekty-oracle/standartnye-pakety/paket-dlya-upravleniya-logirovaniem-dannykh-pkg_log_data_util.md)
@@ -218,7 +218,7 @@
     * [Ошибки при expdp и impdp в Oracle XE 10g](administrirovanie/globalnye-problemy-i-oshibki-oracle/oshibki-pri-expdp-i-impdp-v-oracle-xe-10g.md)
   * [Инструкция по установке системы архивирования удаляемых документов](administrirovanie/instrukciya-po-ustanovke-sistemy-arkhivirovaniya-udalyaemykh-dokumentov.md)
   * [Скрипт для экспорта схем через data pump](administrirovanie/untitled.md)
-* Инструкции
+* [Инструкции](instrukcii/README.md)
   * [Создание документа](instrukcii/sozdanie-dokumenta.md)
   * [Создание и настройка нового журнала](instrukcii/sozdanie-i-nastroika-novogo-zhurnala.md)
   * [Создание отчета](instrukcii/sozdanie-otcheta.md)
