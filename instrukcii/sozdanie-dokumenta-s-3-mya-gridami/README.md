@@ -4,17 +4,18 @@ description: По созданию документа с 3-мя гридами �
 
 # Создание документа с 3-мя гридами
 
-Создание таблицы
+[  
+Создание таблицы](https://bsoft.gitbook.io/wiki/instrukcii/sozdanie-dokumenta-s-3-mya-gridami/create_table)
 
-Создание вида
+[Создание вида](https://bsoft.gitbook.io/wiki/instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-vida)
 
-Создание индексов
+[Создание индексов](https://bsoft.gitbook.io/wiki/instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-indeksov)
 
-Создание последовательности
+[Создание последовательности](https://bsoft.gitbook.io/wiki/instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-posledovatelnosti)
 
-Создание триггеров
+[Создание триггеров](https://bsoft.gitbook.io/wiki/instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-triggerov)
 
-Экспорт/импорт шаблона документа в конфигураторе
+[Экспорт/Импорт шаблона документа в конфигураторе](https://bsoft.gitbook.io/wiki/instrukcii/sozdanie-dokumenta-s-3-mya-gridami/eksport-import-shablona-dokumenta-v-konfiguratore)
 
-Создание документа 
+[Создание документа](https://bsoft.gitbook.io/wiki/instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-dokumenta)
 
