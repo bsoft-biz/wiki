@@ -30,3 +30,5 @@
 
 Название5      5      insert into tbl\(denumirea,cod\) values\('Название5',5\);
 
+[Файл](https://yadi.sk/i/MW4J9ReY3XDZiP)
+

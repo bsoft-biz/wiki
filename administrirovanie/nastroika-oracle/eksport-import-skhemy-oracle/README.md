@@ -96,7 +96,7 @@
 
 Кнопка «Обновить» пересчитывает содержимое грида \(таблицы\), если отображение включено.
 
-Чтобы использовать кнопку "Сравнить выделенные в Beyond Compare", необходимо внести изменения в реестр ОС windows. Для этого есть спец. файл правки реестра, который можно [скачать здесь](http://wiki.bsoft.biz/xwiki/bin/download/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/UniVersions+%D0%AD%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82-%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/fix_uniVersions_bcompare.reg).
+Чтобы использовать кнопку "Сравнить выделенные в Beyond Compare", необходимо внести изменения в реестр ОС windows. Для этого есть спец. файл правки реестра, который можно [скачать здесь](https://yadi.sk/d/ZiHI9F013XDSjc).
 
 #### Страница «Фильтр на таблицы». {#H42144244043043D438446430AB42443843B44C44244043D43044243043143B43844644BBB.}
 
@@ -226,9 +226,9 @@
 | Запуск приложения с загрузкой схемы Oracle из файла   | \&gt; un4Versions.exe /compare src= un4std.pak |
 | Запуск приложения с загрузкой  двух схем Oracle из разных источников  | \&gt; un4Versions.exe /compare src=un4std.pak tgt=un4@Ora1 |
 
-[Описание ошибок](http://wiki.bsoft.biz/xwiki/bin/view/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5+%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA), возможных при работе с un4Versions и способы их устранения.
+[Описание ошибок](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-oracle/eksport-import-skhemy-oracle/opisanie-oshibok-vozmozhnykh-pri-rabote-s-un4versions), возможных при работе с un4Versions и способы их устранения.
 
-Работа с программой [UniVersions из командной строки](http://wiki.bsoft.biz/xwiki/bin/view/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/UniVersions+-+%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F+%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0).
+Работа с программой [UniVersions из командной строки](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-oracle/eksport-import-skhemy-oracle/rabota-s-programmoi-universions-iz-komandnoi-stroki).
 
-Резервное копирование базы - [BackUp при помощи uniVersions](http://wiki.bsoft.biz/xwiki/bin/view/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/BackUp+%D0%BF%D1%80%D0%B8+%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%B8+uniVersions).
+Резервное копирование базы - [BackUp при помощи uniVersions](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-oracle/eksport-import-skhemy-oracle/backup-pri-pomoshi-universions).
 
