@@ -4,3 +4,5 @@
 
 [Администрирование](https://bsoft.gitbook.io/wiki/administrirovanie)
 
+Инструкции
+
