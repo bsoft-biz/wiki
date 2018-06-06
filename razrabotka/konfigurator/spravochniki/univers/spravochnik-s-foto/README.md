@@ -56,7 +56,7 @@ end;
 | **PanelHeightTab1** | Integer | отображение грида и детайла внизу, с общим запросом | -365 |
 | **QueryTab1aTransAuto** | Boolean |  Отключить автономные транзакции в табе с изображением |  false |
 
-Настройки по Alt+Q [фото.dzn](http://wiki.bsoft.biz/xwiki/bin/download/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA+%D1%81+%D1%84%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE.dzn)
+Настройки по Alt+Q [фото.dzn](https://yadi.sk/d/NyjRAuF23XDETz)
 
 Обязательно для поля фото используются функция EMPTY\_BLOB\(\) – функция возвращает LOB локатор для BLOB колонки. \( [объекты \(LOB\) в ORACLE](http://apps-oracle.ru/lob_oracle/) \)
 

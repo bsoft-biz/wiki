@@ -36,6 +36,7 @@
         * [Цвет отдельных ячеек](razrabotka/konfigurator/otchety/shablony-formula-one/cvet-otdelnykh-yacheek.md)
       * [Создание шаблона Fast Report](razrabotka/konfigurator/otchety/sozdanie-shablona-fast-report/README.md)
         * [Множественная \(потоковая\) печать](razrabotka/konfigurator/otchety/sozdanie-shablona-fast-report/mnozhestvennaya-potokovaya-pechat.md)
+        * [Вывод пустых строк до конца страницы](razrabotka/konfigurator/otchety/sozdanie-shablona-fast-report/vyvod-pustykh-strok-do-konca-stranicy.md)
       * [Финансовые отчеты](razrabotka/konfigurator/otchety/finansovye-otchety.md)
       * [Отчеты \(общее\)](razrabotka/konfigurator/otchety/otchety-obshee.md)
       * [Универсальный отчет \(RSE\)](razrabotka/konfigurator/otchety/universalnyi-otchet-rse.md)

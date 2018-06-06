@@ -69,7 +69,7 @@
 | UseMasterDelay | Boolean |  |  |
 | UseToolbar | Boolean | Включение Toolbar\(панель инструментов\)над гридом | true |
 | HeaderPanel | Boolean | Включение шапки | true |
-|   |   | Автообновление формы\(время указывается в сек.\) - работает в комбинации трех свойств  \(RefreshPanelVisible, RefreshTimerEnabled, RefreshTimerInterval\) |   |
+|   |   | **Автообновление формы\(время указывается в сек.\) - работает в комбинации трех свойств  \(RefreshPanelVisible, RefreshTimerEnabled, RefreshTimerInterval\)** |   |
 | RefreshPanelVisible | Boolean | Включение  панели автообновления  | true |
 | RefreshTimerEnabled | Boolean | Включение обновления | true |
 | RefreshTimerInterval | Integer | Время обновления , через сколько обновить указывается в секундах. | 5 |
