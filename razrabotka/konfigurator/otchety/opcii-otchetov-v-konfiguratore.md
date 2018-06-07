@@ -2,17 +2,17 @@
 
 Для включения фильтра по времени в отчетах
 
-\[ZZZ\]
-
+```sql
+[ZZZ]
 ReportUseTime=true
-
 .type.ReportUseTime=Boolean
 
 Свойство меняет кол-во дат
 
-\[ZZZ\]
-
+[ZZZ]
 SingleDate=false
-
 .type.SingleDate=Boolean
+```
+
+
 

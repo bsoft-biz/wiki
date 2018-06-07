@@ -1,25 +1,23 @@
 # Универсальный отчет \(RSE\)
 
- **Свойства Нового Универсального отчета**  
-
-
+ **`Свойства Нового Универсального отчета`**  
 
 | **Название** | **Тип** | **Принимаемое значение** | **Описание** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Caption | String |   | Подпись окна параметров отчета |
-| DLL ID | Integer | 4201 | Идентификационный номер DLL |
-| OldStyleListBaza | Memo |   |   |
-| OldStyleListCorr | Memo |   |   |
-| OraFunction | String | UN$G\_RG1P12.GetQuery | Процедура PL/SQL генерации результирующего набора записей |
-| Report ID | String | 12 | Идентификационный номер отчета в DLL |
-| RseAlias | String | SQ |   |
-| RseFieldsAbove | Memo |   |   |
-| RseFieldsBaza | Memo |   | Список доступных и выбранных полей раздела Filtru de baza |
-| RseFieldsCorr | Memo |   | Список доступных и выбранных полей раздела Filtru Corespondent |
-| RseSoldRulajTmplOrder | String | IA,IP,DT,CT,FA,FP | Указывает, какие из категорий Sold Initial Dt, Ct, Rulaj Dt, Ct, Sold Final Dt, Ct используются в отчете и порядок появления их в шаблоне |
-| Template | String | RG1p12.vts | Шаблон, используемый для генерации отчета |
-| RepWindow | Memo |   | Текст, содержащий настройки окна параметров отчета: отображение / скрытие элементов управления, установка значений по умолчанию, включение / выключение флажков |
-| RseSumaCantTmplOrder | Memo |   | Указывает, какие из категорий Cant, Suma, SumaVal используются в отчете и порядок появления их в шаблоне |
+| `Caption` | `String` |   | Подпись окна параметров отчета |
+| `DLL ID` | `Integer` | `4201` | Идентификационный номер `DLL` |
+| `OldStyleListBaza` | `Memo` |   |   |
+| `OldStyleListCorr` | `Memo` |   |   |
+| `OraFunction` | `String` | `UN$G_RG1P12.GetQuery` | Процедура `PL/SQL` генерации результирующего набора записей |
+| `Report ID` | `String` | `12` | Идентификационный номер отчета в `DLL` |
+| `RseAlias` | `String` | `SQ` |   |
+| `RseFieldsAbove` | `Memo` |   |   |
+| `RseFieldsBaza` | `Memo` |   | Список доступных и выбранных полей раздела `Filtru de baza` |
+| `RseFieldsCorr` | `Memo` |   | Список доступных и выбранных полей раздела Filtru Corespondent |
+| `RseSoldRulajTmplOrder` | `String` | `IA,IP,DT,CT,FA,FP` | Указывает, какие из категорий `Sold Initial Dt, Ct, Rulaj Dt, Ct, Sold Final Dt, Ct` используются в отчете и порядок появления их в шаблоне |
+| `Template` | `String` | `RG1p12.vts` | Шаблон, используемый для генерации отчета |
+| `RepWindow` | `Memo` |   | Текст, содержащий настройки окна параметров отчета: отображение / скрытие элементов управления, установка значений по умолчанию, включение / выключение флажков |
+| `RseSumaCantTmplOrder` | `Memo` |   | Указывает, какие из категорий `Cant, Suma, SumaVal` используются в отчете и порядок появления их в шаблоне |
 
 **Чтобы увидеть изменения универсально отчета , после изменения свойств в конфигураторе, нужно перезапустить программу.**
 
