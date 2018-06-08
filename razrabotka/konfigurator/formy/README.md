@@ -11,8 +11,8 @@
 `Объекты типа Формы определяет стандартные набор настроек, свойств.`
 
 | **Название свойства** | **Тип** | **Описание** | **Значение для примера** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  **** |  **** | **Основные свойства:** |   |
+| :------------- |:-------------:| :-----| :-----|
+|   |   | **Основные свойства:** |   |
 | Active | Boolean | Если значение False, объект игнорируется | true |
 | Caption | String | Подпись формы | UniForm \(универсальная форма\) |
 | DLL ID | Integer | Идентификационный номер DLL | 8101 |
@@ -33,59 +33,59 @@
 
 **DLL ID = 8101**
 
-[FSal1p01 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p01)- универсальная форма
+[FSal1p01 ](fsal1p01.md)- универсальная форма
 
-[FSal1p02 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p02)- справочник сотрудников
+[FSal1p02 ](fsal1p02.md)- справочник сотрудников
 
-[FSal1p03 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p03)- просто форма
+[FSal1p03 ](fsal1p03.md)- просто форма
 
-[FSal1p04 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p04)- форма отображает таблицу VUN9COSTDEP
+[FSal1p04 ](fsal1p04.md)- форма отображает таблицу VUN9COSTDEP
 
-[FSal1p05 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p05)- форма содержит действие и используется для работы с таблицей VTF\_PROCURA
+[FSal1p05 ](fsal1p05.md)- форма содержит действие и используется для работы с таблицей VTF\_PROCURA
 
-[FSal1p06 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p06)- дублирование/удаление артикула 
+[FSal1p06 ](fsal1p06.md)- дублирование/удаление артикула 
 
-[FSal1p07 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p07)- параметры исчисления подоходного налога
+[FSal1p07 ](fsal1p07.md)- параметры исчисления подоходного налога
 
-[FSal1p08 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p08)- процентные ставки надбавок по выслуге лет
+[FSal1p08 ](fsal1p08.md)- процентные ставки надбавок по выслуге лет
 
-[FSal1p09 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p09)- учет бланков строгой отчетности
+[FSal1p09 ](fsal1p09.md)- учет бланков строгой отчетности
 
-[FSal1p010 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p010)- простая форма для выполнения предопределенных действий
+[FSal1p010 ](fsal1p010.md)- простая форма для выполнения предопределенных действий
 
-[FSal1p011 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p011)- импорт данных сканера штрих-кодов
+[FSal1p011 ](fsal1p011.md)- импорт данных сканера штрих-кодов
 
-[FSal1p012 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p012)- журнал производства \(по данным сканера штрих кодов\)
+[FSal1p012 ](fsal1p012.md)- журнал производства \(по данным сканера штрих кодов\)
 
-[FSal1p013 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p013)- учет контрактов, пакетов и услуг по клиентам
+[FSal1p013 ](fsal1p013.md)- учет контрактов, пакетов и услуг по клиентам
 
-[FSal1p014 ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fsal1p014)- объединение дублирующихся позиций справочника
+[FSal1p014 ](fsal1p014.md)- объединение дублирующихся позиций справочника
 
 **DLL ID = 8000**
 
-[fCurs ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/fcurs)- Валютные курсы
+[fCurs ](fcurs.md)- Валютные курсы
 
-[TehComplect ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/tehcomplect)- Техническая комплектация
+[TehComplect ](tehcomplect.md)- Техническая комплектация
 
 **DLL ID = 8200**
 
-[salariulSECOND ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/salariulsecond)- Дополнительные начисления и удержания
+[salariulSECOND ](salariulsecond.md)- Дополнительные начисления и удержания
 
 **DLL ID = 0**
 
-[SysS ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/syss)- ссылка на справочник SysS
+[SysS ](syss.md)- ссылка на справочник SysS
 
-[Univers ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/univers)- ссылка на справочник Univers
+[Univers ](univers.md)- ссылка на справочник Univers
 
 Дочерние объекты формы такие же как и у документов:
 
- - [Action  ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/deistviya-action)\(выполнение определенных действий с данными при работе с соответствующей формой\)
+ - [Action  ](dokumenty/deistviya-action.md)\(выполнение определенных действий с данными при работе с соответствующей формой\)
 
  - [Print form](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/pechatnye-formy-printforms) \(служат для настройки печатных форм\)
 
-[Модальные формы](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/modalnye-formy) 
+[Модальные формы](modalnye-formy.md) 
 
-[UnFSal1Properties](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/unfsal1properties)
+[UnFSal1Properties](unfsal1properties.md)
 
-[Восстановить дизайн формы](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/vosstanovit-%20%20dizain-formy) \(после обновления конфигуратора\)
+[Восстановить дизайн формы](vosstanovit-%20%20dizain-formy.md) \(после обновления конфигуратора\)
 
