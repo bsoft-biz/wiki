@@ -7,7 +7,7 @@
 `Структура универсального справочника аналитики.`
 
 | **Имя поля** | **Тип** | **Описание** | **Значение для примера** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :------------- |:-------------:| :-----| :-----|
 | cod | number\(10\) | Уникальный код объекта аналитического учета, автоматически присваиваемый системой |   |
 | codvechi | varchar2\(20 byte\) | Старый код. Используется на этапе внедрения системы для облегчения связи со старыми базами данных. |   |
 | denumirea | varchar2\(160 byte\) | Наименование объекта аналитического учета |   |
@@ -41,11 +41,11 @@
 
 Специальный - это справочники со своим дизайном и настраиваются в конфигураторе в группе UnivList.
 
-[Настройка UnivList](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/spravochniki/univers/nastroika-univlist)
+[Настройка UnivList](nastroika-univlist/)
 
-[Настройка UnivList из нескольких типов](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/spravochniki/univers/nastroika-univlist-iz-neskolkikh-tipov)
+[Настройка UnivList из нескольких типов](nastroika-univlist-iz-neskolkikh-tipov.md)
 
-[Настройка прав](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/spravochniki/univers/nastroika-prav)
+[Настройка прав](nastroika-prav.md)
 
-[Справочник с фото](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/spravochniki/univers/spravochnik-s-foto)
+[Справочник с фото](spravochnik-s-foto/)
 
