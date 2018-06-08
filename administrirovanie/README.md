@@ -28,7 +28,7 @@
 
 [Трассировка](trassirovka.md)
 
-[Импорт данных из Excel в таблицу БД](import-dannykh-iz-%20%20excel-v-tablicu-bd.md)
+[Импорт данных из Excel в таблицу БД](import-dannykh-iz-excel-v-tablicu-bd.md)
 
 [Конвертация старого Administrator'a в новый Configurator](konvertaciya-starogo-administratora-v-novyi-configurator.md)
 
@@ -36,9 +36,9 @@
 
 [Конфигурация нового терминальника. ](konfiguraciya-novogo-terminalnika..md)\(Основное ПО и настройки\)
 
-[Глобальные проблемы и ошибки ORACLE](globalnye-problemy-%20%20i-oshibki-oracle/)
+[Глобальные проблемы и ошибки ORACLE](globalnye-problemy-i-oshibki-oracle/)
 
-[Инструкция по установке системы архивирования удаляемых документов](instrukciya-po-ustanovke-sistemy-arkhivirovaniya-%20%20udalyaemykh-dokumentov.md)
+[Инструкция по установке системы архивирования удаляемых документов](instrukciya-po-ustanovke-sistemy-arkhivirovaniya-udalyaemykh-dokumentov.md)
 
-[Скрипт для экспорта схем через data pump](skript-dlya-eksporta-skhem-cherez-data-pump.md.md)
+[Скрипт для экспорта схем через data pump](skript-dlya-eksporta-skhem-cherez-data-pump.md)
 
