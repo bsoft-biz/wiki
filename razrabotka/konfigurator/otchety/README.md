@@ -29,9 +29,9 @@
 
 **Некоторые отчеты поддерживают специфические свойства:**
 
-[Свойства Универсального отчета](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/svoistva-universalnogo-otcheta)
+[Свойства Универсального отчета](svoistva-universalnogo-otcheta.md)
 
-[Свойства нового универсального отчета](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/svoistva-novogo-universalnogo-otcheta)
+[Свойства нового универсального отчета](svoistva-novogo-universalnogo-otcheta.md)
 
 [Свойства отчета с произвольными параметрами](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/svoistva-otcheta-s-proizvolnymi-%20%20parametrami)
 
