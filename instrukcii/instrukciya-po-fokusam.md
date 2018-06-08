@@ -127,7 +127,7 @@
 ![](../.gitbook/assets/24%20%282%29.png)
 
 | **Имя Control’a:** | **Свойство в конфигураторе:** | **Внешний вид:** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :------------- |:-------------:| :-----|
 | Edit1 | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/CO1.png?raw=true) | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/C1.png?raw=true) |
 | DBEdit1 | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/CO2.png?raw=true) | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/C2.png?raw=true) |
 | UnDBEdit1 | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/CO3.png?raw=true) | ![](https://github.com/prbsoft/wiki/blob/master/src/focus/C3.png?raw=true) |
