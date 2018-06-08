@@ -5,7 +5,7 @@
 `Большинство отчетов поддерживают следующие свойства (свойства группы Общая)`
 
 | **Имя свойства** | **Тип** | **Описание** | **Значение для примера** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :------------- |:-------------:| :-----| :-----|
 | DLL ID | Integer | Идентификационный номер DLL | 9002 |
 | Index Fields | String |  |  |
 | Master Fields | String |   |  |
@@ -41,35 +41,35 @@
 
 **Типы печатных форм:**
 
-[Отчет типа Formula One](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/otchet-tipa-%20%20formula-one)
+[Отчет типа Formula One](otchet-tipa-%20%20formula-one.md)
 
-[Отчет типа ExcelGL2](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/otchet-tipa-excelgl2)
+[Отчет типа ExcelGL2](otchet-tipa-excelgl2.md)
 
-[Отчет типа FastReport](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/otchet-tipa-%20%20fastreport)
+[Отчет типа FastReport](otchet-tipa-%20%20fastreport.md)
 
-[Отчет типа FastReport4](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/otchet-tipa-%20%20fastreport4)
+[Отчет типа FastReport4](otchet-tipa-%20%20fastreport4.md)
 
-[Пример создания пивот отчета в РСЕ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/primer-sozdaniya-pivot-otcheta-v-rse) 
+[Пример создания пивот отчета в РСЕ](primer-sozdaniya-pivot-otcheta-v-rse.md) 
 
-[Опции отчетов в конфигураторе](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/opcii-%20%20otchetov-v-konfiguratore)
+[Опции отчетов в конфигураторе](opcii-%20%20otchetov-v-konfiguratore.md)
 
-[Шаблоны Formula One](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/shablony-formula-one)
+[Шаблоны Formula One](shablony-formula-one/)
 
-[Создание шаблона Fast Report с нуля.](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/sozdanie-shablona-fast-report)
+[Создание шаблона Fast Report с нуля.](sozdanie-shablona-fast-report/)
 
-[Финансовые отчеты](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/finansovye-otchety)
+[Финансовые отчеты](finansovye-otchety.md)
 
-[Отчеты \(общее\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/otchety-obshee)
+[Отчеты \(общее\)](otchety-obshee.md)
 
-[Универсальный отчет \(RSE\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/universalnyi-%20%20otchet-rse)
+[Универсальный отчет \(RSE\)](universalnyi-%20%20otchet-rse.md)
 
-[Оформление текстового материала \(ОТЧЕТ\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/oformlenie-tekstovogo-materiala-otchet)
+[Оформление текстового материала \(ОТЧЕТ\)](oformlenie-tekstovogo-materiala-otchet.md)
 
-[Универсальный отчет \(УО\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/universalnyi-%20%20otchet-uo)
+[Универсальный отчет \(УО\)](universalnyi-%20%20otchet-uo.md)
 
-[Настройка отчета](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/nastroika-otcheta)
+[Настройка отчета](nastroika-otcheta.md)
 
-[Конвертировать frf в fr3](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/konvertirovat-%20%20frf-v-fr3)
+[Конвертировать frf в fr3](konvertirovat-%20%20frf-v-fr3.md)
 
-[Вычисление итогов для грида](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/vychislenie-%20%20itogov-dlya-grida)
+[Вычисление итогов для грида](vychislenie-%20%20itogov-dlya-grida.md)
 
