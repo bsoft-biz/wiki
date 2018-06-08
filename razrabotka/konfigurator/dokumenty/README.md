@@ -47,17 +47,17 @@
 
 У узла **Документы** могут быть подузлы:
 
-[Действия \(action\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/deistviya-action)
+[Действия \(action\)](deistviya-action.md)
 
-[Печатные формы \(PrintForms\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/pechatnye-formy-printforms)
+[Печатные формы \(PrintForms\)](pechatnye-formy-printforms.md)
 
-[Объекты типа Totals](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/obekty-tipa-totals)
+[Объекты типа Totals](obekty-tipa-totals.md)
 
-[Окно остатков \(201\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/okno-ostatkov)
+[Окно остатков \(201\)](okno-ostatkov.md)
 
-[Настройка документа](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/nastroika-dokumenta)
+[Настройка документа](nastroika-dokumenta.md)
 
-[Основные средства 5104: Ввод в эксплуатацию](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/osnovnye-sredstva-5104-vvod-v-ekspluataciyu)
+[Основные средства 5104: Ввод в эксплуатацию](osnovnye-sredstva-5104-vvod-v-ekspluataciyu.md)
 
-[Абстрактный документ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/abstraktnyi-dokument)
+[Абстрактный документ](abstraktnyi-dokument.md)
 
