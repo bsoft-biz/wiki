@@ -1,25 +1,25 @@
 # Инструкции
 
 [  
-Создание документа](https://bsoft.gitbook.io/wiki/instrukcii/sozdanie-dokumenta)
+Создание документа](sozdanie-dokumenta.md)
 
-[Создание и настройка нового журнала](https://bsoft.gitbook.io/wiki/instrukcii/sozdanie-i-nastroika-novogo-zhurnala)
+[Создание и настройка нового журнала](sozdanie-i-nastroika-novogo-zhurnala.md)
 
-[Создание отчета](https://bsoft.gitbook.io/wiki/instrukcii/sozdanie-otcheta)
+[Создание отчета](sozdanie-otcheta.md)
 
-[Создание кнопок](https://bsoft.gitbook.io/wiki/instrukcii/sozdanie-knopok)
+[Создание кнопок](sozdanie-knopok.md)
 
-[Нумерация документов](https://bsoft.gitbook.io/wiki/instrukcii/numeraciya-dokumentov)
+[Нумерация документов](numeraciya-dokumentov.md)
 
-[Создание форм](https://bsoft.gitbook.io/wiki/instrukcii/sozdanie-form)
+[Создание форм](sozdanie-form/)
 
-[Создание справочника](https://bsoft.gitbook.io/wiki/instrukcii/sozdanie-spravochnika)
+[Создание справочника](sozdanie-spravochnika.md)
 
-[Инструкция по прыжкам](https://bsoft.gitbook.io/wiki/instrukcii/instrukciya-po-pryzhkam)
+[Инструкция по прыжкам](instrukciya-po-pryzhkam.md)
 
-[Инструкция по созданию новой схемы](https://bsoft.gitbook.io/wiki/instrukcii/instrukciya-po-sozdaniyu-novoi-skhemy)
+[Инструкция по созданию новой схемы](instrukciya-po-sozdaniyu-novoi-skhemy.md)
 
-[Инструкция по фокусам](https://bsoft.gitbook.io/wiki/instrukcii/instrukciya-po-fokusam)
+[Инструкция по фокусам](instrukciya-po-fokusam.md)
 
-[Создание документа с 3-мя гридами](https://bsoft.gitbook.io/wiki/instrukcii/sozdanie-dokumenta-s-3-mya-gridami)
+[Создание документа с 3-мя гридами](sozdanie-dokumenta-s-3-mya-gridami/)
 
