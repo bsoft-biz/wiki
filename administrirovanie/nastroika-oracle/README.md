@@ -1,36 +1,36 @@
 # Настройка Oracle
 
-[Настройка и запуск ORACLE](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-oracle/nastroika-i-%20%20zapusk-oracle)
+[Настройка и запуск ORACLE](nastroika-i-%20%20zapusk-oracle.md)
 
-[Диагностика](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-oracle/diagnostika)
+[Диагностика](diagnostika.md)
 
-[Настройка Oracle GateWays Windows.](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-%20%20oracle/nastroika-oracle-gateways-windows)
+[Настройка Oracle GateWays Windows.](nastroika-oracle-gateways-windows.md)
 
-[Настройка Oracle GateWays Linux\(Centos\).](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-%20%20oracle/nastroika-oracle-gateways-linux-centos)
+[Настройка Oracle GateWays Linux\(Centos\).](nastroika-oracle-gateways-linux-centos.md)
 
-[Grants\(гранты\) - dbms\_java.grant\_permission](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-%20%20oracle/grants-granty)
+[Grants\(гранты\) - dbms\_java.grant\_permission](grants-granty/)
 
-[Создание синонимов \(synonym\)](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-oracle/sozdanie-%20%20sinonimov)
+[Создание синонимов \(synonym\)](sozdanie-%20%20sinonimov.md)
 
-[Функции и предикаты oracle](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-oracle/funkcii-i-%20%20predikaty-oracle)
+[Функции и предикаты oracle](funkcii-i-%20%20predikaty-oracle.md)
 
-[Права доступа ACL](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-oracle/prava-dostupa-acl) \(для почты и запросов веб.\)
+[Права доступа ACL](prava-dostupa-acl.md) \(для почты и запросов веб.\)
 
-[Экспорт/Импорт схемы oracle с помощью UniVersions Экспорт/Импорт](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-oracle/eksport-import-skhemy-oracle)
+[Экспорт/Импорт схемы oracle с помощью UniVersions Экспорт/Импорт](eksport-import-skhemy-oracle/)
 
-[Инструкция по резке базы данных](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-%20%20oracle/instrukciya-po-rezke-bazy-dannykh)
+[Инструкция по резке базы данных](instrukciya-po-rezke-bazy-dannykh.md)
 
-[FGA](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-oracle/fga)
+[FGA](fga.md)
 
-[Создание JOB. Примеры.](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-oracle/sozdanie-job)
+[Создание JOB. Примеры.](sozdanie-job.md)
 
-[Сертификаты. Oracle wallet.](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-oracle/oracle-wallet) UTL\_HTTP и SSL \(HTTPS\).
+[Сертификаты. Oracle wallet.](oracle-wallet/) UTL\_HTTP и SSL \(HTTPS\).
 
-[Использование контекстов приложения.](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-%20%20oracle/ispolzovanie-kontekstov-prilozheniya)
+[Использование контекстов приложения.](ispolzovanie-kontekstov-prilozheniya.md)
 
-[Руководство по настройке Oracle для работы Universal Accounting SL](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-oracle/rukovodstvo-po-nastroike-oracle-dlya-%20%20raboty-universal-accounting-sl)
+[Руководство по настройке Oracle для работы Universal Accounting SL](rukovodstvo-po-nastroike-oracle-dlya-%20%20raboty-universal-accounting-sl.md)
 
-[Oracle post install](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-oracle/oracle-post-install)
+[Oracle post install](oracle-post-install.md)
 
-[Убрать FULL SCAN](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-oracle/ubrat-full-scan)
+[Убрать FULL SCAN](ubrat-full-scan.md)
 
