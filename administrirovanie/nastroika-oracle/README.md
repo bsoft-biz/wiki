@@ -1,6 +1,6 @@
 # Настройка Oracle
 
-[Настройка и запуск ORACLE](nastroika-i-%20%20zapusk-oracle.md)
+[Настройка и запуск ORACLE](https://github.com/bsoft-biz/wiki/tree/2fba90e9f8d529a8caeb7654c38fe74d927abc64/administrirovanie/nastroika-oracle/nastroika-i-%20%20zapusk-oracle.md)
 
 [Диагностика](diagnostika.md)
 
@@ -10,9 +10,9 @@
 
 [Grants\(гранты\) - dbms\_java.grant\_permission](grants-granty/)
 
-[Создание синонимов \(synonym\)](sozdanie-%20%20sinonimov.md)
+[Создание синонимов \(synonym\)](https://github.com/bsoft-biz/wiki/tree/2fba90e9f8d529a8caeb7654c38fe74d927abc64/administrirovanie/nastroika-oracle/sozdanie-%20%20sinonimov.md)
 
-[Функции и предикаты oracle](funkcii-i-%20%20predikaty-oracle.md)
+[Функции и предикаты oracle](https://github.com/bsoft-biz/wiki/tree/2fba90e9f8d529a8caeb7654c38fe74d927abc64/administrirovanie/nastroika-oracle/funkcii-i-%20%20predikaty-oracle.md)
 
 [Права доступа ACL](prava-dostupa-acl.md) \(для почты и запросов веб.\)
 
@@ -28,7 +28,7 @@
 
 [Использование контекстов приложения.](ispolzovanie-kontekstov-prilozheniya.md)
 
-[Руководство по настройке Oracle для работы Universal Accounting SL](rukovodstvo-po-nastroike-oracle-dlya-%20%20raboty-universal-accounting-sl.md)
+[Руководство по настройке Oracle для работы Universal Accounting SL](https://github.com/bsoft-biz/wiki/tree/2fba90e9f8d529a8caeb7654c38fe74d927abc64/administrirovanie/nastroika-oracle/rukovodstvo-po-nastroike-oracle-dlya-%20%20raboty-universal-accounting-sl.md)
 
 [Oracle post install](oracle-post-install.md)
 

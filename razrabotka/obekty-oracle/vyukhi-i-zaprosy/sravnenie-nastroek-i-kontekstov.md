@@ -12,6 +12,36 @@ minus
 select upper(name) from a$env)
 ```
 
+```sql
+select 
+  a.*, 
+  (
+    select 
+      denumirea 
+    from 
+      vms_univers@dev_link 
+    where 
+      cod = un$to_number(value)
+  ) 
+from 
+  a$env@dev_link a 
+where 
+  name in (
+    select 
+      upper(name) 
+    from 
+      a$env@dev_link 
+    where 
+      not (
+        lower(name) like '%perev%'
+      ) minus 
+    select 
+      upper(name) 
+    from 
+      a$env
+  )
+```
+
  Сравнение секций General через Link
 
 ```sql

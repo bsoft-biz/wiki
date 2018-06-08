@@ -45,7 +45,7 @@
 
 [Отчет типа ExcelGL2](otchet-tipa-excelgl2.md)
 
-[Отчет типа FastReport](otchety/otchet-tipa-fastreport.md)
+[Отчет типа FastReport](https://github.com/bsoft-biz/wiki/tree/0624fc133cd192db92bda53e49ea1c6af286a37b/razrabotka/konfigurator/otchety/otchety/otchet-tipa-fastreport.md)
 
 [Отчет типа FastReport4](otchet-tipa-fastreport4.md)
 

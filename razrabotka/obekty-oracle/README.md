@@ -1,6 +1,6 @@
 # Объекты ORACLE
 
-[Структура Базы Данных](struktura-bazy-dannykh.md) 
+[Структура Базы Данных](struktura-bazy-dannykh.md)
 
 стандартные объекты оракл
 
@@ -58,5 +58,5 @@ VMDB\_CMI, TMDB\_CM, [Некорректные остатки](nekorrektnye-osta
 
 [Работа с XML](rabota-s-xml.md)
 
-[Блокировки. Проблемы и ошибки блокировок.](blokirovki.-problemy-i-oshibki-blokirovok/)
+[Блокировки. Проблемы и ошибки блокировок.](https://github.com/bsoft-biz/wiki/tree/80040d245435d7169fca056cf791631371af8940/razrabotka/obekty-oracle/blokirovki.-problemy-i-oshibki-blokirovok)
 
