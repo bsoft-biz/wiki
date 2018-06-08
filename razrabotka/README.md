@@ -1,6 +1,6 @@
 # Разработка
 
-[Конфигуратор ](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator)\(все свойства в конфигураторе\).
+[Конфигуратор ](konfigurator/)\(все свойства в конфигураторе\).
 
 [Объекты UNA.](https://bsoft.gitbook.io/wiki/razrabotka)
 
