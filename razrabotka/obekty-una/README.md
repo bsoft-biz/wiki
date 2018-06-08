@@ -2,15 +2,15 @@
 
 В уне настраивается:
 
-[Гриды](https://bsoft.gitbook.io/wiki/razrabotka/obekty-una/gridy)
+[Гриды](gridy/)
 
-[Панель](https://bsoft.gitbook.io/wiki/razrabotka/obekty-una/panel)
+[Панель](panel/)
 
-[Печатные формы \(ПФ\).](https://bsoft.gitbook.io/wiki/razrabotka/obekty-una/pechatnye-formy)
+[Печатные формы \(ПФ\).](pechatnye-formy/)
 
-[Фильтры по филиалам \(nrset\)](https://bsoft.gitbook.io/wiki/razrabotka/obekty-una/filtry-po-filialam)
+[Фильтры по филиалам \(nrset\)](filtry-po-filialam.md)
 
-[Остатки \(F8\)](https://bsoft.gitbook.io/wiki/razrabotka/obekty-una/ostatki-f8)
+[Остатки \(F8\)](ostatki-f8.md)
 
-[Горячие клавиши](https://bsoft.gitbook.io/wiki/razrabotka/obekty-una/goryachie-klavishi) \(Hotkeys\)
+[Горячие клавиши](goryachie-klavishi.md) \(Hotkeys\)
 
