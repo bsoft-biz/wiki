@@ -14,7 +14,7 @@
 
 [Утилиты и опции в toad](utility-i-opcii-v-toad.md)
 
-[Поиск кто заблокировал документ](poisk-kto-zablokiroval-%20%20dokument.md)
+[Поиск кто заблокировал документ](poisk-kto-zablokiroval-dokument.md)
 
 [Почта](pochta.md)
 
