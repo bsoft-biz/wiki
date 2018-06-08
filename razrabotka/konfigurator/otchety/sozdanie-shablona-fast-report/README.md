@@ -6,12 +6,12 @@
 
 | **Название свойства** | **Тип** | **Описание** | **Значение для примера** |
 | --- | --- | --- | --- | --- | --- | --- |
-| `DLL ID` | `I` |  | `5002` |
-| `Report ID` | `S` |  | `2` |
-| `ReportType` | `S` |  | `2` |
-| `SQLAllinOne` | `M` |  | `BEGIN YKVINT_TEST_1.FR4_Print_Form (:nrdoc,:SqlHeader,:SqlMaster); END;` |
-| `Template` | `S` |  | Test\_Print\_Form.fr3 |
-| `VersionFR` | `I` |  | `4` |
+| DLL ID | I |  | 5002 |
+| Report ID | S |  | 2 |
+| ReportType | S |  | 2 |
+| SQLAllinOne | M |  | `BEGIN YKVINT_TEST_1.FR4_Print_Form (:nrdoc,:SqlHeader,:SqlMaster); END;` |
+| Template | S |  | Test\_Print\_Form.fr3 |
+| VersionFR | I |  | 4 |
 
 [Множественная \(потоковая\) печать](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/sozdanie-shablona-fast-report/mnozhestvennaya-potokovaya-pechat)
 

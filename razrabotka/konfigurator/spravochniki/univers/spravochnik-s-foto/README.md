@@ -46,23 +46,23 @@ end;
 
 | **Имя свойства** | **Тип** | **Описание** | **Значение для примера** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `Active` | `Boolean` |  | `true` |
-| `Caption` | `String` |  | Справочник продукции \(фото\) |
-| `DLL FormName` | `String` |  | `FSal1p01` |
-| `DLL ID` | `Integer` |  | `8101` |
-| `DateCount` | `Integer` | `0..2 (dates in header)` | `0` |
-| `FormUseDetail` | `Boolean` | `2 grids` | `true` |
-| `MasterSize` | `Integer` | `<0 means vertical` | `300` |
-| **`PanelHeightTab1`** | `Integer` | отображение грида и детайла внизу, с общим запросом | `-365` |
-| **`QueryTab1aTransAuto`** | `Boolean` |  Отключить автономные транзакции в табе с изображением |  `false` |
+| Active | Boolean |  | true |
+| Caption | String |  | Справочник продукции \(фото\) |
+| DLL FormName | String |  | FSal1p01 |
+| DLL ID | Integer |  | 8101 |
+| DateCount | Integer | 0..2 \(dates in header\) | 0 |
+| FormUseDetail | Boolean | 2 grids | true |
+| MasterSize | Integer | &lt;0 means vertical | 300 |
+| **PanelHeightTab1** | Integer | отображение грида и детайла внизу, с общим запросом | -365 |
+| **QueryTab1aTransAuto** | Boolean |  Отключить автономные транзакции в табе с изображением |  false |
 
 Настройки по Alt+Q [фото.dzn](https://yadi.sk/d/NyjRAuF23XDETz)
 
-Обязательно для поля фото используются функция `EMPTY_BLOB()` – функция возвращает `LOB` локатор для `BLOB` колонки. \( [объекты \(LOB\) в ORACLE](http://apps-oracle.ru/lob_oracle/) \)
+Обязательно для поля фото используются функция EMPTY\_BLOB\(\) – функция возвращает LOB локатор для BLOB колонки. \( [объекты \(LOB\) в ORACLE](http://apps-oracle.ru/lob_oracle/) \)
 
 Так же настраиваться поле PHOTO на вкладке Update.
 
 ![](../../../../../.gitbook/assets/foto3.jpg)
 
-В справочниках типа univers можно добавлять карточку \(`Cartela`\) для ПРОСМОТРА фото, на карточке не получилось настроить добавление фото.
+В справочниках типа univers можно добавлять карточку \(Cartela\) для ПРОСМОТРА фото, на карточке не получилось настроить добавление фото.
 

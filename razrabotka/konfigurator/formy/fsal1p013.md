@@ -4,11 +4,11 @@
 
 | **Название свойства** | **Тип** | **Описание**  | **Значение для примера**  |
 | --- | --- | --- | --- | --- | --- |
-| `DataStart` | `S` |  | `01.01.1991` |
-| `DefCodPrice` | `I` |  | `1` |
-| `DefNRDOC` | `I` |  | `0` |
-| `DefVALUTA` | `S` |  | `USD` |
-| `ShowContracts` | `B` |  | `false` |
+| DataStart | S |  | 01.01.1991 |
+| DefCodPrice | I |  | 1 |
+| DefNRDOC | I |  | 0 |
+| DefVALUTA | S |  | USD |
+| ShowContracts | B |  | false |
 
 
 
