@@ -5,11 +5,11 @@
 `Большинство отчетов поддерживают следующие свойства (свойства группы Общая)`
 
 | **Имя свойства** | **Тип** | **Описание** | **Значение для примера** |
-| :------------- |:-------------:| :-----| :-----|
+| :--- | :---: | :--- | :--- |
 | DLL ID | Integer | Идентификационный номер DLL | 9002 |
 | Index Fields | String |  |  |
-| Master Fields | String |   |  |
-| DontEditReport | Boolean | Запрет редактирования отчета перед печатью. Запрет экспорта в Excel. |  true |
+| Master Fields | String |  |  |
+| DontEditReport | Boolean | Запрет редактирования отчета перед печатью. Запрет экспорта в Excel. | true |
 | Report ID | String | Идентификатор печатной формы в DLL | univ |
 | Report Type | String | Типы отчетов: FormulaOne, ExcelGL2, FastReport, MSWord | FastReport |
 | SQLDetail | Memo | Запрос, возвращающий данные в область Detail \(область данных подчиненной таблицы\) печатной формы |  |
@@ -41,17 +41,17 @@
 
 **Типы печатных форм:**
 
-[Отчет типа Formula One](otchet-tipa-%20%20formula-one.md)
+[Отчет типа Formula One](https://github.com/bsoft-biz/wiki/tree/5c93665308f31128906214db6162ae8419e4fb1f/razrabotka/konfigurator/otchety/otchet-tipa-%20%20formula-one.md)
 
 [Отчет типа ExcelGL2](otchet-tipa-excelgl2.md)
 
-[Отчет типа FastReport](otchet-tipa-%20%20fastreport.md)
+[Отчет типа FastReport](https://github.com/bsoft-biz/wiki/tree/5c93665308f31128906214db6162ae8419e4fb1f/razrabotka/konfigurator/otchety/otchet-tipa-%20%20fastreport.md)
 
-[Отчет типа FastReport4](otchet-tipa-%20%20fastreport4.md)
+[Отчет типа FastReport4](https://github.com/bsoft-biz/wiki/tree/5c93665308f31128906214db6162ae8419e4fb1f/razrabotka/konfigurator/otchety/otchet-tipa-%20%20fastreport4.md)
 
-[Пример создания пивот отчета в РСЕ](primer-sozdaniya-pivot-otcheta-v-rse.md) 
+[Пример создания пивот отчета в РСЕ](primer-sozdaniya-pivot-otcheta-v-rse.md)
 
-[Опции отчетов в конфигураторе](opcii-%20%20otchetov-v-konfiguratore.md)
+[Опции отчетов в конфигураторе](https://github.com/bsoft-biz/wiki/tree/5c93665308f31128906214db6162ae8419e4fb1f/razrabotka/konfigurator/otchety/opcii-%20%20otchetov-v-konfiguratore.md)
 
 [Шаблоны Formula One](shablony-formula-one/)
 
@@ -61,15 +61,15 @@
 
 [Отчеты \(общее\)](otchety-obshee.md)
 
-[Универсальный отчет \(RSE\)](universalnyi-%20%20otchet-rse.md)
+[Универсальный отчет \(RSE\)](https://github.com/bsoft-biz/wiki/tree/5c93665308f31128906214db6162ae8419e4fb1f/razrabotka/konfigurator/otchety/universalnyi-%20%20otchet-rse.md)
 
 [Оформление текстового материала \(ОТЧЕТ\)](oformlenie-tekstovogo-materiala-otchet.md)
 
-[Универсальный отчет \(УО\)](universalnyi-%20%20otchet-uo.md)
+[Универсальный отчет \(УО\)](https://github.com/bsoft-biz/wiki/tree/5c93665308f31128906214db6162ae8419e4fb1f/razrabotka/konfigurator/otchety/universalnyi-%20%20otchet-uo.md)
 
 [Настройка отчета](nastroika-otcheta.md)
 
-[Конвертировать frf в fr3](konvertirovat-%20%20frf-v-fr3.md)
+[Конвертировать frf в fr3](https://github.com/bsoft-biz/wiki/tree/5c93665308f31128906214db6162ae8419e4fb1f/razrabotka/konfigurator/otchety/konvertirovat-%20%20frf-v-fr3.md)
 
-[Вычисление итогов для грида](vychislenie-%20%20itogov-dlya-grida.md)
+[Вычисление итогов для грида](https://github.com/bsoft-biz/wiki/tree/5c93665308f31128906214db6162ae8419e4fb1f/razrabotka/konfigurator/otchety/vychislenie-%20%20itogov-dlya-grida.md)
 

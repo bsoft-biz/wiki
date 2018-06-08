@@ -1,6 +1,5 @@
 # Настройки
 
-  
 [General](general.md)
 
 [Docs](docs.md)
