@@ -1,44 +1,42 @@
 # Администрирование
 
-[Установка Toad](https://github.com/bsoft-biz/wiki/tree/c3b71e94ad1f9cdbfd11a68560da48bee641255b/administrirovanie/administrirovanie/ustanovka-toad/README.md)
+[Установка Toad](ustanovka-toad.md)
 
-[Настройка архивирования \(Backup\) удаленных документов.](https://bsoft.gitbook.io/wiki/administrirovanie/arkhivirovanie-backup-udalennykh-dokumentov)
+[Настройка архивирования \(Backup\) удаленных документов.](arkhivirovanie-backup-udalennykh-dokumentov.md)
 
-[Настройка Oracle](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-oracle)
+[Настройка Oracle](nastroika-oracle/)
 
-[Настройка ОС Windows](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-os-windows)
+[Настройка ОС Windows](nastroika-os-windows.md)
 
-[Настройка модемов](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-modemov)
+[Настройка модемов](nastroika-modemov.md)
 
-[Экспорт и импорт данных из toad](https://bsoft.gitbook.io/wiki/administrirovanie/eksport-i-import-%20%20dannykh-iz-toad)
+[Экспорт и импорт данных из toad](eksport-i-import-%20%20dannykh-iz-toad/)
 
-[Утилиты и опции в toad](https://bsoft.gitbook.io/wiki/administrirovanie/utility-i-opcii-v-toad)
+[Утилиты и опции в toad](utility-i-opcii-v-toad.md)
 
-[Поиск кто заблокировал документ](https://bsoft.gitbook.io/wiki/administrirovanie/poisk-kto-zablokiroval-%20%20dokument)
+[Поиск кто заблокировал документ](poisk-kto-zablokiroval-%20%20dokument.md)
 
-[Почта](https://bsoft.gitbook.io/wiki/administrirovanie/pochta)
+[Почта](pochta.md)
 
-[Инструкция по выполнению апгрейда базы данных](https://bsoft.gitbook.io/wiki/administrirovanie/instrukciya-po-vypolneniyu-apgreida-bazy-dannykh)
+[Инструкция по выполнению апгрейда базы данных](instrukciya-po-vypolneniyu-apgreida-bazy-dannykh.md)
 
-[AdministratorAnna](https://bsoft.gitbook.io/wiki/administrirovanie/administratoranna)
+[AdministratorAnna](administratoranna.md)
 
-[Загрузка данных в документ из файла Excel или DBF](https://bsoft.gitbook.io/wiki/administrirovanie/zagruzka-dannykh-v-dokument-iz-faila-excel-ili-dbf)
+[Загрузка данных в документ из файла Excel или DBF](zagruzka-dannykh-v-dokument-iz-faila-excel-ili-dbf.md)
 
-[apache](https://bsoft.gitbook.io/wiki/administrirovanie/apache)
+[apache](apache.md)
 
-[Трассировка](https://bsoft.gitbook.io/wiki/administrirovanie/trassirovka)
+[Трассировка](trassirovka.md)
 
-[Импорт данных из Excel в таблицу БД](https://bsoft.gitbook.io/wiki/administrirovanie/import-dannykh-iz-%20%20excel-v-tablicu-bd)
+[Импорт данных из Excel в таблицу БД](import-dannykh-iz-%20%20excel-v-tablicu-bd.md)
 
-[Конвертация старого Administrator'a в новый Configurator](https://bsoft.gitbook.io/wiki/administrirovanie/konvertaciya-starogo-administratora-v-novyi-configurator)
+[Конвертация старого Administrator'a в новый Configurator](konvertaciya-starogo-administratora-v-novyi-configurator.md)
 
-[Настройка базы](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-bazy)
+[Настройка базы](nastroika-bazy.md)
 
-[Конфигурация нового терминальника. ](https://bsoft.gitbook.io/wiki/administrirovanie/konfiguraciya-novogo-terminalnika.)\(Основное ПО и настройки\)
+[Конфигурация нового терминальника. ](konfiguraciya-novogo-terminalnika..md)\(Основное ПО и настройки\)
 
-[Глобальные проблемы и ошибки ORACLE](https://bsoft.gitbook.io/wiki/administrirovanie/globalnye-problemy-%20%20i-oshibki-oracle)
+[Глобальные проблемы и ошибки ORACLE](globalnye-problemy-%20%20i-oshibki-oracle/)
 
-[Инструкция по установке системы архивирования удаляемых документов](https://bsoft.gitbook.io/wiki/administrirovanie/instrukciya-po-ustanovke-sistemy-arkhivirovaniya-%20%20udalyaemykh-dokumentov)
-
-[Скрипт для экспорта схем через data pump](https://bsoft.gitbook.io/wiki/administrirovanie/untitled)
+[Инструкция по установке системы архивирования удаляемых документов](instrukciya-po-ustanovke-sistemy-arkhivirovaniya-%20%20udalyaemykh-dokumentov.md)
 
