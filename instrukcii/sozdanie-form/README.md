@@ -38,7 +38,7 @@
 
 ![](../../.gitbook/assets/mf4.jpg)
 
-[Создание формы справочника Univers](https://bsoft.gitbook.io/wiki/instrukcii/sozdanie-form/sozdanie-formy-otobrazhayushei-spravochnik-univers).
+[Создание формы справочника Univers](sozdanie-formy-otobrazhayushei-spravochnik-univers.md).
 
-[Создание формы справочника SysS](https://bsoft.gitbook.io/wiki/instrukcii/sozdanie-form/sozdanie-formy-spravochnika-syss).
+[Создание формы справочника SysS](sozdanie-formy-spravochnika-syss.md).
 
