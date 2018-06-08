@@ -1,14 +1,14 @@
 # Гриды
 
-[Параметры выпадающих справочников Alt+D](https://bsoft.gitbook.io/wiki/razrabotka/obekty-una/gridy/parametry-vypadayushikh-spravochnikov)
+[Параметры выпадающих справочников Alt+D](parametry-vypadayushikh-spravochnikov.md
 
-[Цвета](https://bsoft.gitbook.io/wiki/razrabotka/obekty-una/gridy/cveta)
+[Цвета](cveta/)
 
-Форматы представления и редактирования данных \([Display Format Edit mask](https://bsoft.gitbook.io/wiki/razrabotka/obekty-una/gridy/display-format-edit-mask)\)
+Форматы представления и редактирования данных \([Display Format Edit mask](display-format-edit-mask.md)\)
 
-[Настройка документа для ввода данных сканером штрих-кодов](https://bsoft.gitbook.io/wiki/razrabotka/obekty-una/gridy/nastroika-dokumenta-dlya-vvoda-dannykh-skanerom-shtrikh-kodov)
+[Настройка документа для ввода данных сканером штрих-кодов](nastroika-dokumenta-dlya-vvoda-dannykh-skanerom-shtrikh-kodov.md)
 
-[Настройка SagiProperties](https://bsoft.gitbook.io/wiki/razrabotka/obekty-una/gridy/nastroika-sagiproperties)
+[Настройка SagiProperties](nastroika-sagiproperties.md)
 
 Считать и отображать итог  в шапке, при вводе данных в гриде .
 
