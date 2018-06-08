@@ -4,11 +4,11 @@
 
 На редактирование:
 
- - [Через контексты](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/spravochniki/syss/cherez-konteksty) \(RESTRICTED\_SYSS\_TIP или PERMITED\_SYSS\_TIP\);
+ - [Через контексты](cherez-konteksty.md) \(RESTRICTED\_SYSS\_TIP или PERMITED\_SYSS\_TIP\);
 
- - [Через временную таблицу](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/spravochniki/syss/cherez-vremennuyu-tablicu-tms_syss_unlock) \(tms\_syss\_unlock\);
+ - [Через временную таблицу](cherez-vremennuyu-tablicu-tms_syss_unlock.md) \(tms\_syss\_unlock\);
 
 На просмотр и редактирование:
 
-- [Через временную таблицу](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/spravochniki/syss/cherez-vremennuyu-tablicu-tms_syss_sel_unlock) \(TMS\_SYSS\_SEL\_UNLOCK\).
+- [Через временную таблицу](cherez-vremennuyu-tablicu-tms_syss_sel_unlock.md) \(TMS\_SYSS\_SEL\_UNLOCK\).
 
