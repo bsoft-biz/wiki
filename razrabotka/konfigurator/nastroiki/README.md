@@ -1,23 +1,23 @@
 # Настройки
 
   
-[General](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/nastroiki/general)
+[General](general.md)
 
-[Docs](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/nastroiki/docs)
+[Docs](docs.md)
 
-[Company](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/nastroiki/company)
+[Company](company.md)
 
-[Cartela](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/nastroiki/cartela). Карточка.
+[Cartela](cartela/). Карточка.
 
-[Help](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/nastroiki/help)
+[Help](help.md)
 
 Настройки модулей:
 
-[Salary](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/nastroiki/salary)
+[Salary](salary.md)
 
-[Active Fixe](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/nastroiki/active-fixe)
+[Active Fixe](active-fixe.md)
 
-[Настройки прочих модулей](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/nastroiki/nastroiki-prochikh-modulei)
+[Настройки прочих модулей](nastroiki-prochikh-modulei.md)
 
-Часто бывает удобно менять настройки из прграммы, для этого можно воспользоваться механизмом - [Изменение настроек конфигуратора в форме Уны.](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/nastroiki/izmenenie-nastroek-konfiguratora-v-forme-uny)
+Часто бывает удобно менять настройки из прграммы, для этого можно воспользоваться механизмом - [Изменение настроек конфигуратора в форме Уны.](izmenenie-nastroek-konfiguratora-v-forme-uny.md)
 
