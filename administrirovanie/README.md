@@ -1,6 +1,6 @@
 # Администрирование
 
-[Установка Toad](administrirovanie/ustanovka-toad/)
+[Установка Toad](ustanovka-toad/)
 
 [Настройка архивирования \(Backup\) удаленных документов.](https://bsoft.gitbook.io/wiki/administrirovanie/arkhivirovanie-backup-udalennykh-dokumentov)
 
