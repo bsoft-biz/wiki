@@ -10,7 +10,7 @@
 
 [Настройка модемов](nastroika-modemov.md)
 
-[Экспорт и импорт данных из toad](eksport-i-import-%20%20dannykh-iz-toad/)
+[Экспорт и импорт данных из toad](eksport-i-import-dannykh-iz-toad/)
 
 [Утилиты и опции в toad](utility-i-opcii-v-toad.md)
 
