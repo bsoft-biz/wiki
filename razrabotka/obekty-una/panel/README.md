@@ -41,5 +41,5 @@
 
 ![&#x420;&#x438;&#x441;. 1. &#x41C;&#x435;&#x43D;&#x44E; &quot;&#x41D;&#x430;&#x441;&#x442;&#x440;&#x43E;&#x439;&#x43A;&#x438;&quot;](../../../.gitbook/assets/menyu.png)
 
-[Кнопка ](https://bsoft.gitbook.io/wiki/razrabotka/obekty-una/panel/knopka)\(button\)
+[Кнопка ](knopka.md)\(button\)
 
