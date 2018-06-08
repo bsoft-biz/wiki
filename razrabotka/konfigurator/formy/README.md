@@ -81,7 +81,7 @@
 
  - [Action  ](/razrabotka/konfigurator/dokumenty/deistviya-action.md)\(выполнение определенных действий с данными при работе с соответствующей формой\)
 
- - [Print form](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/pechatnye-formy-printforms) \(служат для настройки печатных форм\)
+ - [Print form](/razrabotka/konfigurator/dokumenty/pechatnye-formy-printforms.md) \(служат для настройки печатных форм\)
 
 [Модальные формы](modalnye-formy.md) 
 
