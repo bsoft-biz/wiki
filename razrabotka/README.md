@@ -4,7 +4,7 @@
 
 [Объекты UNA](https://bsoft.gitbook.io/wiki/razrabotka/obekty-una).
 
-[Объекты ORACLE](https://bsoft.gitbook.io/wiki/razrabotka) \(стандартные пакеты, объекты, пакеты UNA, таблицы UNA\).
+[Объекты ORACLE](https://bsoft.gitbook.io/wiki/razrabotka/obekty-oracle) \(стандартные пакеты, объекты, пакеты UNA, таблицы UNA\).
 
 [startup.ini](https://bsoft.gitbook.io/wiki/razrabotka)
 
