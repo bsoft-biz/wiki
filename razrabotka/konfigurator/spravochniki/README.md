@@ -2,25 +2,25 @@
 
 Типы справочников:
 
-[Справочник](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/spravochniki/spravochnik)
+[Справочник](spravochnik.md)
 
-[Настройка выпадающих справочников](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/spravochniki/nastroika-vypadayushikh-spravochnikov)
+[Настройка выпадающих справочников](nastroika-vypadayushikh-spravochnikov.md)
 
-[Справочник элементов аналитического учета \(Univers\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/spravochniki/univers)
+[Справочник элементов аналитического учета \(Univers\)](univers/)
 
-[Справочник произвольных элементов \(SysS\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/spravochniki/syss)
+[Справочник произвольных элементов \(SysS\)](syss/)
 
-[План счетов бухгалтерского учета \(PDC\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/spravochniki/pdc)
+[План счетов бухгалтерского учета \(PDC\)](pdc.md)
 
 Валюты \(денежные единицы различных государств\)
 
 Единицы измерения
 
-[Скрипты для чистки справочников](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/spravochniki/chistka-spravochnikov)
+[Скрипты для чистки справочников](chistka-spravochnikov.md)
 
-[Справочник произвольного типа \(CustomList\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/spravochniki/customlist)
+[Справочник произвольного типа \(CustomList\)](customlist.md)
 
-[Справочник произвольного типа \(SQL\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/spravochniki/spravochnik-proizvolnogo-tipa-sql)
+[Справочник произвольного типа \(SQL\)](spravochnik-proizvolnogo-tipa-sql.md)
 
 Выпад список типа SQL
 
