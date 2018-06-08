@@ -86,5 +86,5 @@
 
 [UnFSal1Properties](unfsal1properties.md)
 
-[Восстановить дизайн формы](https://github.com/bsoft-biz/wiki/tree/982a3de8ea195109bccee983843b74670d46f4c2/razrabotka/konfigurator/formy/vosstanovit-%20%20dizain-formy.md) \(после обновления конфигуратора\)
+[Восстановить дизайн формы](vosstanovit-dizain-formy.md) \(после обновления конфигуратора\)
 
