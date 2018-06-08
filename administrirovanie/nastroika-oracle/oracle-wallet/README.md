@@ -5,7 +5,7 @@
 
 Ссылка на источник: [http://www.oracle-base.com/articles/misc/utl\_http-and-ssl.php](http://www.oracle-base.com/articles/misc/utl_http-and-ssl.php)
 
-Частичный [перевод статьи utl\_http-and-ssl.php](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-oracle/oracle-wallet/perevod-stati-utl_http-and-ssl.php)
+Частичный [перевод статьи utl\_http-and-ssl.php](perevod-stati-utl_http-and-ssl.php.md)
 
 Описание [Утилита для управления Oracle wallets](http://docs.oracle.com/cd/E11882_01/network.112/e10746/asoappf.htm#ASOAG9830)
 
