@@ -1,17 +1,17 @@
 # Шаблоны Formula One
 
   
-[Page Break](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/shablony-formula-one/page-break) \(переход на новую страницу\)
+[Page Break](page-break.md) \(переход на новую страницу\)
 
-[F1PageHeader и Footer](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/shablony-formula-one/f1pageheader-i-footer)
+[F1PageHeader и Footer](f1pageheader-i-footer.md)
 
-[Колонтитулы](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/shablony-formula-one/kolontituly)
+[Колонтитулы](kolontituly.md)
 
-[Опции в шаблонах Formula One](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/shablony-formula-one/opcii-v-shablonakh-formula-one)
+[Опции в шаблонах Formula One](opcii-v-shablonakh-formula-one.md)
 
-[Формат ячеек Formula One](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/shablony-formula-one/format-yacheek-formula-one)
+[Формат ячеек Formula One](format-yacheek-formula-one.md)
 
-[Цвет отдельных ячеек](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/otchety/shablony-formula-one/cvet-otdelnykh-yacheek)
+[Цвет отдельных ячеек](cvet-otdelnykh-yacheek.md)
 
 Параметры/управляющие конструкции находятся в первых трех столбцах. Примеры:
 
