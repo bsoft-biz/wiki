@@ -2,7 +2,7 @@
 
 [Документы ](dokumenty/)- Documents
 
-[Журналы ](zhurnaly)- Journals
+[Журналы ](zhurnaly.md)- Journals
 
 [Отчеты ](otchety/)- Reports
 
