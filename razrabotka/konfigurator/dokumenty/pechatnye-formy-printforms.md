@@ -11,7 +11,7 @@
 **Основные свойства объекта типа** PrintForms
 
 | **Имя свойства**  | **Тип**  | **Описание**  | **Значение для примера**  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :------------- |:-------------:| :-----| :-----|
 | DLL ID | Integer | Идентификационный номер DLL | 5002 |
 | Index Fields | String |   |   |
 | Master Fields | String |   |   |
@@ -143,37 +143,68 @@ ylin\_docs.zaiav\_list\_xl\(:nrdoc, :SQLHeader, :SQLMaster, :SQLDetail, :XLSCRIP
 
 XLSCRIPT := 'Sub start\(\)'
 
-CHR\(10\)	'Dim OutApp As Object'
 
-CHR\(10\)	'Dim OutMail As Object'
+CHR\(10\)	
+'Dim OutApp As Object'
 
-CHR\(10\) 'Set OutApp = CreateObject\("Outlook.Application"\)'
 
-CHR\(10\)	 'Set OutMail = OutApp.CreateItem\(0\)'
+CHR\(10\)	
+'Dim OutMail As Object'
 
-CHR\(10\)	 'On Error Resume Next'
 
-CHR\(10\)	'With OutMail'
+CHR\(10\) 'Set OutApp = CreateObject\("Outlook.Application"\)'
 
-CHR\(10\)	'.to = "'v\_mail' "'
 
-CHR\(10\)	'.CC = "'v\_mail\_cc' "'
+CHR\(10\)	
+ 'Set OutMail = OutApp.CreateItem\(0\)'
 
-CHR\(10\)	'.BCC = "'v\_mail\_bcc'  "'
 
-CHR\(10\)	'.Subject = "Заявочный лист"'
+CHR\(10\)	
+ 'On Error Resume Next'
 
-CHR\(10\)	'.Body = "'v\_body' "'
 
-CHR\(10\)	'.Attachments.Add ActiveWorkbook.FullName'
+CHR\(10\)	'With OutMail'
 
-CHR\(10\)	'.Display'  
 
-CHR\(10\)	'End With'
+CHR\(10\)	
+'.to = "'v\_mail' "'
 
-CHR\(10\)	'Set OutMail = Nothing'
 
-CHR\(10\)	'Set OutApp = Nothing'
+CHR\(10\)	'.CC = "'v\_mail\_cc' "'
 
-CHR\(10\)	'End Sub';
+
+CHR\(10\)	
+'.BCC = "'v\_mail\_bcc'  "'
+
+
+CHR\(10\)	
+'.Subject = "Заявочный лист"'
+
+
+CHR\(10\)	
+'.Body = "'v\_body' "'
+
+
+CHR\(10\)	
+'.Attachments.Add ActiveWorkbook.FullName'
+
+
+CHR\(10\)	
+'.Display'  
+
+
+CHR\(10\)	
+'End With'
+
+
+CHR\(10\)	
+'Set OutMail = Nothing'
+
+
+CHR\(10\)	
+'Set OutApp = Nothing'
+
+
+CHR\(10\)	
+'End Sub';
 
