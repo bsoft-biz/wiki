@@ -40,3 +40,4 @@
 
 [Инструкция по установке системы архивирования удаляемых документов](instrukciya-po-ustanovke-sistemy-arkhivirovaniya-%20%20udalyaemykh-dokumentov.md)
 
+[Скрипт для экспорта схем через data pump](skript-dlya-eksporta-skhem-cherez-data-pump.md.md)
