@@ -1,6 +1,6 @@
 # Администрирование
 
-[Установка Toad](administrirovanie/ustanovka-toad/)
+[Установка Toad](https://github.com/bsoft-biz/wiki/tree/c3b71e94ad1f9cdbfd11a68560da48bee641255b/administrirovanie/administrirovanie/ustanovka-toad/README.md)
 
 [Настройка архивирования \(Backup\) удаленных документов.](https://bsoft.gitbook.io/wiki/administrirovanie/arkhivirovanie-backup-udalennykh-dokumentov)
 
@@ -38,9 +38,7 @@
 
 [Глобальные проблемы и ошибки ORACLE](https://bsoft.gitbook.io/wiki/administrirovanie/globalnye-problemy-%20%20i-oshibki-oracle)
 
-[Инструкция по установке системы архивирования удаляемых документов](https://bsoft.gitbook.io/wiki/administrirovanie/instrukciya-po-ustanovke-sistemy-arkhivirovaniya-%20%20udalyaemykh-dokumentov) 
+[Инструкция по установке системы архивирования удаляемых документов](https://bsoft.gitbook.io/wiki/administrirovanie/instrukciya-po-ustanovke-sistemy-arkhivirovaniya-%20%20udalyaemykh-dokumentov)
 
 [Скрипт для экспорта схем через data pump](https://bsoft.gitbook.io/wiki/administrirovanie/untitled)
-
-
 

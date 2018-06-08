@@ -4,47 +4,31 @@
 
 Пример дерева отчетов
 
- + Rapoarte materiale/materia prima \(Материальные отчеты\)
-
- + Rapoarte universale \(Универсальные отчеты\)
-
- + Rapoarte vinzari \(Отчеты Продажи\)
-
- + Rapoarte active fixe \(Отчеты Основные фонды\)
-
- + Achizitii \(Поступления\)
-
- + Rapoarte livrari \(Отчеты Отгрузка\)
-
- + Rapoarte financiare \(Финансовые отчеты\)
-
-+ Decontari cu clientela \(GCC\) \(Расчеты с клиентами\)
-
- - Rapoarte CASA \(Отчеты Касса\)
-
-            + Anexa CASA Total pe conturi \(Приложение Касса Итого по счетам\)
-
-          + Descifrarea din credetul 2411 \(Расшифровка кредита счета 2411\)
-
-            + Descifrarea din debetul 2411 \(Расшифровка дебета счета 2411\)
-
-            + Darea de seama a casierului \(Отчет кассира\)
-
-            + Foaie suplimentara la Registrul de Casa \(Дополнение к отчету кассира\)
-
-            + Jurnal-Order Nr1 \(Журнал-ордер N 1\)
-
-+ Contracte \(Контракты\)
-
-+ Materiale \(Материалы\)
+* Rapoarte materiale/materia prima \(Материальные отчеты\)
+* Rapoarte universale \(Универсальные отчеты\)
+* Rapoarte vinzari \(Отчеты Продажи\)
+* Rapoarte active fixe \(Отчеты Основные фонды\)
+* Achizitii \(Поступления\)
+* Rapoarte livrari \(Отчеты Отгрузка\)
+* Rapoarte financiare \(Финансовые отчеты\)
+* Decontari cu clientela \(GCC\) \(Расчеты с клиентами\)
+  * Rapoarte CASA \(Отчеты Касса\)
+    * Anexa CASA Total pe conturi \(Приложение Касса Итого по счетам\)
+      * Descifrarea din credetul 2411 \(Расшифровка кредита счета 2411\)
+    * Descifrarea din debetul 2411 \(Расшифровка дебета счета 2411\)
+    * Darea de seama a casierului \(Отчет кассира\)
+    * Foaie suplimentara la Registrul de Casa \(Дополнение к отчету кассира\)
+    * Jurnal-Order Nr1 \(Журнал-ордер N 1\)
+* Contracte \(Контракты\)
+* Materiale \(Материалы\)
 
 `Большинство отчетов поддерживают следующие свойства (свойства группы Общая)`
 
 | **Имя свойства** | **Назначение** |
-| :------------- |:-------------:| 
+| :--- | :---: |
 | DLL ID | Идентификационный номер DLL |
-| Index Fields |   |
-| Master Fields |   |
+| Index Fields |  |
+| Master Fields |  |
 | Report ID | Идентификатор печатной формы в DLL |
 | Report Type | Типы отчетов: FormulaOne, ExcelGL2, FastReport,MSWord |
 | SQLDetail SQL | Запрос, возвращающий данные в область Detail \(область данных подчиненной таблицы\) печатной формы |
@@ -62,7 +46,7 @@
 `Свойства Универсального отчета`
 
 | **Имя свойства** | **Назначение** |
-| :------------- |:-------------:| 
+| :--- | :---: |
 | DLL ID | Идентификационный номер DLL \(Значение 2\) |
 | Caption | Подпись окна параметров отчета |
 | Report ID | Идентификационный номер отчета в DLL \(Значение 1\) |
@@ -116,14 +100,14 @@ _ListC.Text="a. Sold init Dt","c. Rulajul Dt","d. Rulajul Ct","e. Sold final Dt"
 `Свойства Нового Универсального отчета`
 
 | **Имя свойства** | **Назначение** |
-| :------------- |:-------------:| 
+| :--- | :---: |
 | Caption | Подпись окна параметров отчета |
 | DLL ID | Идентификационный номер DLL \(Значение 4201\) |
 | Report ID | Идентификационный номер отчета в DLL |
 | Report Type | Один из трех типов отчетов: Formula One, ExcelGL2, FastReport |
 | OraFunction | Процедура PL/SQL генерации результирующего набора записей |
 | RseFiledsBaza | Список доступных и выбранных полей раздела Filtru de baza |
-|   | Список доступных и выбранных полей раздела Filtru Corespondent |
+|  | Список доступных и выбранных полей раздела Filtru Corespondent |
 | RseSoldRulajTmplOrder | Указывает, какие из категорий Sold Initial Dt, Ct, Rulaj Dt, Ct, Sold Final Dt, Ct используются в отчете и порядок появления их в шаблоне |
 | RseSumaCantTmplOrder | Указывает, какие из категорий Cant, Suma, SumaVal используются в отчете и порядок появления их в шаблоне |
 | RepWindow | Текст, содержащий настройки окна параметров отчета: отображение / скрытие элементов управления, установка значений по умолчанию, включение / выключение флажков |
@@ -138,7 +122,7 @@ _ListC.Text="a. Sold init Dt","c. Rulajul Dt","d. Rulajul Ct","e. Sold final Dt"
 `Свойства отчета`
 
 | **Имя свойства** | **Назначение** |
-| :------------- |:-------------:| 
+| :--- | :---: |
 | Группа Filters:Filt1A, Filt2A, …, Filt6A | Установка фильтра по полю ‘Тип’ для записей универсального справочника, выводящихся в списках Filt1, Filt2, …, Filt6 |
 | ПримерFlit1A = O \(Организации\)Filt2A = P \(Продукция\) |  |
 | Группа Видимость:Filt1Visible, Filt2Visible, …, Filt6Visible, Parameter1Visible, …, Parameter4Visible | Отображение / скрытие элементов управления в окне параметров отчета |
@@ -160,7 +144,7 @@ _ListC.Text="a. Sold init Dt","c. Rulajul Dt","d. Rulajul Ct","e. Sold final Dt"
 `TXT-свойства – свойства отчета в текстовом формате. Свойства поддерживаются всеми отчетами.`
 
 | **Имя свойства** | **Назначение** |
-| :------------- |:-------------:| 
+| :--- | :---: |
 | TXTFixedPreview | Автоматически выводит отчет и в текстовом формате наряду с основным \(Formula One Excel\) |
 | TXT\_AutoCloseF1 | Выводит отчет только в текстовом формате |
 | TXT\_AutoCloseTXT | Автоматически закрывает окно отчета в текстовом формате |
