@@ -1,10 +1,10 @@
 # Цвета
 
-[Цвет документов \(doc color\)](https://bsoft.gitbook.io/wiki/razrabotka/obekty-una/gridy/cveta/cvet-dokumentov)
+[Цвет документов \(doc color\)](cvet-dokumentov.md)
 
-[Цвет строк в гридах \(bgcolor\)](https://bsoft.gitbook.io/wiki/razrabotka/obekty-una/gridy/cveta/cvet-strok-v-gridakh)
+[Цвет строк в гридах \(bgcolor\)](cvet-strok-v-gridakh.md)
 
-[Color](https://bsoft.gitbook.io/wiki/razrabotka/obekty-una/gridy/cveta/color)
+[Color](color.md)
 
 по обновлениям:
 
