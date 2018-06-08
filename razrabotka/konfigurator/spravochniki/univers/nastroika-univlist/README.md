@@ -1,8 +1,8 @@
 # Настройка UnivList
 
-[Создание СПРАВОЧНИКОВ.](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/spravochniki/univers/nastroika-univlist/sozdanie-spravochnikov)
+[Создание СПРАВОЧНИКОВ.](sozdanie-spravochnikov.md)
 
-[Настройка Формы, ссылающейся на Univers](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/formy/univers)
+[Настройка Формы, ссылающейся на Univers](/razrabotka/konfigurator/formy/univers.md)
 
 Чтобы действовало свойство в конфигураторе необходимо задать имя секции с «:».
 
@@ -17,7 +17,7 @@
 Свойства справочников \(узел конф. Univ lists\)
 
 | **Имя свойства** | **Тип** | **Описание** | **Значение для примера** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :------------- |:-------------:| :-----| :-----|
 | StartField | String | Поле позиционирования по умолчанию | denumirea |
 | SpeedSearchQuery | String | Запрос для быстрого поиска,  который выполняется по нажатию Enter | SELECT cod,\(SELECT denumirea\_\_1 FROM vms\_univers u WHERE u.cod=t.cod \)  denumirea\_\_1 FROM TMS\_MPT t WHERE |
 | SagiEditQuery | Boolean | Разрешить изменение запросов \(Alt+Q\) справочника | true |
