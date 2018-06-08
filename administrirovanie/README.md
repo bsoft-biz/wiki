@@ -10,11 +10,11 @@
 
 [Настройка модемов](nastroika-modemov.md)
 
-[Экспорт и импорт данных из toad](https://github.com/bsoft-biz/wiki/tree/f2817c9280c0554190d4d2fa3bd93140a31a9b5f/administrirovanie/eksport-i-import-%20%20dannykh-iz-toad/README.md)
+[Экспорт и импорт данных из toad](eksport-i-import-%20%20dannykh-iz-toad/)
 
 [Утилиты и опции в toad](utility-i-opcii-v-toad.md)
 
-[Поиск кто заблокировал документ](https://github.com/bsoft-biz/wiki/tree/f2817c9280c0554190d4d2fa3bd93140a31a9b5f/administrirovanie/poisk-kto-zablokiroval-%20%20dokument.md)
+[Поиск кто заблокировал документ](poisk-kto-zablokiroval-%20%20dokument.md)
 
 [Почта](pochta.md)
 
@@ -28,7 +28,7 @@
 
 [Трассировка](trassirovka.md)
 
-[Импорт данных из Excel в таблицу БД](https://github.com/bsoft-biz/wiki/tree/f2817c9280c0554190d4d2fa3bd93140a31a9b5f/administrirovanie/import-dannykh-iz-%20%20excel-v-tablicu-bd.md)
+[Импорт данных из Excel в таблицу БД](import-dannykh-iz-%20%20excel-v-tablicu-bd.md)
 
 [Конвертация старого Administrator'a в новый Configurator](konvertaciya-starogo-administratora-v-novyi-configurator.md)
 
@@ -36,9 +36,9 @@
 
 [Конфигурация нового терминальника. ](konfiguraciya-novogo-terminalnika..md)\(Основное ПО и настройки\)
 
-[Глобальные проблемы и ошибки ORACLE](https://github.com/bsoft-biz/wiki/tree/f2817c9280c0554190d4d2fa3bd93140a31a9b5f/administrirovanie/globalnye-problemy-%20%20i-oshibki-oracle/README.md)
+[Глобальные проблемы и ошибки ORACLE](globalnye-problemy-%20%20i-oshibki-oracle/)
 
-[Инструкция по установке системы архивирования удаляемых документов](https://github.com/bsoft-biz/wiki/tree/f2817c9280c0554190d4d2fa3bd93140a31a9b5f/administrirovanie/instrukciya-po-ustanovke-sistemy-arkhivirovaniya-%20%20udalyaemykh-dokumentov.md)
+[Инструкция по установке системы архивирования удаляемых документов](instrukciya-po-ustanovke-sistemy-arkhivirovaniya-%20%20udalyaemykh-dokumentov.md)
 
-[Скрипт для экспорта схем через data pump](https://github.com/bsoft-biz/wiki/tree/f2817c9280c0554190d4d2fa3bd93140a31a9b5f/administrirovanie/skript-dlya-eksporta-skhem-cherez-data-pump.md.md)
+[Скрипт для экспорта схем через data pump](skript-dlya-eksporta-skhem-cherez-data-pump.md.md)
 
