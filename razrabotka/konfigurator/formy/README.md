@@ -79,7 +79,7 @@
 
 Дочерние объекты формы такие же как и у документов:
 
- - [Action  ](/konfigurator/dokumenty/deistviya-action.md)\(выполнение определенных действий с данными при работе с соответствующей формой\)
+ - [Action  ](/razrabotka/konfigurator/dokumenty/deistviya-action.md)\(выполнение определенных действий с данными при работе с соответствующей формой\)
 
  - [Print form](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/dokumenty/pechatnye-formy-printforms) \(служат для настройки печатных форм\)
 
