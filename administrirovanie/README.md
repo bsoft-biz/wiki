@@ -1,46 +1,46 @@
 # Администрирование
 
-[Установка Toad](administrirovanie/ustanovka-toad/)
+[Установка Toad](https://bsoft.gitbook.io/wiki/administrirovanie/ustanovka-toad)
 
-[Настройка архивирования \(Backup\) удаленных документов.](administrirovanie/arkhivirovanie-backup-udalennykh-dokumentov/)
+[Настройка архивирования \(Backup\) удаленных документов.](https://bsoft.gitbook.io/wiki/administrirovanie/arkhivirovanie-backup-udalennykh-dokumentov)
 
-[Настройка Oracle](administrirovanie/nastroika-oracle/)
+[Настройка Oracle](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-oracle)
 
-[Настройка ОС Windows](administrirovanie/nastroika-os-windows/)
+[Настройка ОС Windows](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-os-windows)
 
-[Настройка модемов](administrirovanie/nastroika-modemov/)
+[Настройка модемов](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-modemov)
 
-[Экспорт и импорт данных из toad](administrirovanie/eksport-i-import-%20%20dannykh-iz-toad/)
+[Экспорт и импорт данных из toad](https://bsoft.gitbook.io/wiki/administrirovanie/eksport-i-import-%20%20dannykh-iz-toad)
 
-[Утилиты и опции в toad](administrirovanie/utility-i-opcii-v-toad/)
+[Утилиты и опции в toad](https://bsoft.gitbook.io/wiki/administrirovanie/utility-i-opcii-v-toad)
 
-[Поиск кто заблокировал документ](administrirovanie/poisk-kto-zablokiroval-%20%20dokument/)
+[Поиск кто заблокировал документ](https://bsoft.gitbook.io/wiki/administrirovanie/poisk-kto-zablokiroval-%20%20dokument)
 
-[Почта](administrirovanie/pochta/)
+[Почта](https://bsoft.gitbook.io/wiki/administrirovanie/pochta)
 
-[Инструкция по выполнению апгрейда базы данных](administrirovanie/instrukciya-po-vypolneniyu-apgreida-bazy-dannykh/)
+[Инструкция по выполнению апгрейда базы данных](https://bsoft.gitbook.io/wiki/administrirovanie/instrukciya-po-vypolneniyu-apgreida-bazy-dannykh)
 
-[AdministratorAnna](administrirovanie/administratoranna/)
+[AdministratorAnna](https://bsoft.gitbook.io/wiki/administrirovanie/administratoranna)
 
-[Загрузка данных в документ из файла Excel или DBF](administrirovanie/zagruzka-dannykh-v-dokument-iz-faila-excel-ili-dbf/)
+[Загрузка данных в документ из файла Excel или DBF](https://bsoft.gitbook.io/wiki/administrirovanie/zagruzka-dannykh-v-dokument-iz-faila-excel-ili-dbf)
 
-[apache](administrirovanie/apache/)
+[apache](https://bsoft.gitbook.io/wiki/administrirovanie/apache)
 
-[Трассировка](administrirovanie/trassirovka/)
+[Трассировка](https://bsoft.gitbook.io/wiki/administrirovanie/trassirovka)
 
-[Импорт данных из Excel в таблицу БД](administrirovanie/import-dannykh-iz-%20%20excel-v-tablicu-bd/)
+[Импорт данных из Excel в таблицу БД](https://bsoft.gitbook.io/wiki/administrirovanie/import-dannykh-iz-%20%20excel-v-tablicu-bd)
 
-[Конвертация старого Administrator'a в новый Configurator](administrirovanie/konvertaciya-starogo-administratora-v-novyi-configurator/)
+[Конвертация старого Administrator'a в новый Configurator](https://bsoft.gitbook.io/wiki/administrirovanie/konvertaciya-starogo-administratora-v-novyi-configurator)
 
-[Настройка базы](administrirovanie/nastroika-bazy/)
+[Настройка базы](https://bsoft.gitbook.io/wiki/administrirovanie/nastroika-bazy)
 
-[Конфигурация нового терминальника. ](administrirovanie/konfiguraciya-novogo-terminalnika./)\(Основное ПО и настройки\)
+[Конфигурация нового терминальника. ](https://bsoft.gitbook.io/wiki/administrirovanie/konfiguraciya-novogo-terminalnika.)\(Основное ПО и настройки\)
 
-[Глобальные проблемы и ошибки ORACLE](administrirovanie/globalnye-problemy-%20%20i-oshibki-oracle/)
+[Глобальные проблемы и ошибки ORACLE](https://bsoft.gitbook.io/wiki/administrirovanie/globalnye-problemy-%20%20i-oshibki-oracle)
 
-[Инструкция по установке системы архивирования удаляемых документов](administrirovanie/instrukciya-po-ustanovke-sistemy-arkhivirovaniya-%20%20udalyaemykh-dokumentov/) 
+[Инструкция по установке системы архивирования удаляемых документов](https://bsoft.gitbook.io/wiki/administrirovanie/instrukciya-po-ustanovke-sistemy-arkhivirovaniya-%20%20udalyaemykh-dokumentov) 
 
-[Скрипт для экспорта схем через data pump](administrirovanie/untitled/)
+[Скрипт для экспорта схем через data pump](https://bsoft.gitbook.io/wiki/administrirovanie/untitled)
 
 
 
