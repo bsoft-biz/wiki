@@ -9,7 +9,7 @@
 В представленной ниже таблице описаны свойства, необходимые для создания пользователей. Таблица свойства разделена на  две части, обязательные являются важными для создания учетной записи пользователя.
 
 | **Название свойства** | **Тип** | **Описание**  | **Значение для примера**  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :------------- |:-------------:| :-----| :-----|
 |   |   | **Обязательные свойства:** |   |
 | Enabled | Boolean | Значение true говорит о том, что учетная запись пользователя активна.  \(Если True, настройки пользователя видимы для приложения Universal Accounting, если False – объект игнорируется\) | true |
 | ID | Integer | Идентификационный номер пользователя \(соответствует значению поля \[UserID\]  таблицы документов для записей документов пользователя\) | 1001 |
@@ -153,27 +153,26 @@
 
 Действия над учетными записями в конфигураторе UniConf:**Свойства, установленные для группы пользователей, распространяются на всех пользователей группы.**
 
-1\) [Создание учетной записи пользователя](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/polzovateli/sozdanie-uchetnoi-zapisi-polzovatelya)
+1\) [Создание учетной записи пользователя](sozdanie-uchetnoi-zapisi-polzovatelya.md)
 
 Иногда полезно временно получить права админа под текущим пользователем. Для этого можно использовать комбинацию клавиш Ctrl+F12. Запрашиваемый пароль настраивается в Settings-&gt;General следующим свойством:
 
 | **Название свойства** | **Тип** | **Описание** | **Значение для примера** |
-| --- | --- |
+| :------------- |:-------------:| :-----| :-----|
 | Tmpadminpass | String | временные права админа под текущим пользователем | aaa |
 
-[Настройка ограничения доступа на изменение универсального справочника](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/polzovateli/nastroika-ogranicheniya-dostupa-na-izmenenie-universalnogo-spravochnika)
+[Настройка ограничения доступа на изменение универсального справочника](nastroika-ogranicheniya-dostupa-na-izmenenie-universalnogo-spravochnika.md)
 
-[Настройка ограничения доступа к проводкам \(tmdb\_cm\)](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/polzovateli/nastroika-ogranicheniya-dostupa-k-provodkam)
+[Настройка ограничения доступа к проводкам \(tmdb\_cm\)](nastroika-ogranicheniya-dostupa-k-provodkam.md)
 
 _Подсказка:_
 
-[Как скрыть пароль](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/polzovateli/kak-skryt-parol)
+[Как скрыть пароль](kak-skryt-parol.md)
 
-[Настройка прав на редактирование справочников UNIVERS](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/polzovateli/nastroika-ogranicheniya-dostupa-na-izmenenie-universalnogo-spravochnika)
+[Настройка прав на редактирование справочников UNIVERS](nastroika-ogranicheniya-dostupa-na-izmenenie-universalnogo-spravochnika.md)
 
-[Настройка прав на редактирование справочников SYSS](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/spravochniki/syss/cherez-vremennuyu-tablicu-tms_syss_unlock)
+[Настройка прав на редактирование справочников SYSS](/razrabotka/konfigurator/spravochniki/syss/cherez-vremennuyu-tablicu-tms_syss_unlock.md)
 
-[Интерфейс](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/polzovateli/interfeis)
+[Интерфейс](interfeis.md)
 
-Новые возможности по [ограничению паролей пользователей](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/polzovateli/ogranichenie-parolei-polzovatelei)
-
+Новые возможности по [ограничению паролей пользователей](ogranichenie-parolei-polzovatelei.md)
