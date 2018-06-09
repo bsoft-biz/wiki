@@ -1,6 +1,6 @@
 # Table of contents
 
-* [База знаний](README.md)
+* [База знаний БизнесСофт](README.md)
 * [Разработка](razrabotka/README.md)
   * [Конфигуратор](razrabotka/konfigurator/README.md)
     * [Документы](razrabotka/konfigurator/dokumenty/README.md)
