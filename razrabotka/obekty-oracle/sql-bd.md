@@ -1,12 +1,6 @@
 # SQL; BD
 
-Good-ы: \\builder\work\good ; \\srv-unsdc1\arhiv\ArcGood ; file:///X:\test4.ora\arc
-
 отчет CST =&gt; обращение к датам :datebegin, :datefinal
-
-\\srv-usgw1\ftp\pub
-
-\\192.168.0.2\public\install\ инстал от тех отдела
 
 select wm\_concat\(поле\) from таблица =&gt; получим значения поля через запятую
 
