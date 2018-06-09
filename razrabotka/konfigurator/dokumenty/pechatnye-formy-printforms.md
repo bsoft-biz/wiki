@@ -105,23 +105,21 @@ XCST Summary1= DTCANT4
 
 \(время указывается в сек.\)
 
-\[ZZZ\]
-
+```sql
+[ZZZ]
 RefreshPanelVisible=true
-
 RefreshTimerEnabled=true
-
 .type.RefreshTimerEnabled=Boolean
-
 RefreshTimerInterval=5
-
 .type.RefreshTimerInterval=Integer
+```
 
 Свойство DatePrefix=имя\(например V\_\) необходимо для последующего обращения к датам:
 
-sys\_context\('ENVUN4','V\_DATAB'\)
-
-sys\_context\('ENVUN4','V\_DATAF'\)
+```sql
+sys_context('ENVUN4','V_DATAB')
+sys_context('ENVUN4','V_DATAF')
+```
 
 Настройка подчиненных гридов в форме:
 
@@ -131,55 +129,39 @@ sys\_context\('ENVUN4','V\_DATAF'\)
 
 \(начиная с версии una 4.1.5.039\)
 
-ylin\_docs.zaiav\_list\_xl\(:nrdoc, :SQLHeader, :SQLMaster, :SQLDetail, :XLSCRIPT\);
-
-XLSCRIPT := 'Sub start\(\)'
-
-CHR\(10\)  
+```sql
+ylin_docs.zaiav_list_xl(:nrdoc, :SQLHeader, :SQLMaster, :SQLDetail, :XLSCRIPT);
+XLSCRIPT := 'Sub start()'
+CHR(10)
 'Dim OutApp As Object'
-
-CHR\(10\)  
+CHR(10)
 'Dim OutMail As Object'
-
-CHR\(10\) 'Set OutApp = CreateObject\("Outlook.Application"\)'
-
-CHR\(10\)  
-'Set OutMail = OutApp.CreateItem\(0\)'
-
-CHR\(10\)  
+CHR(10) 'Set OutApp = CreateObject("Outlook.Application")'
+CHR(10)
+'Set OutMail = OutApp.CreateItem(0)'
+CHR(10)
 'On Error Resume Next'
-
-CHR\(10\) 'With OutMail'
-
-CHR\(10\)  
-'.to = "'v\_mail' "'
-
-CHR\(10\) '.CC = "'v\_mail\_cc' "'
-
-CHR\(10\)  
-'.BCC = "'v\_mail\_bcc' "'
-
-CHR\(10\)  
+CHR(10) 'With OutMail'
+CHR(10)
+'.to = "'v_mail' "'
+CHR(10) '.CC = "'v_mail_cc' "'
+CHR(10)
+'.BCC = "'v_mail_bcc' "'
+CHR(10)
 '.Subject = "Заявочный лист"'
-
-CHR\(10\)  
-'.Body = "'v\_body' "'
-
-CHR\(10\)  
+CHR(10)
+'.Body = "'v_body' "'
+CHR(10)
 '.Attachments.Add ActiveWorkbook.FullName'
-
-CHR\(10\)  
+CHR(10)
 '.Display'
-
-CHR\(10\)  
+CHR(10)
 'End With'
-
-CHR\(10\)  
+CHR(10)
 'Set OutMail = Nothing'
-
-CHR\(10\)  
+CHR(10)
 'Set OutApp = Nothing'
-
-CHR\(10\)  
+CHR(10)
 'End Sub';
+```
 
