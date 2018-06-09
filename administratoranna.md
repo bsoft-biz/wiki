@@ -37,7 +37,7 @@
 
 ### 2 Интерфейс
 
-![](../.gitbook/assets/administratoranna_html_m312c82b9.png)
+![](.gitbook/assets/administratoranna_html_m312c82b9.png)
 
 Главное окно приложения содержит два вложенных окна.
 
@@ -101,7 +101,7 @@
 
 Кнопка **New Item** \(первая\) Добавляет новый узел на текущий уровень дерева из предлагаемого списка. Открывает диалоговое окно **Выбор узла из шаблона.**
 
-![](../.gitbook/assets/administratoranna_html_443e35aa.png)
+![](.gitbook/assets/administratoranna_html_443e35aa.png)
 
 Окно Выбор узла из шаблона:
 
@@ -149,7 +149,7 @@
 
 \(Custom…\) открывает диалоговое окно пользовательского фильтра
 
-![](../.gitbook/assets/administratoranna_html_59920e15.png)
+![](.gitbook/assets/administratoranna_html_59920e15.png)
 
 Выбор строки списка с определенным названием, значением или примечанием отображает список свойств с таким названием, значением или примечанием.
 
@@ -169,7 +169,7 @@
 
 Открывается диалоговое окно **Свойство** для ввода данных.
 
-![](../.gitbook/assets/administratoranna_html_m6ce108b1.png)
+![](.gitbook/assets/administratoranna_html_m6ce108b1.png)
 
 **Окно Св-во** - диалоговое окно ввода атрибутов свойства.
 
@@ -185,7 +185,7 @@
 * **MEMO** – тип MEMO. Значение - произвольный текст
 * **Dir** – директория. Значение свойства – список каталогов на локальных или сетевых дисках компьютера
 
-![](../.gitbook/assets/administratoranna_html_m5f19eba8.png)
+![](.gitbook/assets/administratoranna_html_m5f19eba8.png)
 
 Список содержит выбранные папки.
 
@@ -193,7 +193,7 @@
 
 Кнопка \[…\] справа от поля каталога открывает диалоговое окно **Обзор папок** для выбора папки.
 
-![](../.gitbook/assets/administratoranna_html_5927d9de.png)
+![](.gitbook/assets/administratoranna_html_5927d9de.png)
 
 Кнопка **Добавить** окна \[Св-во\] добавляет папку из поля в список.
 
@@ -205,7 +205,7 @@
 
 * **File** – файл. Значение свойства – файл на локальном или сетевом диске компьютера
 
-![](../.gitbook/assets/administratoranna_html_m36be0a4d.png)
+![](.gitbook/assets/administratoranna_html_m36be0a4d.png)
 
 Кнопка справа от поля **Значение** открывает диалоговое окно выбора файла. В поле **Директория** указывается путь к файлу.
 
@@ -231,7 +231,7 @@
 
 Кнопки над этим полем вызывают диалоговое окно **Open MEMO** открытия файла и загрузки его содержимого в поле редактирования значения и окно **Save MEMO** сохранения значения типа MEMO в файл.
 
-![](../.gitbook/assets/administratoranna_html_m487a0ec8.png)
+![](.gitbook/assets/administratoranna_html_m487a0ec8.png)
 
 Дополнительные поля для определенных типов свойств:
 
@@ -265,7 +265,7 @@
 
 Открывает диалоговое окно **Просмотр текстового свойства**.
 
-![](../.gitbook/assets/administratoranna_html_1d8e2aac.png)
+![](.gitbook/assets/administratoranna_html_1d8e2aac.png)
 
 Кнопки над областью редактирования открывают окно **Open MEMO** открытия файла и загрузки его содержимого в поле редактирования значения и окно **Save MEMO** cохранения значения типа MEMO в файл.
 
@@ -273,7 +273,7 @@
 
 Пункт **Группы** открывает диалоговое окно **Настройка групп свойств**.
 
-![](../.gitbook/assets/administratoranna_html_m4fc74f6f.png)
+![](.gitbook/assets/administratoranna_html_m4fc74f6f.png)
 
 Первый список **Группы** отображает все группы свойств объекта.
 
@@ -299,7 +299,7 @@
 
 Пункт **Редактировать ини-данные** открывает окно редактирования **Изменить ини-файл**
 
-![](../.gitbook/assets/administratoranna_html_m59f8c10b.png)
+![](.gitbook/assets/administratoranna_html_m59f8c10b.png)
 
 Содержит информацию о свойствах: атрибуты свойств.
 
@@ -359,7 +359,7 @@
 
 Открывает диалоговое окно **Экспорт.**
 
-![](../.gitbook/assets/administratoranna_html_409eb7c0.png)
+![](.gitbook/assets/administratoranna_html_409eb7c0.png)
 
 В левой части окна отображается иерархическая структура папок локальных и сетевых дисков на компьютере.
 
@@ -385,7 +385,7 @@
 
 Пункт **Как новый узел из XML** импортирует содержимое файла экспорта в формате XML, вставляя содержимое экспорта на текущий уровень дерева объектов. Открывает окно **Вставить узлы**.
 
-![](../.gitbook/assets/administratoranna_html_e073b2d.png)
+![](.gitbook/assets/administratoranna_html_e073b2d.png)
 
 В левой части окна отображается иерархическая структура папок локальных и сетевых дисках компьютера.
 
@@ -401,7 +401,7 @@
 
 Кнопка … для поля XGridProp при переводе фокуса на это поле открывает окно **Просмотр.**
 
-![](../.gitbook/assets/administratoranna_html_m623c55da.png)
+![](.gitbook/assets/administratoranna_html_m623c55da.png)
 
 Верхняя таблица **Экспортируемые дизайны** содержит записи с информацией о дизайнах экспорта.
 
