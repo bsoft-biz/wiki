@@ -1,6 +1,6 @@
 # Весовая
 
-## Форма проходной ЖД/Авто 
+## Форма проходной ЖД/Авто
 
 \[ZZZ\]
 
@@ -98,7 +98,7 @@ CloseImmediateVideoCatch=true
 
 .Hint.CloseImmediateVideoCatch=если true закрывается unVideaCatch после получения фото
 
-## unvideocatch 
+## unvideocatch
 
 Для работы videoCatch нужно прописывать в ini две камеры
 

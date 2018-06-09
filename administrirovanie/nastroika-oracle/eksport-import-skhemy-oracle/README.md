@@ -210,7 +210,7 @@
 ## Ключи командной строки:
 
 | Запуск приложения с активацией страницы сравнения схем | \&gt; un4Versions.exe /compare |
-| :------------- |:-------------:| 
+| :--- | :---: |
 | Запуск приложения с загрузкойсхемы Oracle с сервера | \&gt; un4Versions.exe /compare src= un4@Ora1 |
 | Запуск приложения с загрузкой схемы Oracle из файла | \&gt; un4Versions.exe /compare src= un4std.pak |
 | Запуск приложения с загрузкой  двух схем Oracle из разных источников | \&gt; un4Versions.exe /compare src=un4std.pak tgt=un4@Ora1 |

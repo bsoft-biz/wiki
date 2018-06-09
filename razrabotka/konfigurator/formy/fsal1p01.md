@@ -1,14 +1,14 @@
 # FSal1p01
 
-| **Название свойства** | **Тип** | **Описание**  | **Значение для примера**  |
-| :------------- |:-------------:| :-----| :-----|
+| **Название свойства** | **Тип** | **Описание** | **Значение для примера** |
+| :--- | :---: | :--- | :--- |
 | UseDropInsertDocument | Boolean | На форму можно перетащить и бросить файл и будет предложено создать документ | true |
 | SQL\_DOC\_FILTER | Memo | Используется если UseDropInsertDocument = true. Указывается sql фильтр сисфидов | true |
 | Active | Boolean | Если значение False, объект игнорируется | true |
 | Caption | String | Подпись для действия в списке действий | UniForm \(универсальная форма\) |
 | DLL FormName | String | Идентификатор формы в DLL | FSal1p01 |
 | DLL ID | Integer | Идентификационный номер DLL | 8101 |
-| DateCaption1 | String | Подпись для даты начала \(DATAB caption\) | Дата начала  |
+| DateCaption1 | String | Подпись для даты начала \(DATAB caption\) | Дата начала |
 | DateCaption2 | String | Подпись для даты DATAF caption | Дата окончания |
 | DateCount | Integer | Количество фильтров по дате\(0..2\) \(dates in header\) | 0 |
 | DateOffset1 | Integer | смещение даты начала на N дней \(DATAB offset\) | 0 |
@@ -41,16 +41,16 @@
 | MasterSize2 | Integer | высота мастера в форме \(&lt;0 means vertical\) | 161 |
 | MasterSizeTab2 | Integer | высота мастера в форме \(&lt;0 means vertical\) | 161 |
 | MasterSizeTab3 | Integer | высота мастера в форме \(&lt;0 means vertical\) | 161 |
-| PanelAllowExit | Boolean |  Отключает необходимость обязательно нажимать "галку"\(подтвердить\) или "крестик"\(отменить\)  после редактирования значений в форме. Все внесённые изменения будут сохранены. |  true |
+| PanelAllowExit | Boolean | Отключает необходимость обязательно нажимать "галку"\(подтвердить\) или "крестик"\(отменить\)  после редактирования значений в форме. Все внесённые изменения будут сохранены. | true |
 | PanelHeightMaster | Integer | Включение дополнительной панели элементов \(PanelHeightMaster = -100 панель будет справа\) \(если 1 грид\) \(PanelHeightMaster=+ панель и подчиненный грид\) | 100 |
-| PanelHeightTab1 | Integer \(String\) | Если на форме FormUseDetail=true \(2 грида\) , то доп. панель включается свойством PanelHeightTab1   \(PanelHeightTab1=+   доп. грид полностью панель\) |   |
+| PanelHeightTab1 | Integer \(String\) | Если на форме FormUseDetail=true \(2 грида\) , то доп. панель включается свойством PanelHeightTab1   \(PanelHeightTab1=+   доп. грид полностью панель\) |  |
 | PanelHeightTab1D | Integer |  |  |
 | PanelHeightTab2 | Integer |  |  |
 | PanelHeightTab2D | Integer |  |  |
 | PanelHeightTab3 | Integer |  |  |
 | PanelHeightTab3D | Integer |  |  |
 | PeriodVisible | Boolean | Период дат \(DataStart-DataEnd\) | false |
-| QueryMTransAuto | Boolean | Отключение автономных транзакций. По умолчанию в формах автономные транзакции включены.  | false  |
+| QueryMTransAuto | Boolean | Отключение автономных транзакций. По умолчанию в формах автономные транзакции включены. | false |
 | QueryTab1aTransAuto | Boolean |  |  |
 | QueryTab1bTransAuto | Boolean |  |  |
 | QueryTab2aTransAuto | Boolean |  |  |
@@ -61,16 +61,16 @@
 | SplitterTab1Visible | Boolean |  |  |
 | SplitterTab2Visible | Boolean |  |  |
 | SplitterTab3Visible | Boolean |  |  |
-| RefreshRestorePos | Boolean |  Восстановить позицию курсора после выполнения экшена. |  true |
+| RefreshRestorePos | Boolean | Восстановить позицию курсора после выполнения экшена. | true |
 | Tab1Caption | String | Заголовок дополнительной вкладки \(число в имени свойства - номер вкладки\) |  |
-| Tab2Caption | String | Заголовок дополнительной вкладки \(число в имени свойства - номер вкладки\) |   |
-| Tab3Caption | String | Заголовок дополнительной вкладки \(число в имени свойства - номер вкладки\) |   |
+| Tab2Caption | String | Заголовок дополнительной вкладки \(число в имени свойства - номер вкладки\) |  |
+| Tab3Caption | String | Заголовок дополнительной вкладки \(число в имени свойства - номер вкладки\) |  |
 | UseMaster | Boolean | Использование мастера | true |
 | UseMasterDelay | Boolean |  |  |
 | UseToolbar | Boolean | Включение Toolbar\(панель инструментов\)над гридом | true |
 | HeaderPanel | Boolean | Включение шапки | true |
-|   |   | **Автообновление формы\(время указывается в сек.\) - работает в комбинации трех свойств  \(RefreshPanelVisible, RefreshTimerEnabled, RefreshTimerInterval\)** |   |
-| RefreshPanelVisible | Boolean | Включение  панели автообновления  | true |
+|  |  | **Автообновление формы\(время указывается в сек.\) - работает в комбинации трех свойств  \(RefreshPanelVisible, RefreshTimerEnabled, RefreshTimerInterval\)** |  |
+| RefreshPanelVisible | Boolean | Включение  панели автообновления | true |
 | RefreshTimerEnabled | Boolean | Включение обновления | true |
 | RefreshTimerInterval | Integer | Время обновления , через сколько обновить указывается в секундах. | 5 |
 
