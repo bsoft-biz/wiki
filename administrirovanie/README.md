@@ -1,6 +1,6 @@
 # Администрирование
 
-[Настройка архивирования \(Backup\) удаленных документов.](arkhivirovanie-backup-udalennykh-dokumentov.md)
+[Настройка архивирования \(Backup\) удаленных документов.]()
 
 [Настройка Oracle](nastroika-oracle/)
 

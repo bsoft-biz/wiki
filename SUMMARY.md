@@ -171,7 +171,6 @@
   * [startup.ini](razrabotka/startup.ini.md)
   * [Глобальные настройки](razrabotka/globalnye-nastroiki.md)
 * [Администрирование](administrirovanie/README.md)
-  * [Архивирование \(Backup\) удаленных документов](administrirovanie/arkhivirovanie-backup-udalennykh-dokumentov.md)
   * [Настройка Oracle](administrirovanie/nastroika-oracle/README.md)
     * [Настройка и запуск ORACLE](administrirovanie/nastroika-oracle/nastroika-i-zapusk-oracle.md)
     * [Диагностика](administrirovanie/nastroika-oracle/diagnostika.md)
