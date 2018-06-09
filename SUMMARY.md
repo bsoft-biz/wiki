@@ -196,4 +196,6 @@
       * [Редактирование справочников](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-dokumenta/redaktirovanie-spravochnikov.md)
       * [Использование последовательности](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-dokumenta/ispolzovanie-posledovatelnosti.md)
       * [Показ итогов](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-dokumenta/pokaz-itogov.md)
+* [Инструкции для пользователей](instrukcii-dlya-polzovatelei/README.md)
+  * [Инструкция по модулю Основные средства](https://yadi.sk/i/kxPz9t2c3XbXVe)
 
