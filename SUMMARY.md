@@ -170,7 +170,6 @@
       * [un$sld.make ORA-14450](razrabotka/obekty-oracle/blokirovki.-problemy-i-oshibki-blokirovok/unusdsld.make-ora-14450.md)
   * [startup.ini](razrabotka/startup.ini.md)
   * [Глобальные настройки](razrabotka/globalnye-nastroiki.md)
-* [AdministratorAnna](administratoranna.md)
 * [Инструкции для программиста](instrukcii/README.md)
   * [Создание документа](instrukcii/sozdanie-dokumenta.md)
   * [Создание и настройка нового журнала](instrukcii/sozdanie-i-nastroika-novogo-zhurnala.md)
