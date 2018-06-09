@@ -1,7 +1,5 @@
 # Администрирование
 
-[Установка Toad](ustanovka-toad.md)
-
 [Настройка архивирования \(Backup\) удаленных документов.](arkhivirovanie-backup-udalennykh-dokumentov.md)
 
 [Настройка Oracle](nastroika-oracle/)
