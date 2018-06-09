@@ -25,20 +25,20 @@
 | SQLAllInOne | Memo | Настройка печатной формы. Отправить письмо с вложением через  ms outlook при нажатии на кнопку \(экспорт в Excel\). \(начиная с версии una 4.1.5.039\) | `ylin_docs.zaiav_list_xl(:nrdoc, :SQLHeader, :SQLMaster, :SQLDetail, :XLSCRIPT);XLSCRIPT := 'Sub start()' Dim OutApp As Object Dim OutMail As Object  Set OutApp = CreateObject("Outlook.Application")  Set OutMail = OutApp.CreateItem(0)  On Error Resume Next  With OutMail  .to = v_mail  .CC = v_mail_cc  .BCC =v_mail_bcc  .Subject = "Заявочный лист"'  .Body = v_body  .Attachments.Add ActiveWorkbook.FullName  .Display  End With  Set OutMail = Nothing  Set OutApp = Nothing  End Sub;` |
 | F1AutoPrint | String | Количество копий \(3\) при печати, если нажимать не стандартный значок принтера, а другой, который расположен четвертой кнопкой справа. Можно вместо 1:3 указывать  1,3,5 - это прямо номера листов для печати, когда их подразумевается много.  Но сейчас такое почти не встречается. пример есть на gcc \(gcc1\) @ ora64 sf=42072 f1autoprint | 1:3 |
 | F1PrintCopies | Integer | Количество копий при печати | 3 |
-| PrintXL | Boolean | Кнопочка Принтер в печ.форме работает как кнопочка "принтера со значком Х \(экселя\)" | true |
-| DontEditReport | Boolean | Запрет редактирования отчета перед печатью.  Запрет экспорта в Excel. | true |
+| PrintXL | Boolean | Кнопочка Принтер в печ.форме работает как кнопочка "принтера со значком Х \(экселя\)" | `true` |
+| DontEditReport | Boolean | Запрет редактирования отчета перед печатью.  Запрет экспорта в Excel. | `true` |
 | SQLBeforePrint | Memo | При нажатии на принтер из печатной формы/отчета выполнится скрипт из этого свойства |  |
 | PrintRepeatMasterGrid | String |  | gr21b |
 | PrintRepeatMasterGridField | String | Для множественной печати | PRM2 |
-| DisableGotoNrdoc | Boolean | Нельзя прыгать из печатной формы в документ | true |
-| ButtonIndex | Integer | Нельзя прыгать из печатной формы в документ | true |
+| DisableGotoNrdoc | Boolean | Нельзя прыгать из печатной формы в документ | `true` |
+| ButtonIndex | Integer | Нельзя прыгать из печатной формы в документ | `true` |
 | ButtonText | String | Кнопка для вызова печатной формы будет на тулбаре номер 1 по счету | 1 |
 | Param\_NRDOC | String | Для этой печатной формы запоминается значение поля nrdoc из header-а  и в SQLBeforePrint к нему можно обратиться через :f1\_nrdoc нужно чтобы в header было поле nrdoc | Текст\_на\_кнопке |
 | ViewOnly | Boolean | Эта форма будет видна и из журнала \(в EasyInterface\), то есть даже когда мы не в документе | header.nrdoc |
-| StreamToDoc | Boolean |  | true |
-| Stream\_Invisible | Boolean |  | true |
+| StreamToDoc | Boolean |  | `true` |
+| Stream\_Invisible | Boolean |  | `true` |
 | frxStreamExt | String |  | .pdf |
-| frxEmbeddedFonts | Boolean |  | true |
+| frxEmbeddedFonts | Boolean |  | `true` |
 
 Объекты типа PrintForms поддерживают все TXT-свойства отчетов \(свойства отчетов в текстовом формате\)
 
