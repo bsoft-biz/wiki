@@ -39,7 +39,7 @@
 
 Чтобы изменить тип структуры БД, надо скачать редактор.
 
-Например Sdbf 4.5 c сайта : [http://habrahabr.ru/sandbox/73266/](http://habrahabr.ru/sandbox/73266/) или [Sdbf 4.5.zip](https://yadi.sk/d/sqNrclCW3XDNTe)
+Например Sdbf 4.5 c сайта : [http://habrahabr.ru/sandbox/73266/](http://habrahabr.ru/sandbox/73266/) или [Sdbf 4.5.zip](https://github.com/bsoft-biz/wiki/blob/master/src/Sdbf%204.5.zip)
 
 Запускаем программу Sdbf 4.5 и в меню выбираем Файл - Открыть, выбираем нужный dbf файл. Далее в меню Таблица - Изменить структуру, в поле Тип файла выбрать - xBaseIII и нажать кнопку сохранить.
 
