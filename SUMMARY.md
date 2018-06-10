@@ -199,8 +199,8 @@
 * [Инструкции для пользователей](instrukcii-dlya-polzovatelei/README.md)
   * [Инструкция по модулю Основные средства](https://github.com/bsoft-biz/wiki/blob/master/instrukcii-dlya-polzovatelei/инструкция%20по%20модулю%20Основные%20средства.pdf)
   * [Инструкция по модулю Договора, Счета, Оказание услуг](https://github.com/bsoft-biz/wiki/blob/master/instrukcii-dlya-polzovatelei/инструкция%20по%20модулю%20Договора%2C%20Счета%2C%20Оказание%20услуг.pdf)
-  * [инструкция по модулю Касса](https://github.com/bsoft-biz/wiki/blob/master/instrukcii-dlya-polzovatelei/инструкция%20по%20модулю%20Касса.pdf)
+  * [Инструкция по модулю Касса](https://github.com/bsoft-biz/wiki/blob/master/instrukcii-dlya-polzovatelei/инструкция%20по%20модулю%20Касса.pdf)
   * [Инструкция по модулю Материалы](https://github.com/bsoft-biz/wiki/blob/master/instrukcii-dlya-polzovatelei/Инструкция%20по%20модулю%20Материалы.pdf)
   * [Инструкция по Учету в разрезе Оснований](https://github.com/bsoft-biz/wiki/blob/master/instrukcii-dlya-polzovatelei/Инструкция%20по%20Учету%20в%20разрезе%20Оснований.pdf)
-  * [инструкция по модулю Банк](https://github.com/bsoft-biz/wiki/blob/master/instrukcii-dlya-polzovatelei/инструкция%20по%20модулю%20Банк.pdf)
+  * [Инструкция по модулю Банк](https://github.com/bsoft-biz/wiki/blob/master/instrukcii-dlya-polzovatelei/инструкция%20по%20модулю%20Банк.pdf)
 
