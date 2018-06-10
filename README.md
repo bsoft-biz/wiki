@@ -2,7 +2,7 @@
 
 [Разработка](razrabotka/)
 
-Инструкции для программиста
+[Инструкции для программиста](https://wiki.bsoft.biz/instrukcii-dlya-programmista)
 
 [Инструкции для пользователей](instrukcii-dlya-polzovatelei/)
 
