@@ -11,7 +11,7 @@ VersionFR=4
 
 и изменить имя шаблона на fr3 в Template.
 
-Шаблон конвертировать через утилиту [Project1.exe](https://yadi.sk/d/Uucn0x023XDAmY)
+Шаблон конвертировать через утилиту [Project1.exe](https://github.com/bsoft-biz/wiki/blob/master/src/Project1.exe)
 
 В Project1 открываешь шаблон frf  и сохраняешь в fr3. \( сохраняет практически все компоненты\).
 
