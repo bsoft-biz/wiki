@@ -4,5 +4,5 @@
 
 [Инструкции](instrukcii/)
 
-[Инструкции для пользователей](https://wiki.bsoft.biz/instrukcii-dlya-polzovatelei)
+[Инструкции для пользователей](instrukcii-dlya-polzovatelei/)
 
