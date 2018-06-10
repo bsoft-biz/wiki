@@ -2,7 +2,7 @@
 
 [Разработка](razrabotka/)
 
-[Инструкции](instrukcii/)
+[Инструкции](instrukcii-dlya-programmista/)
 
 [Инструкции для пользователей](instrukcii-dlya-polzovatelei/)
 

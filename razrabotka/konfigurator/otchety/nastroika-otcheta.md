@@ -25,8 +25,6 @@
 
 Ссылка на пример отчета \(файл находится в папке Настройка отчета\):
 
-[https://doc-08-bo-docs.googleusercontent.com/docs/securesc/9epombkml4j5pmvm41inf8g77qjjt8kp/rnqonq784kp9g46tg1vgnj36cmj1tqrg/1345471200000/05897270490584079318/05897270490584079318/0B4pVn7iLUWb2YUkwTmRyNkVQenc?e=download&nonce=e3tvmqpmumrhs&user=05897270490584079318&hash=qnqsh1mdgcvhj09g14egnrfokt14uei2](https://doc-08-bo-docs.googleusercontent.com/docs/securesc/9epombkml4j5pmvm41inf8g77qjjt8kp/rnqonq784kp9g46tg1vgnj36cmj1tqrg/1345471200000/05897270490584079318/05897270490584079318/0B4pVn7iLUWb2YUkwTmRyNkVQenc?e=download&nonce=e3tvmqpmumrhs&user=05897270490584079318&hash=qnqsh1mdgcvhj09g14egnrfokt14uei2)
-
 Для отчетов с шаблоном **\*.fr3** необходимым свойством является:
 
 **VersionFR=4**
