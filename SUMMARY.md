@@ -197,5 +197,5 @@
       * [Использование последовательности](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-dokumenta/ispolzovanie-posledovatelnosti.md)
       * [Показ итогов](instrukcii/sozdanie-dokumenta-s-3-mya-gridami/sozdanie-dokumenta/pokaz-itogov.md)
 * [Инструкции для пользователей](instrukcii-dlya-polzovatelei/README.md)
-  * [Инструкция по модулю Основные средства](https://yadi.sk/d/3QsSBrfX3XeM66)
+  * [Инструкция по модулю Основные средства](https://docviewer.yandex.ru/view/1130000013469747/?*=mrW66FAJoizejAWcOidoSj4p2V97InVybCI6InlhLWRpc2stcHVibGljOi8vZjlzNTRhWGFBajVpUkdiQm9nTklYc0k1V2ROcWM2RjVLUGMyaEFXamlNYz0iLCJ0aXRsZSI6ItC40L3RgdGC0YDRg9C60YbQuNGPINC%2F0L4g0LzQvtC00YPQu9GOINCe0YHQvdC%2B0LLQvdGL0LUg0YHRgNC10LTRgdGC0LLQsC5wZGYiLCJ1aWQiOiIxMTMwMDAwMDEzNDY5NzQ3IiwieXUiOiI2NzE3OTg5ODYxNTIwNTIwMDg4Iiwibm9pZnJhbWUiOmZhbHNlLCJ0cyI6MTUyODYxNzc4NzE1OX0%3D)
 
