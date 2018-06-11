@@ -5,7 +5,7 @@
 |  |  | **SQLs** |  |
 | vCodLP | Integer |  | 4021 |
 | vCodVed | Integer |  | 3998 |
-| vSysfid | String | sysfid платежной ведомости | 50412 |
+| vSysfid | String | `sysfid` платежной ведомости | 50412 |
 |  |  | **Общая** |  |
 | Admin | Boolean | Если значение True, выводит Админ. панель в окне параметров для доступа к конструктору формы параметров |  |
 | DLL ID | Integer | Идентификационный номер DLL | 9002 |
@@ -18,7 +18,7 @@
 | Report ID | String | Идентификатор печатной формы в DLL | univ |
 | ReportKemel | String |  | 1 |
 | ReportType | String |  | 2 |
-| SingleDate | Boolean |  | false |
+| SingleDate | Boolean |  | `false` |
 | Template | String | Шаблон | CashBook\_A\_val.frf |
 | Tip | String | Тип отчета: Мастер - детайл или мастер | 0 |
 | TipDetail | String |  | 1 |
