@@ -46,11 +46,11 @@ sys_context('envun4','docs_alt_color_enabled') = true
 
 **Процедуры для работы с цветом**
 
-set\_doc\_color
+`set_doc_color`
 
-clear\_doc\_color
+`clear_doc_color`
 
 Цвета для документа определяются с помощью **функции**:
 
-pkg\_docs\_util.decode\_color
+`pkg_docs_util.decode_color`
 

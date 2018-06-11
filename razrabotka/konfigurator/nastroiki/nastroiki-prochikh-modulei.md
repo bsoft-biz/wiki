@@ -6,13 +6,13 @@
 
 Примеры
 
-`Объект` `Impozite`
+Объект Impozite
 
 | **Имя свойства** | **Тип** | **Описание** | **Значение для примера** |
 | :--- | :---: | :--- | :--- |
 | FondSoc31 | Integer | Defalcari fondul social | 32 |
 
-`Объект` `Costuri`
+Объект Costuri
 
 | **Имя свойства** | **Тип** | **Описание** | **Значение для примера** |
 | :--- | :---: | :--- | :--- |
@@ -21,7 +21,7 @@
 | ContChelt\_C\_5\_1 | Integer | Contul de evidenta a productiei finite la care vor fi repartizate cheltuielile\(2161 sau 2162\) | 2161 |
 | DEPChelt\_C\_5\_2 | Integer | Centrul de cost al productiei finite la care vor fi repartizate cheltuielile | 226 |
 
-`Объект` `Materiale`
+Объект Materiale
 
 | **Имя свойства** | **Тип** | **Описание** | **Значение для примера** |
 | :--- | :---: | :--- | :--- |

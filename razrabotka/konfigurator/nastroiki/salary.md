@@ -6,7 +6,7 @@
 | Cont2272SF | String |  | 2275 |
 | Cont5313\_9531 | String |  | 5311,9531 |
 | Filtr\_cod\_zile\_concbul | String | 1260,1261,1263 | 5091 |
-| FormMuncCustomPanel | Boolean |  | true |
+| FormMuncCustomPanel | Boolean |  | `true` |
 | FormMuncGridWidht | String |  | 320 |
 | FormMuncViewCALCD | String |  | YPMR\_VSLRPRM\_CALCD |
 | FormPrmGridWidth | String |  | 170 |

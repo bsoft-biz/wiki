@@ -2,11 +2,11 @@
 
 | **Название свойства** | **Тип** | **Описание** | **Значение для примера** |
 | :--- | :---: | :--- | :--- |
-| TBForms | Boolean | Отобразить тулбар Формы: все секции из ToolBarFormSections. | false |
-| TBJournals | Boolean | Отобразить тулбар Журналы. Меню журналы выводится в строку. | true |
-| TBWindowList | Boolean |  | false |
-| TBDocCmd | Boolean |  | true |
-| TBPeriod | Boolean | Отобразить тулбар Период: текущая дата, перод просмотра и редактирования. | true |
+| TBForms | Boolean | Отобразить тулбар Формы: все секции из ToolBarFormSections. | `false` |
+| TBJournals | Boolean | Отобразить тулбар Журналы. Меню журналы выводится в строку. | `true` |
+| TBWindowList | Boolean |  | `false` |
+| TBDocCmd | Boolean |  | `true` |
+| TBPeriod | Boolean | Отобразить тулбар Период: текущая дата, перод просмотра и редактирования. | `true` |
 | TBIconSize | String |  | 3 |
 | TBIconStyle | String |  | 2 |
 | ToolBarFormSections | String | Список секций, кот будут отображены в тулбаре формы | \*Producte,F\_PROD\_GR, F\_PRODUCTS, \*"Cliente,Клиенты",              F\_CLIENTS, F\_AGENTS, \*Rute,F\_ROUTES, F\_RUTE\_DESF,\*,F\_UM |
