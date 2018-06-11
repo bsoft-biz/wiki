@@ -4,7 +4,7 @@
 
 [Обработка изображений](https://bsoft.gitbook.io/wiki/razrabotka/konfigurator/spravochniki/univers/spravochnik-s-foto/obrabotka-izobrazhenii)
 
-Можно тестировать на nefis@oravirt форма 07. Справочник фотографий или ab@oravirt - Формы - Справочники - 07. Справочник фото или 01. Все товары.
+Можно тестировать на `nefis@oravirt` форма 07. Справочник фотографий или `ab@oravirt` - Формы - Справочники - 07. Справочник фото или 01. Все товары.
 
 1\) Создаем таблицу для хранения
 
@@ -42,19 +42,19 @@ end;
 
 ![](../../../../../.gitbook/assets/foto1.jpg)
 
- `Настройка формы в конфигураторе`
+ Настройка формы в конфигураторе
 
 | **Имя свойства** | **Тип** | **Описание** | **Значение для примера** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Active | Boolean |  | true |
+| Active | Boolean |  | `true` |
 | Caption | String |  | Справочник продукции \(фото\) |
 | DLL FormName | String |  | FSal1p01 |
 | DLL ID | Integer |  | 8101 |
 | DateCount | Integer | 0..2 \(dates in header\) | 0 |
-| FormUseDetail | Boolean | 2 grids | true |
+| FormUseDetail | Boolean | 2 grids | `true` |
 | MasterSize | Integer | &lt;0 means vertical | 300 |
 | **PanelHeightTab1** | Integer | отображение грида и детайла внизу, с общим запросом | -365 |
-| **QueryTab1aTransAuto** | Boolean |  Отключить автономные транзакции в табе с изображением |  false |
+| **QueryTab1aTransAuto** | Boolean |  Отключить автономные транзакции в табе с изображением |  `false` |
 
 Настройки по Alt+Q [фото.dzn](https://github.com/bsoft-biz/wiki/blob/master/src/%D1%84%D0%BE%D1%82%D0%BE.dzn)
 

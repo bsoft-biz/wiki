@@ -4,11 +4,11 @@
 
 | **Название свойства** | **Тип** | **Описание** | **Значение для примера** |
 | :--- | :---: | :--- | :--- |
-| Active | B | Если значение False, объект игнорируется | true |
-| Caption | S | Наименование формы | Техническая комплектация |
-| DLL FormName | S | Идентификатор формы в DLL | TehComplect |
-| DLL ID | I | Идентификационный номер DLL | 8000 |
-| ControlParams | M | Заголовки вкладок | tehcomplectTS1:Hello1 tehcomplectTS3:Вкладка |
+| Active | Boolean | Если значение `False`, объект игнорируется | `true` |
+| Caption | String | Наименование формы | Техническая комплектация |
+| DLL FormName | String | Идентификатор формы в DLL | TehComplect |
+| DLL ID | Integer | Идентификационный номер DLL | 8000 |
+| ControlParams | Memo | Заголовки вкладок | tehcomplectTS1:Hello1 tehcomplectTS3:Вкладка |
 
 Запросы и дизайн гридов можно изменять, однако связи Master Detail пока не обнаружено.
 

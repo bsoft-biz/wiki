@@ -8,6 +8,6 @@
 
 | **Название свойства** | **Тип** | **Описание** | **Значение для примера** |
 | :--- | :---: | :--- | :--- |
-| ProcInsert | S |  | YCOVR\_DORS.InsertUnivArticols |
-| ProcRemove | S |  | YCOVR\_DORS.DeleteUnivArticols |
+| ProcInsert | String |  | YCOVR\_DORS.InsertUnivArticols |
+| ProcRemove | String |  | YCOVR\_DORS.DeleteUnivArticols |
 

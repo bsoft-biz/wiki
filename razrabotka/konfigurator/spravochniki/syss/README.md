@@ -4,10 +4,10 @@
 
 На редактирование:
 
-* [Через контексты](cherez-konteksty.md) \(RESTRICTED\_SYSS\_TIP или PERMITED\_SYSS\_TIP\);
-* [Через временную таблицу](cherez-vremennuyu-tablicu-tms_syss_unlock.md) \(tms\_syss\_unlock\);
+* [Через контексты](cherez-konteksty.md) \(`RESTRICTED_SYSS_TIP` или `PERMITED_SYSS_TIP`\);
+* [Через временную таблицу](cherez-vremennuyu-tablicu-tms_syss_unlock.md) \(`tms_syss_unlock`\);
 
 На просмотр и редактирование:
 
-* [Через временную таблицу](cherez-vremennuyu-tablicu-tms_syss_sel_unlock.md) \(TMS\_SYSS\_SEL\_UNLOCK\).
+* [Через временную таблицу](cherez-vremennuyu-tablicu-tms_syss_sel_unlock.md) \(`TMS_SYSS_SEL_UNLOCK`\).
 

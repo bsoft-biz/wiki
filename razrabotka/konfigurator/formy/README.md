@@ -8,20 +8,20 @@
 
 Доступные формы отображаются в меню Forme приложения Universal Accounting.
 
-`Объекты типа Формы определяет стандартные набор настроек, свойств.`
+Объекты типа Формы определяет стандартные набор настроек, свойств.
 
 | **Название свойства** | **Тип** | **Описание** | **Значение для примера** |
 | :--- | :---: | :--- | :--- |
 |  |  | **Основные свойства:** |  |
-| Active | Boolean | Если значение False, объект игнорируется | true |
+| Active | Boolean | Если значение `False`, объект игнорируется | `true` |
 | Caption | String | Подпись формы | UniForm \(универсальная форма\) |
 | DLL ID | Integer | Идентификационный номер DLL | 8101 |
 | DLL FormName | String | Идентификатор формы в DLL \(определяет тип формы\) | FSal1p01 |
 |  |  | **Дополнительные свойства:** |  |
-| HideActions | Boolean | Скрывает кнопку Action на тулбаре форм | true |
-| HidePrinter | Boolean | Скрывает кнопку Printer на тулбаре форм | true |
-| HideTitluri | Boolean | Скрывает кнопку Titluri на тулбаре форм | true |
-| RefreshOnActivate | Boolean | Обновление формы | true |
+| HideActions | Boolean | Скрывает кнопку Action на тулбаре форм | **true** |
+| HidePrinter | Boolean | Скрывает кнопку Printer на тулбаре форм | **true** |
+| HideTitluri | Boolean | Скрывает кнопку Titluri на тулбаре форм | **true** |
+| RefreshOnActivate | Boolean | Обновление формы | **true** |
 | SQL\_Refresh | Memo |  |  |
 | XSQL\_Refresh | Memo |  |  |
 

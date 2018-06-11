@@ -22,11 +22,11 @@ Section: UNIVLIST : P : TRADE
 
 | **Имя свойства** | **Тип** | **Описание** | **Значение для примера** |
 | :--- | :---: | :--- | :--- |
-| Active | Boolean |  | true |
+| Active | Boolean |  | `true` |
 | Caption | String |  | Справочник для торговли |
 | Gr1 | String |  | TVR |
 | ID | String |  | Trade |
-| SagiEditQuery | Boolean |  | true |
+| SagiEditQuery | Boolean |  | `true` |
 
 Чтобы справочник выпадал в UNA по Alt+D
 

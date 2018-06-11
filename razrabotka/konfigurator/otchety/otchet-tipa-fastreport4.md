@@ -18,12 +18,12 @@
 
 | **Имя свойства** | **Тип** | **Описание** | **Значение для примера** |
 | :--- | :---: | :--- | :--- |
-| Admin | Boolean | Если значение True, выводит Админ. панель в окне параметров для доступа к конструктору формы параметров | false |
+| Admin | Boolean | Если значение `True`, выводит Админ. панель в окне параметров для доступа к конструктору формы параметров | `false` |
 | DLL ID | Integer | Идентификационный номер DLL | 9002 |
 | DateCaption | String |  |  |
 | DetailSort | String | Порядок сортировки |  |
 | DetailTempl | String | Порядок полей |  |
-| DontEditReport | Boolean |  | true |
+| DontEditReport | Boolean |  | `true` |
 | Excel | Boolean | Если не пусто кнопка Excel нажата |  |
 | FieldsHeader | Memo | Описание шапки | `0,an,"С",S,DataStart 0,an,"По",S,DataEnd 0,an,"Mag",S,Filt1` |
 | FieldsMaster | Memo | Описание мастера | `0,an,"Дата док",S,DATA,row,"" 0,an,"№ док",S,NRDOC_MAN,row,"" 0,an,"cod Поставщик",,DTDEP,,"" 0,ref,"Поставщик",S,DENUMIREA, row,DTDEP,U,"DENUMIREA" 0,an,"Cont",,DT,,"" 0,an,"Suma",S,SUMA,data,"" 0,an,"Tip",S,TIP,column,""` |
@@ -45,7 +45,7 @@
 | SQLMastA | String | Только если тип дальн обр |  |
 | SQLMastB | String | Только если тип дальн обр |  |
 | SQLMaster | Memo | Запрос, возвращающий данные в область Master \(область данных главной таблицы\) отчета | 1 |
-| SingleDate | Boolean | Использование одиночной даты | false |
+| SingleDate | Boolean | Использование одиночной даты | `false` |
 | Template | String | Шаблон | log\_cash\_inc\_ot.fr3 |
 | Tip | String | Тип отчета: Мастер - детайл или мастер | 1 |
 | TipDetail | String | Тип отчета: Detail | 0 |

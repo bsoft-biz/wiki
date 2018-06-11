@@ -4,7 +4,7 @@
 
 | **Название свойства** | **Тип** | **Описание** | **Значение для примера** |
 | :--- | :---: | :--- | :--- |
-| ImportFileName | S | Импорт данных их текстового файла | C:\Program Files\Multdrop\Recv\data.txt |
+| ImportFileName | String | Импорт данных их текстового файла | C:\Program Files\Multdrop\Recv\data.txt |
 
 В левом гриде используется таблица UN9BCOD\_DATA1, в правом верхнем - UN9BCOD\_DATA2, в правом нижнем - UN9BCOD\_DATA3.
 
