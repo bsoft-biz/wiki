@@ -1,6 +1,6 @@
 # Гриды
 
-[Параметры выпадающих справочников Alt+D](https://wiki.bsoft.biz/razrabotka/obekty-una/gridy/parametry-vypadayushikh-spravochnikov)
+[Параметры выпадающих справочников Alt+D](parametry-vypadayushikh-spravochnikov.md)
 
 [Цвета](cveta/)
 
