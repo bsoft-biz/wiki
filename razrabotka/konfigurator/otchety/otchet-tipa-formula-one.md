@@ -3,7 +3,7 @@
 | **Имя свойства** | **Тип** | **Описание** | **Значение для примера** |
 | :--- | :---: | :--- | :--- |
 |  |  | **Общая** |  |
-| Admin | Boolean | Если значение True, выводит Админ. панель в окне параметров для доступа к конструктору формы параметров | false |
+| Admin | Boolean | Если значение `True`, выводит Админ. панель в окне параметров для доступа к конструктору формы параметров | `false` |
 | DLL ID | Integer | Идентификационный номер DLL | 9002 |
 | DateCaption | String | Заголовок даты |  |
 | Excel | Boolean | Если не пусто, кнопка Excel нажата |  |
@@ -25,17 +25,17 @@
 | ReportType | String | Тип отчета | 0 |
 | RseActiv | String | Если не пусто, то можно настраивать поля |  |
 | SQLAllinOne | Memo | Анонимный блок на PL/SQL | `BEGIN pkg_income_reps.income_rp                                   (:SQLHeader, :SQLMaster, :datastart, :dataend); END;` |
-| SingleDate | Boolean | Использование одиночной даты | false |
-| TXTFixedPreview | Boolean | Автоматически выводит отчет и в текстовом формате наряду с основным \(Formula One Excel\) | false |
-| TXT\_AutoCloseF1 | Boolean | Выводит отчет только в текстовом формате | true |
-| TXT\_AutoCloseTXT | Boolean | Автоматически закрывает окно отчета в текстовом формате | false |
-| TXT\_AutoPrint | Boolean | Автоматически запускает печать отчета в текстовом формате | false |
+| SingleDate | Boolean | Использование одиночной даты | `false` |
+| TXTFixedPreview | Boolean | Автоматически выводит отчет и в текстовом формате наряду с основным \(Formula One Excel\) | `false` |
+| TXT\_AutoCloseF1 | Boolean | Выводит отчет только в текстовом формате | `true` |
+| TXT\_AutoCloseTXT | Boolean | Автоматически закрывает окно отчета в текстовом формате | `false` |
+| TXT\_AutoPrint | Boolean | Автоматически запускает печать отчета в текстовом формате | `false` |
 | TXT\_HorzSize | String | Устанавливает число строк одной страницы текстового отчета | 300 |
 | TXT\_PrinterID | String | Номер принтера в списке \(0 означает "принтер по умолчанию"\) | 0 |
-| TXT\_Rulon | Boolean | Использует рулон для печати текстового отчета, не разбивая отчет | true |
+| TXT\_Rulon | Boolean | Использует рулон для печати текстового отчета, не разбивая отчет | `true` |
 | TXT\_SheetNum | Integer | Номер листа рабочей книги, содержащий требуемые данные | 1 |
 | TXT\_ShowBorders | String | Устанавливает режим вывода границ ячеек исходного шаблона в текстовом отчете: 0 - не отображает границы 1 - отображает все границы, за исключением точечных 2 - отображает все границы | 1 |
-| TXT\_ShowGrands | Boolean | Вычисление постраничных итогов | false |
+| TXT\_ShowGrands | Boolean | Вычисление постраничных итогов | `false` |
 | TXT\_VertSize | String | Устанавливает число столбцов одной страницы текстового отчета | 60 |
 | Template | String | Шаблон | perev\_income.vts |
 | Tip | String | Тип отчета: Мастер - детайл или мастер | 0 |
@@ -92,8 +92,8 @@
 |  |  | **8** |  |
 | DetailSort | String | Порядок сортировки |  |
 | DetailTempl | String | Порядок полей |  |
-| FieldsHeader | Memo | Описание шапки | `0,an,"С",S,DataStart 0,an,"По",S,DataEnd 0,an,"Mag",S,Filt1` |
-| FieldsMaster | Memo | Описание мастера | `0,an,"Дата док",S,DATA,row,"" 0,an,"№ док",S,NRDOC_MAN,row,"" 0,an,"cod Поставщик",,DTDEP,,"" 0,ref,"Поставщик",S,DENUMIREA, row,DTDEP,U,"DENUMIREA" 0,an,"Cont",,DT,,"" 0,an,"Suma",S,SUMA,data,"" 0,an,"Tip",S,TIP,column,""` |
+| FieldsHeader | Memo | Описание шапки | 0,an,"С",S,DataStart 0,an,"По",S,DataEnd 0,an,"Mag",S,Filt1 |
+| FieldsMaster | Memo | Описание мастера | 0,an,"Дата док",S,DATA,row,"" 0,an,"№ док",S,NRDOC\_MAN,row,"" 0,an,"cod Поставщик",,DTDEP,,"" 0,ref,"Поставщик",S,DENUMIREA, row,DTDEP,U,"DENUMIREA" 0,an,"Cont",,DT,,"" 0,an,"Suma",S,SUMA,data,"" 0,an,"Tip",S,TIP,column,"" |
 | FieldsDetail | Memo | Описание детайла |  |
 | HeaderSort | String | Порядок сортировки |  |
 | HeaderTempl | String | Порядок полей |  |
