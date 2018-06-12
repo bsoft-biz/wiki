@@ -1,7 +1,6 @@
 # Логирование используется для docs и univers \(un$xlog\)
 
-  
-un$xlog - Пакет содержит процедуру логирования.
+`un$xlog` - Пакет содержит процедуру логирования.
 
 ```sql
 procedure inlog (inobj varchar2,inprop varchar2,inevent varchar2,icoment varchar2:='',
@@ -46,7 +45,7 @@ module     varchar2(48 byte) default sys_context('userenv','module',48)
 )
 ```
 
- Триггер на tms\_univers для логирования изменений.
+ Триггер на `tms_univers` для логирования изменений.
 
 ```sql
 create or replace trigger xtriglogunivers 
@@ -65,7 +64,7 @@ null;
 end;
 ```
 
- Триггер на tmdb\_docs для логирования изменений.
+ Триггер на `tmdb_docs` для логирования изменений.
 
 ```sql
 create or replace trigger xtriglogdocs 

@@ -1,6 +1,6 @@
 # Вьюхи и запросы
 
-[Контексты сессии](konteksty-sessii.md) \(в UNA\) - SESSION\_CONTEXT
+[Контексты сессии](konteksty-sessii.md) \(в UNA\) - `SESSION_CONTEXT`
 
 [Сравнение настроек и контекстов](sravnenie-nastroek-i-kontekstov.md) на разных схемах.
 

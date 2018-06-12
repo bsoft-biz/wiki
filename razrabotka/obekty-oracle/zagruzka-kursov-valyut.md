@@ -1,19 +1,19 @@
 # Загрузка курсов валют
 
   
-**Загрузка курсов валют** - exchange rates \(Valutaloader\)
+**Загрузка курсов валют** - exchange rates \(`Valutaloader`\)
 
-Пакет Valutaloader позволяет загружать курсы с сайта банков в двух форматах:
+Пакет `Valutaloader` позволяет загружать курсы с сайта банков в двух форматах:
 
-- xml - функция load
+- xml - функция `load`
 
-- csv - функция load\_from\_csv
+- csv - функция `load_from_csv`
 
 При этом структура xml и csv файлов может отличаться от обрабатываемой в процедуре. Нужно будет настраивать процедуру под опр. структуру файла.
 
 Обе функции загружают курсы за один день.Могут быть случаи, когда банк возвращает курс за предыдущую дату, тогда функция добавит эти данные в ту дату, на которую была вызвана.
 
-Для загрузки за период в пакете есть функция LOADING\_PERIOD
+Для загрузки за период в пакете есть функция `LOADING_PERIOD`
 
 Параметр tip этой функции определяет каким методом будет идти загрузка.
 
@@ -25,21 +25,21 @@
 
 -- задается адрес сервера и порт, куда идет подключение \(localhost:465\)
 
-EXECUTE DBMS\_NETWORK\_ACL\_ADMIN.CREATE\_ACL\('acl\_for\_get\_curs.xml', 'ACL for getting curs', 'DEV', TRUE, 'connect'\);
+`EXECUTE DBMS_NETWORK_ACL_ADMIN.CREATE_ACL('acl_for_get_curs.xml', 'ACL for getting curs', 'DEV', TRUE, 'connect');`
 
 -- Добавляем еще привилегии в существующий ACL \(например, чтобы дать нескольким схемам права\)
 
-EXECUTE DBMS\_NETWORK\_ACL\_ADMIN.ADD\_PRIVILEGE\('acl\_for\_get\_curs.xml', 'BOX', TRUE, 'connect'\);
+`EXECUTE DBMS_NETWORK_ACL_ADMIN.ADD_PRIVILEGE('acl_for_get_curs.xml', 'BOX', TRUE, 'connect');`
 
 -- допускается добавление нескольких хостов в один acl
 
-EXECUTE DBMS\_NETWORK\_ACL\_ADMIN.ASSIGN\_ACL\('acl\_for\_get\_curs.xml', '\*.cbpmr.net'\);
+`EXECUTE DBMS_NETWORK_ACL_ADMIN.ASSIGN_ACL('acl_for_get_curs.xml', '*.cbpmr.net');`
 
 -- проверка, что только что созданный список появился в БД
 
-SELECT host, lower\_port, upper\_port, acl FROM dba\_network\_acls
+`SELECT host, lower_port, upper_port, acl FROM dba_network_acls`
 
 -- просмотр списка пользователей, добавленных в список
 
-select acl, principal, privilege, is\_grant, invert from dba\_network\_acl\_privileges
+`select acl, principal, privilege, is_grant, invert from dba_network_acl_privileges`
 

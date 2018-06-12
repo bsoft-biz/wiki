@@ -8,11 +8,11 @@ nrset \(УФО и филиалы\)
 
 \*strgrp\*.
 
-В таблице TMS\_STRGRPM указывается id и имя класса. Для nrset id=-1. Таблица класов.
+В таблице `TMS_STRGRPM` указывается id и имя класса. Для nrset id=-1. Таблица класов.
 
-В таблице TMS\_STRGRPMARRMF указывается уровень\(id\_level\), категория класса\(listname\), маска\(smask\), длина маски и тип \(kind=U для id\_level=1 kind=C для id\_level=2\) - поле обязательно должно быть заполнено \(U - для УФО С - для филиала\). \(при этом в поле id\_m задается id класса\). Описывает из каких справочников состоит этот клас.
+В таблице `TMS_STRGRPMARRMF` указывается уровень\(id\_level\), категория класса\(listname\), маска\(smask\), длина маски и тип \(kind=U для id\_level=1 kind=C для id\_level=2\) - поле обязательно должно быть заполнено \(U - для УФО С - для филиала\). \(при этом в поле id\_m задается id класса\). Описывает из каких справочников состоит этот клас.
 
-В таблице TMS\_STRGRPL указываются позиции для каждой категории, при этом в поле id\_m задается id класса, id\_level - уровень. Позиции самого справочника.
+В таблице `TMS_STRGRPL` указываются позиции для каждой категории, при этом в поле id\_m задается id класса, id\_level - уровень. Позиции самого справочника.
 
 Свойства конфигуратора для настройки nrset:
 
@@ -72,11 +72,11 @@ BG\_FILTER\_SECTION=1
 
 Для вставки свойства в администратор скопируйте в буфер обмена следующий текст:
 
-\[ZZZ\]
-
-BG\_FILTER\_SECTION=1
-
-.type.BG\_FILTER\_SECTION=String
+```sql
+[ZZZ]
+BG_FILTER_SECTION=1
+.type.BG_FILTER_SECTION=String
+```
 
 После этого достаточно обновить конфигурацию в запущенной программе Universal Accounting SL, и в главном окне программы на панели инструментов появится кнопка "Sub SET". Эта кнопка открывает окно установки фильтра:
 
@@ -102,13 +102,12 @@ Good/un4setup/nrset.html
 
 При следующей ошибке
 
+```sql
 Error setting policy level:
-
 ORA-20000: Access denied to this level of policy!
-
-ORA-06512: íà "AUROMEX.BG\_POLICY", line 195
-
+ORA-06512: íà "AUROMEX.BG_POLICY", line 195
 ORA-06512: íà line 1
+```
 
 Нужно посмотреть InitSQL. В нем должна быть строка :res := 1;
 
@@ -118,13 +117,13 @@ ORA-06512: íà line 1
 
 Для работы фильтра нужны следующие компоненты БД:
 
-* **package** UN4PUBLIC.UN$DIV
-* **context** UN$DIV \(создается командой UN$DIV.InitObjects\(\) от имени UN4PUBLIC\)
-* **table** TMS\_UNIV\_DIV
-* **trigger** TMDB\_CM\_TRDIV
-* **trigger** TMDB\_DOCS\_TRDIV
-* **trigger** TMS\_UNIVERS\_TRDIV
-* набор **policies** \(создается командой UN$DIV.InitPolicies\(\) от имени рабочей схемы\)
+* **package** `UN4PUBLIC.UN$DIV`
+* **context** `UN$DIV` \(создается командой `UN$DIV.InitObjects()` от имени `UN4PUBLIC`\)
+* **table** `TMS_UNIV_DIV`
+* **trigger** `TMDB_CM_TRDIV`
+* **trigger** `TMDB_DOCS_TRDIV`
+* **trigger** `TMS_UNIVERS_TRDIV`
+* набор **policies** \(создается командой `UN$DIV.InitPolicies()` от имени рабочей схемы\)
 
 Алгоритм предусматривает фильтрацию журнала документов и проводок, а также трех разделов универсального справочника: «Подразделения» \(O,I\), «Сотрудники» \(O,R\) и «Основные средства» \(F\).
 
@@ -143,14 +142,14 @@ ORA-06512: íà line 1
 | **Имя свойства** | **Тип** | **Описание** | **Значение для примера** |
 | :--- | :---: | :--- | :--- |
 |  |  | **Управление значением фильтра по филиалам** |  |
-| DivVisible | Boolean | Включает видимость контрола, при помощи которого можно изменять значение фильтра | false |
+| DivVisible | Boolean | Включает видимость контрола, при помощи которого можно изменять значение фильтра | `false` |
 | DivDefault | String | Начальное значение фильтра – список кодов филиалов |  |
 | DivCurrent | Integer | Начальное значение кода текущего филиала |  |
 |  |  | **Управление признаками фильтрации разделов универсального справочника** |  |
-| DivVisibleOR | Boolean | Включает видимость контрола | false |
-| DivDefaultOR | Boolean | Начальное значение признака | false |
-| DivVisibleOI | Boolean | Включает видимость контрола | false |
-| DivDefaultOI | Boolean | Начальное значение признака | false |
-| DivVisibleF | Boolean | Включает видимость контрола | false |
-| DivDefaultF | Boolean | Начальное значение признака | false |
+| DivVisibleOR | Boolean | Включает видимость контрола | `false` |
+| DivDefaultOR | Boolean | Начальное значение признака | `false` |
+| DivVisibleOI | Boolean | Включает видимость контрола | `false` |
+| DivDefaultOI | Boolean | Начальное значение признака | `false` |
+| DivVisibleF | Boolean | Включает видимость контрола | `false` |
+| DivDefaultF | Boolean | Начальное значение признака | `false` |
 

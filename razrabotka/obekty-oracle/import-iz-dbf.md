@@ -23,11 +23,11 @@
 
 2. В Toad создаем директорию
 
-Например:  create or replace directory LAB\_DBF as '/var/un4/lab\_dbf';
+Например:  `create or replace directory LAB_DBF as '/var/un4/lab_dbf';`
 
 3. В Toad под sys даем grant на директорию
 
-Например:  grant read, write on directory LAB\_DBF to схема;
+Например:  `grant read, write on directory LAB_DBF to схема;`
 
 4. Добавляем экшен "Загрузить из dbf" в документ или форму.
 

@@ -42,5 +42,5 @@ CREATE OR REPLACE PUBLIC SYNONYM VMS_AV_RUTA for gara.t0ruta;
 
 Если не строится отчет в F1 \(например Raport zilnic\) надо зайти в BDE Administrator -&gt; Drivers -&gt; Native-&gt; Oracle-&gt; DLL32 выставить -&gt; SQLORA8.DLL сохранить, перезапустить дисптечер и все пойдет.
 
-В таблице t0casagroups задается список с каких вокзалов каждый вокзал может реализовывать билеты.
+В таблице `t0casagroups` задается список с каких вокзалов каждый вокзал может реализовывать билеты.
 
